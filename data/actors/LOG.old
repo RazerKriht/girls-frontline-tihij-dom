@@ -1,29 +1,3 @@
-2024/09/07-14:29:33.233 21d0 Recovering log #852
-2024/09/07-14:29:33.234 21d0 Level-0 table #856: started
-2024/09/07-14:29:33.236 21d0 Level-0 table #856: 49416 bytes OK
-2024/09/07-14:29:33.238 21d0 Delete type=0 #852
-2024/09/07-14:29:33.238 21d0 Delete type=3 #850
-2024/09/07-14:29:51.179 26e4 Moved #856 to level-1 49416 bytes OK: files[ 0 1 4 0 0 0 0 ]
-2024/09/07-14:29:51.182 26e4 Compacting 1@1 + 4@2 files
-2024/09/07-14:29:51.227 26e4 Generated table #858@1: 3293 keys, 2128671 bytes
-2024/09/07-14:29:51.279 26e4 Generated table #859@1: 3976 keys, 2129518 bytes
-2024/09/07-14:29:51.320 26e4 Generated table #860@1: 3530 keys, 1625462 bytes
-2024/09/07-14:29:51.320 26e4 Compacted 1@1 + 4@2 files => 5883651 bytes
-2024/09/07-14:29:51.322 26e4 compacted to: files[ 0 0 3 0 0 0 0 ]
-2024/09/07-14:29:51.322 26e4 Delete type=2 #836
-2024/09/07-14:29:51.322 26e4 Delete type=2 #844
-2024/09/07-14:29:51.322 26e4 Delete type=2 #853
-2024/09/07-14:29:51.323 26e4 Delete type=2 #854
-2024/09/07-14:29:51.323 26e4 Delete type=2 #856
-2024/09/07-14:35:16.118 26e4 Level-0 table #862: started
-2024/09/07-14:35:16.121 26e4 Level-0 table #862: 58384 bytes OK
-2024/09/07-14:35:16.122 26e4 Delete type=0 #857
-2024/09/07-14:35:16.123 26e4 Manual compaction at level-0 from '!actors!0RMprW2cqScla9UT' @ 72057594037927935 : 1 .. '!actors.items.effects!y5fNix6HNVq6bQXy.roH8H4RdlEdAzBZj.WtdgeCRYXV3Mslji' @ 0 : 0; will stop at (end)
-2024/09/07-14:35:16.126 26e4 Manual compaction at level-1 from '!actors!0RMprW2cqScla9UT' @ 72057594037927935 : 1 .. '!actors.items.effects!y5fNix6HNVq6bQXy.roH8H4RdlEdAzBZj.WtdgeCRYXV3Mslji' @ 0 : 0; will stop at '!actors.items!6pz0UJ3WtiEvsRW5.fuqfssFnvVj7FzXV' @ 114831 : 1
-2024/09/07-14:35:16.126 26e4 Compacting 1@1 + 1@2 files
-2024/09/07-14:35:16.172 26e4 Generated table #863@1: 3293 keys, 2128685 bytes
-2024/09/07-14:35:16.172 26e4 Compacted 1@1 + 1@2 files => 2128685 bytes
-2024/09/07-14:35:16.173 26e4 compacted to: files[ 0 0 3 0 0 0 0 ]
-2024/09/07-14:35:16.173 26e4 Delete type=2 #858
-2024/09/07-14:35:16.173 26e4 Delete type=2 #862
-2024/09/07-14:35:16.177 26e4 Manual compaction at level-1 from '!actors.items!6pz0UJ3WtiEvsRW5.fuqfssFnvVj7FzXV' @ 114831 : 1 .. '!actors.items.effects!y5fNix6HNVq6bQXy.roH8H4RdlEdAzBZj.WtdgeCRYXV3Mslji' @ 0 : 0; will stop at (end)
+2024/09/18-19:43:05.853 1ad8 Recovering log #861
+2024/09/18-19:43:05.859 1ad8 Delete type=0 #861
+2024/09/18-19:43:05.859 1ad8 Delete type=3 #855
