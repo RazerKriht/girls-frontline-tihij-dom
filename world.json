@@ -1,0 +1,54 @@
+{
+  "title": "Girls Frontline - Тихий Дом",
+  "id": "girls-frontline-tihij-dom",
+  "system": "cyberpunk-red-core",
+  "joinTheme": "default",
+  "coreVersion": "11.315",
+  "compatibility": {
+    "minimum": "11",
+    "verified": "11"
+  },
+  "systemVersion": "v0.88.2",
+  "lastPlayed": "Wed Sep 18 2024 19:43:06 GMT+0300 (Москва, стандартное время)",
+  "playtime": 68468,
+  "background": "i.webp",
+  "packs": [
+    {
+      "label": "Батлмапы",
+      "type": "Scene",
+      "name": "batlmapy",
+      "path": "packs/batlmapy",
+      "system": "cyberpunk-red-core",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
+    },
+    {
+      "label": "Мои Макросы",
+      "type": "Macro",
+      "name": "moi-makrosy",
+      "path": "packs/moi-makrosy",
+      "system": "cyberpunk-red-core",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
+    },
+    {
+      "label": "Противники",
+      "type": "Actor",
+      "name": "protivniki",
+      "path": "packs/protivniki",
+      "system": "cyberpunk-red-core",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
+    }
+  ],
+  "nextSession": "2024-09-05T16:00:00.000Z"
+}
