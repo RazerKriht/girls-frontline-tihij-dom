@@ -1,18 +1,17 @@
-2024/09/20-23:13:15.107 23f8 Recovering log #1013
-2024/09/20-23:13:15.110 23f8 Level-0 table #1016: started
-2024/09/20-23:13:15.120 23f8 Level-0 table #1016: 428062 bytes OK
-2024/09/20-23:13:15.125 23f8 Delete type=0 #1013
-2024/09/20-23:13:15.125 23f8 Delete type=3 #1006
-2024/09/20-23:13:23.493 49c Compacting 2@0 + 4@1 files
-2024/09/20-23:13:23.581 49c Generated table #1018@0: 2970 keys, 2125986 bytes
-2024/09/20-23:13:23.667 49c Generated table #1019@0: 3969 keys, 2131593 bytes
-2024/09/20-23:13:23.750 49c Generated table #1020@0: 4034 keys, 2130391 bytes
-2024/09/20-23:13:23.782 49c Generated table #1021@0: 2111 keys, 819364 bytes
-2024/09/20-23:13:23.782 49c Compacted 2@0 + 4@1 files => 7207334 bytes
-2024/09/20-23:13:23.784 49c compacted to: files[ 0 4 0 0 0 0 0 ]
-2024/09/20-23:13:23.784 49c Delete type=2 #1009
-2024/09/20-23:13:23.785 49c Delete type=2 #1010
-2024/09/20-23:13:23.786 49c Delete type=2 #1011
-2024/09/20-23:13:23.787 49c Delete type=2 #1012
-2024/09/20-23:13:23.787 49c Delete type=2 #1014
-2024/09/20-23:13:23.788 49c Delete type=2 #1016
+2024/09/20-23:24:44.399 1ae8 Recovering log #1017
+2024/09/20-23:24:44.405 1ae8 Level-0 table #1023: started
+2024/09/20-23:24:44.430 1ae8 Level-0 table #1023: 802187 bytes OK
+2024/09/20-23:24:44.434 1ae8 Delete type=0 #1017
+2024/09/20-23:24:44.434 1ae8 Delete type=3 #1015
+2024/09/20-23:24:51.218 ac4 Compacting 1@0 + 4@1 files
+2024/09/20-23:24:51.292 ac4 Generated table #1025@0: 2966 keys, 2125185 bytes
+2024/09/20-23:24:51.380 ac4 Generated table #1026@0: 3982 keys, 2132002 bytes
+2024/09/20-23:24:51.453 ac4 Generated table #1027@0: 4100 keys, 2130803 bytes
+2024/09/20-23:24:51.489 ac4 Generated table #1028@0: 2044 keys, 820936 bytes
+2024/09/20-23:24:51.489 ac4 Compacted 1@0 + 4@1 files => 7208926 bytes
+2024/09/20-23:24:51.490 ac4 compacted to: files[ 0 4 0 0 0 0 0 ]
+2024/09/20-23:24:51.491 ac4 Delete type=2 #1018
+2024/09/20-23:24:51.491 ac4 Delete type=2 #1019
+2024/09/20-23:24:51.492 ac4 Delete type=2 #1020
+2024/09/20-23:24:51.492 ac4 Delete type=2 #1021
+2024/09/20-23:24:51.493 ac4 Delete type=2 #1023
