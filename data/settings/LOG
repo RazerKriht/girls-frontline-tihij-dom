@@ -1,5 +1,5 @@
-2024/09/20-13:20:47.112 14a4 Recovering log #669
-2024/09/20-13:20:47.112 14a4 Level-0 table #672: started
-2024/09/20-13:20:47.114 14a4 Level-0 table #672: 1822 bytes OK
-2024/09/20-13:20:47.117 14a4 Delete type=0 #669
-2024/09/20-13:20:47.117 14a4 Delete type=3 #667
+2024/09/20-18:48:31.947 10ec Recovering log #680
+2024/09/20-18:48:31.948 10ec Level-0 table #682: started
+2024/09/20-18:48:31.950 10ec Level-0 table #682: 1822 bytes OK
+2024/09/20-18:48:31.955 10ec Delete type=0 #680
+2024/09/20-18:48:31.955 10ec Delete type=3 #678
