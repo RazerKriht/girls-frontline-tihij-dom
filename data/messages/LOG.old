@@ -1,5 +1,5 @@
-2024/09/22-13:07:40.117 5ec Recovering log #571
-2024/09/22-13:07:40.117 5ec Level-0 table #573: started
-2024/09/22-13:07:40.120 5ec Level-0 table #573: 13168 bytes OK
-2024/09/22-13:07:40.125 5ec Delete type=0 #571
-2024/09/22-13:07:40.125 5ec Delete type=3 #569
+2024/09/22-16:11:45.259 fc0 Recovering log #576
+2024/09/22-16:11:45.259 fc0 Level-0 table #578: started
+2024/09/22-16:11:45.261 fc0 Level-0 table #578: 14350 bytes OK
+2024/09/22-16:11:45.266 fc0 Delete type=0 #576
+2024/09/22-16:11:45.266 fc0 Delete type=3 #575
