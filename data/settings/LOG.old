@@ -1,5 +1,5 @@
-2024/09/22-20:45:08.953 17f8 Recovering log #725
-2024/09/22-20:45:08.953 17f8 Level-0 table #728: started
-2024/09/22-20:45:08.955 17f8 Level-0 table #728: 1822 bytes OK
-2024/09/22-20:45:08.959 17f8 Delete type=0 #725
-2024/09/22-20:45:08.960 17f8 Delete type=3 #723
+2024/09/23-19:52:04.936 27dc Recovering log #738
+2024/09/23-19:52:04.936 27dc Level-0 table #741: started
+2024/09/23-19:52:04.939 27dc Level-0 table #741: 1822 bytes OK
+2024/09/23-19:52:04.943 27dc Delete type=0 #738
+2024/09/23-19:52:04.944 27dc Delete type=3 #736
