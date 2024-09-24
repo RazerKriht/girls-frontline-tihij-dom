@@ -1,19 +1,19 @@
-2024/09/24-15:17:42.692 1d0c Recovering log #1234
-2024/09/24-15:17:42.693 1d0c Level-0 table #1241: started
-2024/09/24-15:17:42.702 1d0c Level-0 table #1241: 307846 bytes OK
-2024/09/24-15:17:42.707 1d0c Delete type=0 #1234
-2024/09/24-15:17:42.707 1d0c Delete type=3 #1232
-2024/09/24-15:17:50.629 14ac Compacting 1@0 + 5@1 files
-2024/09/24-15:17:50.734 14ac Generated table #1243@0: 2776 keys, 2124705 bytes
-2024/09/24-15:17:50.825 14ac Generated table #1244@0: 3968 keys, 2129785 bytes
-2024/09/24-15:17:50.899 14ac Generated table #1245@0: 3940 keys, 2129729 bytes
-2024/09/24-15:17:50.973 14ac Generated table #1246@0: 4153 keys, 2131803 bytes
-2024/09/24-15:17:50.980 14ac Generated table #1247@0: 619 keys, 145262 bytes
-2024/09/24-15:17:50.980 14ac Compacted 1@0 + 5@1 files => 8661284 bytes
-2024/09/24-15:17:50.981 14ac compacted to: files[ 0 5 0 0 0 0 0 ]
-2024/09/24-15:17:50.981 14ac Delete type=2 #1235
-2024/09/24-15:17:50.982 14ac Delete type=2 #1236
-2024/09/24-15:17:50.982 14ac Delete type=2 #1237
-2024/09/24-15:17:50.983 14ac Delete type=2 #1238
-2024/09/24-15:17:50.984 14ac Delete type=2 #1239
-2024/09/24-15:17:50.984 14ac Delete type=2 #1241
+2024/09/24-16:46:18.205 1ce8 Recovering log #1250
+2024/09/24-16:46:18.207 1ce8 Level-0 table #1257: started
+2024/09/24-16:46:18.215 1ce8 Level-0 table #1257: 234011 bytes OK
+2024/09/24-16:46:18.220 1ce8 Delete type=0 #1250
+2024/09/24-16:46:18.220 1ce8 Delete type=3 #1248
+2024/09/24-16:46:26.478 6f4 Compacting 1@0 + 5@1 files
+2024/09/24-16:46:26.553 6f4 Generated table #1259@0: 2757 keys, 2124686 bytes
+2024/09/24-16:46:26.631 6f4 Generated table #1260@0: 3972 keys, 2130538 bytes
+2024/09/24-16:46:26.699 6f4 Generated table #1261@0: 3960 keys, 2129669 bytes
+2024/09/24-16:46:26.773 6f4 Generated table #1262@0: 4015 keys, 2131608 bytes
+2024/09/24-16:46:26.785 6f4 Generated table #1263@0: 966 keys, 264967 bytes
+2024/09/24-16:46:26.785 6f4 Compacted 1@0 + 5@1 files => 8781468 bytes
+2024/09/24-16:46:26.786 6f4 compacted to: files[ 0 5 0 0 0 0 0 ]
+2024/09/24-16:46:26.786 6f4 Delete type=2 #1251
+2024/09/24-16:46:26.787 6f4 Delete type=2 #1252
+2024/09/24-16:46:26.787 6f4 Delete type=2 #1253
+2024/09/24-16:46:26.787 6f4 Delete type=2 #1254
+2024/09/24-16:46:26.788 6f4 Delete type=2 #1255
+2024/09/24-16:46:26.788 6f4 Delete type=2 #1257
