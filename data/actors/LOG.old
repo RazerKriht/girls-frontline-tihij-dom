@@ -1,3 +1,17 @@
-2024/09/25-16:09:33.397 cd8 Recovering log #1341
-2024/09/25-16:09:33.406 cd8 Delete type=0 #1341
-2024/09/25-16:09:33.406 cd8 Delete type=3 #1340
+2024/09/26-12:09:14.519 1574 Recovering log #1346
+2024/09/26-12:09:14.525 1574 Level-0 table #1350: started
+2024/09/26-12:09:14.535 1574 Level-0 table #1350: 458369 bytes OK
+2024/09/26-12:09:14.540 1574 Delete type=0 #1346
+2024/09/26-12:09:14.541 1574 Delete type=3 #1344
+2024/09/26-12:09:22.332 1cec Compacting 1@0 + 4@1 files
+2024/09/26-12:09:22.406 1cec Generated table #1352@0: 2771 keys, 2125400 bytes
+2024/09/26-12:09:22.493 1cec Generated table #1353@0: 3987 keys, 2130626 bytes
+2024/09/26-12:09:22.573 1cec Generated table #1354@0: 3924 keys, 2131015 bytes
+2024/09/26-12:09:22.652 1cec Generated table #1355@0: 3886 keys, 2127253 bytes
+2024/09/26-12:09:22.652 1cec Compacted 1@0 + 4@1 files => 8514294 bytes
+2024/09/26-12:09:22.653 1cec compacted to: files[ 0 5 0 0 0 0 0 ]
+2024/09/26-12:09:22.653 1cec Delete type=2 #1331
+2024/09/26-12:09:22.655 1cec Delete type=2 #1332
+2024/09/26-12:09:22.655 1cec Delete type=2 #1347
+2024/09/26-12:09:22.656 1cec Delete type=2 #1348
+2024/09/26-12:09:22.656 1cec Delete type=2 #1350
