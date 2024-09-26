@@ -1,9 +1,6 @@
-2024/09/26-18:36:43.003 1708 Delete type=3 #1
-2024/09/26-20:18:14.643 940 Compacting 3@0 + 0@1 files
-2024/09/26-20:18:14.696 940 Generated table #390@0: 4589 keys, 2130540 bytes
-2024/09/26-20:18:14.708 940 Generated table #391@0: 1528 keys, 511670 bytes
-2024/09/26-20:18:14.708 940 Compacted 3@0 + 0@1 files => 2642210 bytes
-2024/09/26-20:18:14.711 940 compacted to: files[ 0 2 0 0 0 0 0 ]
-2024/09/26-20:18:14.711 940 Delete type=2 #368
-2024/09/26-20:18:14.711 940 Delete type=2 #369
-2024/09/26-20:18:14.712 940 Delete type=2 #383
+2024/09/27-00:18:45.989 1bcc Log #393: 0 ops saved to Table #394 OK
+2024/09/27-00:18:45.989 1bcc Archiving C:\Users\qrurick\AppData\Local\FoundryVTT\Data\worlds\girls-frontline-tihij-dom\packs\protivniki/000393.log: OK
+2024/09/27-00:18:46.005 1bcc Table #390: 4589 entries OK
+2024/09/27-00:18:46.005 1bcc Table #391: 1528 entries OK
+2024/09/27-00:18:46.009 1bcc Archiving C:\Users\qrurick\AppData\Local\FoundryVTT\Data\worlds\girls-frontline-tihij-dom\packs\protivniki/MANIFEST-000392: OK
+2024/09/27-00:18:46.009 1bcc **** Repaired leveldb C:\Users\qrurick\AppData\Local\FoundryVTT\Data\worlds\girls-frontline-tihij-dom\packs\protivniki; recovered 2 files; 2642210 bytes. Some data may have been lost. ****

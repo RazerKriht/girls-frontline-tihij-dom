@@ -1,4 +1,10 @@
-2024/09/26-18:36:42.481 1ef8 Delete type=3 #1
-2024/09/26-18:36:42.482 940 Moved #1370 to level-1 2124035 bytes OK: files[ 5 1 0 0 0 0 0 ]
-2024/09/26-18:36:42.483 940 Moved #1371 to level-1 2130652 bytes OK: files[ 4 2 0 0 0 0 0 ]
-2024/09/26-18:36:42.484 940 Moved #1365 to level-1 2131308 bytes OK: files[ 3 3 0 0 0 0 0 ]
+2024/09/27-00:18:45.187 1bcc Log #1377: 2 ops saved to Table #1383 OK
+2024/09/27-00:18:45.188 1bcc Archiving C:/Users/qrurick/AppData/Local/FoundryVTT/Data/worlds/girls-frontline-tihij-dom/data/actors/001377.log: OK
+2024/09/27-00:18:45.200 1bcc Table #1378: 2738 entries OK
+2024/09/27-00:18:45.219 1bcc Table #1379: 4001 entries OK
+2024/09/27-00:18:45.229 1bcc Table #1380: 3905 entries OK
+2024/09/27-00:18:45.249 1bcc Table #1381: 3900 entries OK
+2024/09/27-00:18:45.249 1bcc Table #1382: 1186 entries OK
+2024/09/27-00:18:45.249 1bcc Table #1383: 2 entries OK
+2024/09/27-00:18:45.259 1bcc Archiving C:/Users/qrurick/AppData/Local/FoundryVTT/Data/worlds/girls-frontline-tihij-dom/data/actors/MANIFEST-001375: OK
+2024/09/27-00:18:45.259 1bcc **** Repaired leveldb C:/Users/qrurick/AppData/Local/FoundryVTT/Data/worlds/girls-frontline-tihij-dom/data/actors; recovered 6 files; 8906614 bytes. Some data may have been lost. ****
