@@ -1,10 +1,21 @@
-2024/09/27-00:18:45.187 1bcc Log #1377: 2 ops saved to Table #1383 OK
-2024/09/27-00:18:45.188 1bcc Archiving C:/Users/qrurick/AppData/Local/FoundryVTT/Data/worlds/girls-frontline-tihij-dom/data/actors/001377.log: OK
-2024/09/27-00:18:45.200 1bcc Table #1378: 2738 entries OK
-2024/09/27-00:18:45.219 1bcc Table #1379: 4001 entries OK
-2024/09/27-00:18:45.229 1bcc Table #1380: 3905 entries OK
-2024/09/27-00:18:45.249 1bcc Table #1381: 3900 entries OK
-2024/09/27-00:18:45.249 1bcc Table #1382: 1186 entries OK
-2024/09/27-00:18:45.249 1bcc Table #1383: 2 entries OK
-2024/09/27-00:18:45.259 1bcc Archiving C:/Users/qrurick/AppData/Local/FoundryVTT/Data/worlds/girls-frontline-tihij-dom/data/actors/MANIFEST-001375: OK
-2024/09/27-00:18:45.259 1bcc **** Repaired leveldb C:/Users/qrurick/AppData/Local/FoundryVTT/Data/worlds/girls-frontline-tihij-dom/data/actors; recovered 6 files; 8906614 bytes. Some data may have been lost. ****
+2024/09/27-13:06:09.375 1654 Recovering log #1412
+2024/09/27-13:06:09.375 1654 Level-0 table #1414: started
+2024/09/27-13:06:09.382 1654 Level-0 table #1414: 176508 bytes OK
+2024/09/27-13:06:09.387 1654 Delete type=0 #1412
+2024/09/27-13:06:09.387 1654 Delete type=3 #1410
+2024/09/27-13:06:16.644 1ca8 Compacting 2@0 + 6@1 files
+2024/09/27-13:06:16.716 1ca8 Generated table #1416@0: 2743 keys, 2125062 bytes
+2024/09/27-13:06:16.801 1ca8 Generated table #1417@0: 3996 keys, 2134378 bytes
+2024/09/27-13:06:16.892 1ca8 Generated table #1418@0: 3918 keys, 2130429 bytes
+2024/09/27-13:06:16.961 1ca8 Generated table #1419@0: 3896 keys, 2130094 bytes
+2024/09/27-13:06:16.977 1ca8 Generated table #1420@0: 1181 keys, 370960 bytes
+2024/09/27-13:06:16.977 1ca8 Compacted 2@0 + 6@1 files => 8890923 bytes
+2024/09/27-13:06:16.978 1ca8 compacted to: files[ 0 5 0 0 0 0 0 ]
+2024/09/27-13:06:16.978 1ca8 Delete type=2 #1394
+2024/09/27-13:06:16.978 1ca8 Delete type=2 #1405
+2024/09/27-13:06:16.979 1ca8 Delete type=2 #1406
+2024/09/27-13:06:16.979 1ca8 Delete type=2 #1407
+2024/09/27-13:06:16.980 1ca8 Delete type=2 #1408
+2024/09/27-13:06:16.980 1ca8 Delete type=2 #1409
+2024/09/27-13:06:16.980 1ca8 Delete type=2 #1411
+2024/09/27-13:06:16.980 1ca8 Delete type=2 #1414
