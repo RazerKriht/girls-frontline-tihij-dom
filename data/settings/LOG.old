@@ -1,9 +1,10 @@
-2024/09/28-18:31:47.712 15cc Log #925: 13 ops saved to Table #926 OK
-2024/09/28-18:31:47.713 15cc Archiving C:/Users/qrurick/AppData/Local/FoundryVTT/Data/worlds/girls-frontline-tihij-dom/data/settings/000925.log: OK
-2024/09/28-18:31:47.713 15cc Table #916: 53 entries OK
-2024/09/28-18:31:47.713 15cc Table #918: 18 entries OK
-2024/09/28-18:31:47.713 15cc Table #921: 2 entries OK
-2024/09/28-18:31:47.713 15cc Table #924: 2 entries OK
-2024/09/28-18:31:47.713 15cc Table #926: 13 entries OK
-2024/09/28-18:31:47.716 15cc Archiving C:/Users/qrurick/AppData/Local/FoundryVTT/Data/worlds/girls-frontline-tihij-dom/data/settings/MANIFEST-000923: OK
-2024/09/28-18:31:47.720 15cc **** Repaired leveldb C:/Users/qrurick/AppData/Local/FoundryVTT/Data/worlds/girls-frontline-tihij-dom/data/settings; recovered 5 files; 64093 bytes. Some data may have been lost. ****
+2024/09/28-18:31:47.728 15cc Delete type=3 #1
+2024/09/28-18:31:47.728 7f4 Compacting 5@0 + 0@1 files
+2024/09/28-18:31:47.731 7f4 Generated table #929@0: 53 keys, 27311 bytes
+2024/09/28-18:31:47.731 7f4 Compacted 5@0 + 0@1 files => 27311 bytes
+2024/09/28-18:31:47.733 7f4 compacted to: files[ 0 1 0 0 0 0 0 ]
+2024/09/28-18:31:47.734 7f4 Delete type=2 #916
+2024/09/28-18:31:47.734 7f4 Delete type=2 #918
+2024/09/28-18:31:47.734 7f4 Delete type=2 #921
+2024/09/28-18:31:47.734 7f4 Delete type=2 #924
+2024/09/28-18:31:47.735 7f4 Delete type=2 #926
