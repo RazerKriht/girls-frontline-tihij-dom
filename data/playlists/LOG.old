@@ -1,9 +1,7 @@
-2024/09/28-09:19:52.871 21ec Recovering log #639
-2024/09/28-09:19:52.884 21ec Level-0 table #641: started
-2024/09/28-09:19:52.891 21ec Level-0 table #641: 114072 bytes OK
-2024/09/28-09:19:52.902 21ec Delete type=0 #639
-2024/09/28-09:19:52.902 21ec Delete type=3 #637
-2024/09/28-09:19:52.902 18c Compacting 4@0 + 1@1 files
-2024/09/28-09:19:52.921 18c Generated table #643@0: 180 keys, 18925 bytes
-2024/09/28-09:19:52.921 18c Compacted 4@0 + 1@1 files => 18925 bytes
-2024/09/28-09:19:52.926 18c compacted to: files[ 0 1 0 0 0 0 0 ]
+2024/09/28-18:31:47.551 f38 Log #646: 2756 ops saved to Table #647 OK
+2024/09/28-18:31:47.552 f38 Archiving C:/Users/qrurick/AppData/Local/FoundryVTT/Data/worlds/girls-frontline-tihij-dom/data/playlists/000646.log: OK
+2024/09/28-18:31:47.552 f38 Table #643: 180 entries OK
+2024/09/28-18:31:47.554 f38 Table #645: 2756 entries OK
+2024/09/28-18:31:47.557 f38 Table #647: 2756 entries OK
+2024/09/28-18:31:47.559 f38 Archiving C:/Users/qrurick/AppData/Local/FoundryVTT/Data/worlds/girls-frontline-tihij-dom/data/playlists/MANIFEST-000644: OK
+2024/09/28-18:31:47.562 f38 **** Repaired leveldb C:/Users/qrurick/AppData/Local/FoundryVTT/Data/worlds/girls-frontline-tihij-dom/data/playlists; recovered 3 files; 243201 bytes. Some data may have been lost. ****

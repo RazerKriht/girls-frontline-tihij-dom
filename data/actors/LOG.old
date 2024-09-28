@@ -1,25 +1,10 @@
-2024/09/28-09:19:52.329 21ec Recovering log #1448
-2024/09/28-09:19:52.330 21ec Level-0 table #1455: started
-2024/09/28-09:19:52.362 21ec Level-0 table #1455: 12971 bytes OK
-2024/09/28-09:19:52.371 21ec Delete type=2 #1441
-2024/09/28-09:19:52.371 21ec Delete type=2 #1442
-2024/09/28-09:19:52.371 21ec Delete type=2 #1443
-2024/09/28-09:19:52.371 21ec Delete type=2 #1444
-2024/09/28-09:19:52.371 21ec Delete type=2 #1445
-2024/09/28-09:19:52.371 21ec Delete type=2 #1447
-2024/09/28-09:19:52.371 21ec Delete type=0 #1448
-2024/09/28-09:19:52.371 21ec Delete type=3 #1446
-2024/09/28-09:20:01.038 18c Compacting 1@0 + 5@1 files
-2024/09/28-09:20:01.138 18c Generated table #1457@0: 2737 keys, 2125567 bytes
-2024/09/28-09:20:01.223 18c Generated table #1458@0: 3993 keys, 2130097 bytes
-2024/09/28-09:20:01.321 18c Generated table #1459@0: 3903 keys, 2129503 bytes
-2024/09/28-09:20:01.421 18c Generated table #1460@0: 3887 keys, 2130167 bytes
-2024/09/28-09:20:01.439 18c Generated table #1461@0: 1217 keys, 384513 bytes
-2024/09/28-09:20:01.439 18c Compacted 1@0 + 5@1 files => 8899847 bytes
-2024/09/28-09:20:01.441 18c compacted to: files[ 0 5 0 0 0 0 0 ]
-2024/09/28-09:20:01.441 18c Delete type=2 #1449
-2024/09/28-09:20:01.442 18c Delete type=2 #1450
-2024/09/28-09:20:01.442 18c Delete type=2 #1451
-2024/09/28-09:20:01.443 18c Delete type=2 #1452
-2024/09/28-09:20:01.443 18c Delete type=2 #1453
-2024/09/28-09:20:01.444 18c Delete type=2 #1455
+2024/09/28-18:31:46.997 f38 Log #1463: 408 ops saved to Table #1464 OK
+2024/09/28-18:31:46.998 f38 Archiving C:/Users/qrurick/AppData/Local/FoundryVTT/Data/worlds/girls-frontline-tihij-dom/data/actors/001463.log: OK
+2024/09/28-18:31:47.010 f38 Table #1457: 2737 entries OK
+2024/09/28-18:31:47.023 f38 Table #1458: 3993 entries OK
+2024/09/28-18:31:47.037 f38 Table #1459: 3903 entries OK
+2024/09/28-18:31:47.049 f38 Table #1460: 3887 entries OK
+2024/09/28-18:31:47.053 f38 Table #1461: 1217 entries OK
+2024/09/28-18:31:47.056 f38 Table #1464: 408 entries OK
+2024/09/28-18:31:47.059 f38 Archiving C:/Users/qrurick/AppData/Local/FoundryVTT/Data/worlds/girls-frontline-tihij-dom/data/actors/MANIFEST-001462: OK
+2024/09/28-18:31:47.062 f38 **** Repaired leveldb C:/Users/qrurick/AppData/Local/FoundryVTT/Data/worlds/girls-frontline-tihij-dom/data/actors; recovered 6 files; 9681214 bytes. Some data may have been lost. ****

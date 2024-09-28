@@ -1,3 +1,5 @@
-2024/09/28-09:19:52.807 15d0 Recovering log #686
-2024/09/28-09:19:52.812 15d0 Delete type=0 #686
-2024/09/28-09:19:52.812 15d0 Delete type=3 #685
+2024/09/28-18:31:47.462 7e8 Log #690: 0 ops saved to Table #691 OK
+2024/09/28-18:31:47.462 7e8 Archiving C:/Users/qrurick/AppData/Local/FoundryVTT/Data/worlds/girls-frontline-tihij-dom/data/items/000690.log: OK
+2024/09/28-18:31:47.465 7e8 Table #670: 585 entries OK
+2024/09/28-18:31:47.467 7e8 Archiving C:/Users/qrurick/AppData/Local/FoundryVTT/Data/worlds/girls-frontline-tihij-dom/data/items/MANIFEST-000689: OK
+2024/09/28-18:31:47.470 7e8 **** Repaired leveldb C:/Users/qrurick/AppData/Local/FoundryVTT/Data/worlds/girls-frontline-tihij-dom/data/items; recovered 1 files; 477664 bytes. Some data may have been lost. ****
