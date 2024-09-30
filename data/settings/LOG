@@ -1,5 +1,5 @@
-2024/09/30-14:42:04.737 a84 Recovering log #978
-2024/09/30-14:42:04.738 a84 Level-0 table #980: started
-2024/09/30-14:42:04.741 a84 Level-0 table #980: 4749 bytes OK
-2024/09/30-14:42:04.753 a84 Delete type=0 #978
-2024/09/30-14:42:04.753 a84 Delete type=3 #976
+2024/09/30-22:51:29.492 1ca8 Recovering log #1000
+2024/09/30-22:51:29.493 1ca8 Level-0 table #1003: started
+2024/09/30-22:51:29.495 1ca8 Level-0 table #1003: 1822 bytes OK
+2024/09/30-22:51:29.500 1ca8 Delete type=0 #1000
+2024/09/30-22:51:29.500 1ca8 Delete type=3 #998
