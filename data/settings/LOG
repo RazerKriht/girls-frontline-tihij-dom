@@ -1,5 +1,5 @@
-2024/09/30-22:51:29.492 1ca8 Recovering log #1000
-2024/09/30-22:51:29.493 1ca8 Level-0 table #1003: started
-2024/09/30-22:51:29.495 1ca8 Level-0 table #1003: 1822 bytes OK
-2024/09/30-22:51:29.500 1ca8 Delete type=0 #1000
-2024/09/30-22:51:29.500 1ca8 Delete type=3 #998
+2024/10/01-20:47:57.225 afc Recovering log #1004
+2024/10/01-20:47:57.225 afc Level-0 table #1006: started
+2024/10/01-20:47:57.230 afc Level-0 table #1006: 1822 bytes OK
+2024/10/01-20:47:57.230 afc Delete type=0 #1004
+2024/10/01-20:47:57.235 afc Delete type=3 #1002
