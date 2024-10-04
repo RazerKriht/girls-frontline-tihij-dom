@@ -1,27 +1,6 @@
-2024/10/04-16:22:13.725 1b4c Recovering log #1649
-2024/10/04-16:22:13.731 1b4c Level-0 table #1655: started
-2024/10/04-16:22:13.753 1b4c Level-0 table #1655: 968291 bytes OK
-2024/10/04-16:22:13.759 1b4c Delete type=0 #1649
-2024/10/04-16:22:13.759 1b4c Delete type=3 #1647
-2024/10/04-16:22:22.093 5fc Compacting 1@0 + 5@1 files
-2024/10/04-16:22:22.171 5fc Generated table #1657@0: 3565 keys, 2128380 bytes
-2024/10/04-16:22:22.251 5fc Generated table #1658@0: 3911 keys, 2131777 bytes
-2024/10/04-16:22:22.327 5fc Generated table #1659@0: 3907 keys, 2130667 bytes
-2024/10/04-16:22:22.347 5fc Generated table #1660@0: 1714 keys, 572019 bytes
-2024/10/04-16:22:22.347 5fc Compacted 1@0 + 5@1 files => 6962843 bytes
-2024/10/04-16:22:22.347 5fc compacted to: files[ 0 4 2 0 0 0 0 ]
-2024/10/04-16:22:22.348 5fc Delete type=2 #1643
-2024/10/04-16:22:22.348 5fc Delete type=2 #1644
-2024/10/04-16:22:22.349 5fc Delete type=2 #1645
-2024/10/04-16:22:22.349 5fc Delete type=2 #1646
-2024/10/04-16:22:22.349 5fc Delete type=2 #1651
-2024/10/04-16:22:22.349 5fc Delete type=2 #1655
-2024/10/04-16:22:22.354 5fc Compacting 1@1 + 2@2 files
-2024/10/04-16:22:22.423 5fc Generated table #1661@1: 2524 keys, 2126030 bytes
-2024/10/04-16:22:22.492 5fc Generated table #1662@1: 4144 keys, 2130419 bytes
-2024/10/04-16:22:22.560 5fc Generated table #1663@1: 3252 keys, 1809374 bytes
-2024/10/04-16:22:22.560 5fc Compacted 1@1 + 2@2 files => 6065823 bytes
-2024/10/04-16:22:22.561 5fc compacted to: files[ 0 3 3 0 0 0 0 ]
-2024/10/04-16:22:22.561 5fc Delete type=2 #1652
-2024/10/04-16:22:22.561 5fc Delete type=2 #1653
-2024/10/04-16:22:22.562 5fc Delete type=2 #1657
+2024/10/04-18:48:49.307 1e00 Recovering log #1656
+2024/10/04-18:48:49.312 1e00 Delete type=0 #1656
+2024/10/04-18:48:49.312 1e00 Delete type=3 #1654
+2024/10/04-19:28:53.974 874 Level-0 table #1667: started
+2024/10/04-19:28:54.025 874 Level-0 table #1667: 1943077 bytes OK
+2024/10/04-19:28:54.027 874 Delete type=0 #1665
