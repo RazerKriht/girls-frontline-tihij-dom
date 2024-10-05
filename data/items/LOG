@@ -1,3 +1,5 @@
-2024/10/05-13:50:57.679 22bc Recovering log #782
-2024/10/05-13:50:57.685 22bc Delete type=0 #782
-2024/10/05-13:50:57.685 22bc Delete type=3 #781
+2024/10/05-16:04:36.023 bf8 Recovering log #787
+2024/10/05-16:04:36.029 bf8 Level-0 table #789: started
+2024/10/05-16:04:36.033 bf8 Level-0 table #789: 13215 bytes OK
+2024/10/05-16:04:36.043 bf8 Delete type=0 #787
+2024/10/05-16:04:36.043 bf8 Delete type=3 #785
