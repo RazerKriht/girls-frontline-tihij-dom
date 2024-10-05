@@ -1,27 +1,22 @@
-2024/10/05-15:31:30.312 2058 Recovering log #1725
-2024/10/05-15:31:30.330 2058 Level-0 table #1727: started
-2024/10/05-15:31:30.360 2058 Level-0 table #1727: 1480050 bytes OK
-2024/10/05-15:31:30.366 2058 Delete type=0 #1725
-2024/10/05-15:31:30.367 2058 Delete type=3 #1724
-2024/10/05-15:31:30.604 2bc Compacting 2@0 + 5@1 files
-2024/10/05-15:31:30.684 2bc Generated table #1729@0: 4270 keys, 2130518 bytes
-2024/10/05-15:31:30.765 2bc Generated table #1730@0: 3958 keys, 2131531 bytes
-2024/10/05-15:31:30.871 2bc Generated table #1731@0: 4084 keys, 2129976 bytes
-2024/10/05-15:31:30.956 2bc Generated table #1732@0: 4064 keys, 2131818 bytes
-2024/10/05-15:31:31.011 2bc Generated table #1733@0: 3155 keys, 1217050 bytes
-2024/10/05-15:31:31.011 2bc Compacted 2@0 + 5@1 files => 9740893 bytes
-2024/10/05-15:31:31.012 2bc compacted to: files[ 0 5 1 0 0 0 0 ]
-2024/10/05-15:31:31.013 2bc Delete type=2 #1716
-2024/10/05-15:31:31.013 2bc Delete type=2 #1717
-2024/10/05-15:31:31.014 2bc Delete type=2 #1718
-2024/10/05-15:31:31.015 2bc Delete type=2 #1719
-2024/10/05-15:31:31.016 2bc Delete type=2 #1720
-2024/10/05-15:31:31.016 2bc Delete type=2 #1722
-2024/10/05-15:31:31.016 2bc Delete type=2 #1727
-2024/10/05-15:31:40.353 2bc Compacting 1@1 + 1@2 files
-2024/10/05-15:31:40.416 2bc Generated table #1734@1: 2397 keys, 2124087 bytes
-2024/10/05-15:31:40.495 2bc Generated table #1735@1: 4146 keys, 2041086 bytes
-2024/10/05-15:31:40.495 2bc Compacted 1@1 + 1@2 files => 4165173 bytes
-2024/10/05-15:31:40.496 2bc compacted to: files[ 0 4 2 0 0 0 0 ]
-2024/10/05-15:31:40.496 2bc Delete type=2 #1715
-2024/10/05-15:31:40.496 2bc Delete type=2 #1729
+2024/10/05-21:30:25.950 26d0 Recovering log #1753
+2024/10/05-21:30:25.954 26d0 Level-0 table #1758: started
+2024/10/05-21:30:25.974 26d0 Level-0 table #1758: 1180129 bytes OK
+2024/10/05-21:30:25.978 26d0 Delete type=0 #1753
+2024/10/05-21:30:25.978 26d0 Delete type=3 #1751
+2024/10/05-21:30:26.151 5b4 Compacting 3@0 + 4@1 files
+2024/10/05-21:30:26.199 5b4 Generated table #1760@0: 2470 keys, 2124678 bytes
+2024/10/05-21:30:26.250 5b4 Generated table #1761@0: 4291 keys, 2130253 bytes
+2024/10/05-21:30:26.310 5b4 Generated table #1762@0: 3962 keys, 2132599 bytes
+2024/10/05-21:30:26.362 5b4 Generated table #1763@0: 4166 keys, 2130894 bytes
+2024/10/05-21:30:26.411 5b4 Generated table #1764@0: 4043 keys, 2131701 bytes
+2024/10/05-21:30:26.440 5b4 Generated table #1765@0: 3052 keys, 1162885 bytes
+2024/10/05-21:30:26.440 5b4 Compacted 3@0 + 4@1 files => 11813010 bytes
+2024/10/05-21:30:26.440 5b4 compacted to: files[ 0 6 0 0 0 0 0 ]
+2024/10/05-21:30:26.440 5b4 Delete type=2 #1740
+2024/10/05-21:30:26.441 5b4 Delete type=2 #1741
+2024/10/05-21:30:26.441 5b4 Delete type=2 #1742
+2024/10/05-21:30:26.441 5b4 Delete type=2 #1754
+2024/10/05-21:30:26.442 5b4 Delete type=2 #1755
+2024/10/05-21:30:26.442 5b4 Delete type=2 #1756
+2024/10/05-21:30:26.443 5b4 Delete type=2 #1758
+2024/10/05-21:30:26.450 5b4 Moved #1760 to level-2 2124678 bytes OK: files[ 0 5 1 0 0 0 0 ]
