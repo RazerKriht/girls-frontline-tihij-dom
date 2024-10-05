@@ -1,5 +1,13 @@
-2024/10/05-21:30:26.289 ec Recovering log #746
-2024/10/05-21:30:26.289 ec Level-0 table #748: started
-2024/10/05-21:30:26.306 ec Level-0 table #748: 14381 bytes OK
-2024/10/05-21:30:26.313 ec Delete type=0 #746
-2024/10/05-21:30:26.313 ec Delete type=3 #744
+2024/10/05-21:31:24.025 df4 Recovering log #749
+2024/10/05-21:31:24.025 df4 Level-0 table #751: started
+2024/10/05-21:31:24.027 df4 Level-0 table #751: 522 bytes OK
+2024/10/05-21:31:24.031 df4 Delete type=0 #749
+2024/10/05-21:31:24.031 df4 Delete type=3 #747
+2024/10/05-21:31:24.031 f80 Compacting 4@0 + 0@1 files
+2024/10/05-21:31:24.034 f80 Generated table #753@0: 35 keys, 4188 bytes
+2024/10/05-21:31:24.034 f80 Compacted 4@0 + 0@1 files => 4188 bytes
+2024/10/05-21:31:24.036 f80 compacted to: files[ 0 1 0 0 0 0 0 ]
+2024/10/05-21:31:24.036 f80 Delete type=2 #738
+2024/10/05-21:31:24.036 f80 Delete type=2 #745
+2024/10/05-21:31:24.036 f80 Delete type=2 #748
+2024/10/05-21:31:24.036 f80 Delete type=2 #751
