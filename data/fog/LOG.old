@@ -1,3 +1,7 @@
-2024/10/05-10:32:51.789 378 Recovering log #741
-2024/10/05-10:32:51.792 378 Delete type=0 #741
-2024/10/05-10:32:51.793 378 Delete type=3 #740
+2024/10/05-12:53:21.472 2984 Log #745: 0 ops saved to Table #746 OK
+2024/10/05-12:53:21.472 2984 Archiving C:/Users/qrurick/AppData/Local/FoundryVTT/Data/worlds/girls-frontline-tihij-dom/data/fog/000745.log: OK
+2024/10/05-12:53:21.474 2984 Table #614: 9 entries OK
+2024/10/05-12:53:21.474 2984 Table #635: 1 entries OK
+2024/10/05-12:53:21.474 2984 Table #659: 1 entries OK
+2024/10/05-12:53:21.483 2984 Archiving C:/Users/qrurick/AppData/Local/FoundryVTT/Data/worlds/girls-frontline-tihij-dom/data/fog/MANIFEST-000744: OK
+2024/10/05-12:53:21.484 2984 **** Repaired leveldb C:/Users/qrurick/AppData/Local/FoundryVTT/Data/worlds/girls-frontline-tihij-dom/data/fog; recovered 3 files; 115405 bytes. Some data may have been lost. ****
