@@ -1,6 +1,3 @@
-2024/10/05-12:53:21.918 2984 Log #618: 0 ops saved to Table #619 OK
-2024/10/05-12:53:21.918 2984 Archiving C:\Users\qrurick\AppData\Local\FoundryVTT\Data\worlds\girls-frontline-tihij-dom\packs\batlmapy/000618.log: OK
-2024/10/05-12:53:21.918 2984 Table #19: 1 entries OK
-2024/10/05-12:53:21.918 2984 Table #305: 1 entries OK
-2024/10/05-12:53:21.924 2984 Archiving C:\Users\qrurick\AppData\Local\FoundryVTT\Data\worlds\girls-frontline-tihij-dom\packs\batlmapy/MANIFEST-000617: OK
-2024/10/05-12:53:21.924 2984 **** Repaired leveldb C:\Users\qrurick\AppData\Local\FoundryVTT\Data\worlds\girls-frontline-tihij-dom\packs\batlmapy; recovered 2 files; 1268 bytes. Some data may have been lost. ****
+2024/10/05-13:50:40.985 21ac Recovering log #621
+2024/10/05-13:50:40.990 21ac Delete type=0 #621
+2024/10/05-13:50:40.990 21ac Delete type=3 #620

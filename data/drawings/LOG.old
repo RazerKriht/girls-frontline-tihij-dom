@@ -1,4 +1,3 @@
-2024/10/05-12:53:21.446 7fc Log #691: 0 ops saved to Table #692 OK
-2024/10/05-12:53:21.446 7fc Archiving C:/Users/qrurick/AppData/Local/FoundryVTT/Data/worlds/girls-frontline-tihij-dom/data/drawings/000691.log: OK
-2024/10/05-12:53:21.450 7fc Archiving C:/Users/qrurick/AppData/Local/FoundryVTT/Data/worlds/girls-frontline-tihij-dom/data/drawings/MANIFEST-000690: OK
-2024/10/05-12:53:21.455 7fc **** Repaired leveldb C:/Users/qrurick/AppData/Local/FoundryVTT/Data/worlds/girls-frontline-tihij-dom/data/drawings; recovered 0 files; 0 bytes. Some data may have been lost. ****
+2024/10/05-13:50:40.714 21ac Recovering log #694
+2024/10/05-13:50:40.719 21ac Delete type=0 #694
+2024/10/05-13:50:40.720 21ac Delete type=3 #693
