@@ -1,19 +1,18 @@
-2024/10/05-21:31:23.831 1f38 Recovering log #1759
-2024/10/05-21:31:23.831 1f38 Level-0 table #1767: started
-2024/10/05-21:31:23.833 1f38 Level-0 table #1767: 14150 bytes OK
-2024/10/05-21:31:23.837 1f38 Delete type=0 #1759
-2024/10/05-21:31:23.837 1f38 Delete type=3 #1757
-2024/10/05-21:31:29.940 f80 Compacting 1@0 + 5@1 files
-2024/10/05-21:31:29.986 f80 Generated table #1769@0: 4179 keys, 2132250 bytes
-2024/10/05-21:31:30.046 f80 Generated table #1770@0: 3905 keys, 2129653 bytes
-2024/10/05-21:31:30.092 f80 Generated table #1771@0: 4098 keys, 2129992 bytes
-2024/10/05-21:31:30.138 f80 Generated table #1772@0: 3886 keys, 2130015 bytes
-2024/10/05-21:31:30.161 f80 Generated table #1773@0: 2701 keys, 998152 bytes
-2024/10/05-21:31:30.161 f80 Compacted 1@0 + 5@1 files => 9520062 bytes
-2024/10/05-21:31:30.161 f80 compacted to: files[ 0 5 1 0 0 0 0 ]
-2024/10/05-21:31:30.162 f80 Delete type=2 #1761
-2024/10/05-21:31:30.162 f80 Delete type=2 #1762
-2024/10/05-21:31:30.162 f80 Delete type=2 #1763
-2024/10/05-21:31:30.163 f80 Delete type=2 #1764
-2024/10/05-21:31:30.163 f80 Delete type=2 #1765
-2024/10/05-21:31:30.163 f80 Delete type=2 #1767
+2024/10/05-23:15:15.501 41c Delete type=3 #1
+2024/10/05-23:15:15.501 22ac Compacting 7@0 + 0@1 files
+2024/10/05-23:15:15.568 22ac Generated table #1781@0: 2465 keys, 2125006 bytes
+2024/10/05-23:15:15.636 22ac Generated table #1782@0: 4173 keys, 2131741 bytes
+2024/10/05-23:15:15.706 22ac Generated table #1783@0: 3909 keys, 2131339 bytes
+2024/10/05-23:15:15.776 22ac Generated table #1784@0: 4095 keys, 2133860 bytes
+2024/10/05-23:15:15.846 22ac Generated table #1785@0: 3896 keys, 2131749 bytes
+2024/10/05-23:15:15.890 22ac Generated table #1786@0: 2687 keys, 988522 bytes
+2024/10/05-23:15:15.890 22ac Compacted 7@0 + 0@1 files => 11642217 bytes
+2024/10/05-23:15:15.891 22ac compacted to: files[ 0 6 0 0 0 0 0 ]
+2024/10/05-23:15:15.891 22ac Delete type=2 #1770
+2024/10/05-23:15:15.892 22ac Delete type=2 #1771
+2024/10/05-23:15:15.893 22ac Delete type=2 #1772
+2024/10/05-23:15:15.893 22ac Delete type=2 #1773
+2024/10/05-23:15:15.893 22ac Delete type=2 #1776
+2024/10/05-23:15:15.893 22ac Delete type=2 #1777
+2024/10/05-23:15:15.893 22ac Delete type=2 #1778
+2024/10/05-23:15:15.897 22ac Moved #1781 to level-2 2125006 bytes OK: files[ 0 5 1 0 0 0 0 ]
