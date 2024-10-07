@@ -1,18 +1,3 @@
-2024/10/05-23:15:15.501 41c Delete type=3 #1
-2024/10/05-23:15:15.501 22ac Compacting 7@0 + 0@1 files
-2024/10/05-23:15:15.568 22ac Generated table #1781@0: 2465 keys, 2125006 bytes
-2024/10/05-23:15:15.636 22ac Generated table #1782@0: 4173 keys, 2131741 bytes
-2024/10/05-23:15:15.706 22ac Generated table #1783@0: 3909 keys, 2131339 bytes
-2024/10/05-23:15:15.776 22ac Generated table #1784@0: 4095 keys, 2133860 bytes
-2024/10/05-23:15:15.846 22ac Generated table #1785@0: 3896 keys, 2131749 bytes
-2024/10/05-23:15:15.890 22ac Generated table #1786@0: 2687 keys, 988522 bytes
-2024/10/05-23:15:15.890 22ac Compacted 7@0 + 0@1 files => 11642217 bytes
-2024/10/05-23:15:15.891 22ac compacted to: files[ 0 6 0 0 0 0 0 ]
-2024/10/05-23:15:15.891 22ac Delete type=2 #1770
-2024/10/05-23:15:15.892 22ac Delete type=2 #1771
-2024/10/05-23:15:15.893 22ac Delete type=2 #1772
-2024/10/05-23:15:15.893 22ac Delete type=2 #1773
-2024/10/05-23:15:15.893 22ac Delete type=2 #1776
-2024/10/05-23:15:15.893 22ac Delete type=2 #1777
-2024/10/05-23:15:15.893 22ac Delete type=2 #1778
-2024/10/05-23:15:15.897 22ac Moved #1781 to level-2 2125006 bytes OK: files[ 0 5 1 0 0 0 0 ]
+2024/10/07-11:38:31.589 f80 Recovering log #1870
+2024/10/07-11:38:31.597 f80 Delete type=0 #1870
+2024/10/07-11:38:31.597 f80 Delete type=3 #1868
