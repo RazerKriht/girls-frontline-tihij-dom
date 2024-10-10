@@ -1,22 +1,8 @@
-2024/10/09-20:24:34.569 ea8 Recovering log #1950
-2024/10/09-20:24:34.573 ea8 Level-0 table #1955: started
-2024/10/09-20:24:34.589 ea8 Level-0 table #1955: 541780 bytes OK
-2024/10/09-20:24:34.596 ea8 Delete type=0 #1950
-2024/10/09-20:24:34.596 ea8 Delete type=3 #1948
-2024/10/09-20:24:43.346 15f8 Moved #1955 to level-1 541780 bytes OK: files[ 0 1 6 0 0 0 0 ]
-2024/10/09-20:24:43.428 15f8 Compacting 1@1 + 6@2 files
-2024/10/09-20:24:43.494 15f8 Generated table #1957@1: 2386 keys, 2123588 bytes
-2024/10/09-20:24:43.568 15f8 Generated table #1958@1: 4043 keys, 2131627 bytes
-2024/10/09-20:24:43.703 15f8 Generated table #1959@1: 3659 keys, 2129175 bytes
-2024/10/09-20:24:43.912 15f8 Generated table #1960@1: 3935 keys, 2131089 bytes
-2024/10/09-20:24:44.047 15f8 Generated table #1961@1: 3838 keys, 2129760 bytes
-2024/10/09-20:24:44.084 15f8 Generated table #1962@1: 2413 keys, 884859 bytes
-2024/10/09-20:24:44.084 15f8 Compacted 1@1 + 6@2 files => 11530098 bytes
-2024/10/09-20:24:44.085 15f8 compacted to: files[ 0 0 6 0 0 0 0 ]
-2024/10/09-20:24:44.085 15f8 Delete type=2 #1945
-2024/10/09-20:24:44.085 15f8 Delete type=2 #1946
-2024/10/09-20:24:44.086 15f8 Delete type=2 #1947
-2024/10/09-20:24:44.086 15f8 Delete type=2 #1951
-2024/10/09-20:24:44.086 15f8 Delete type=2 #1952
-2024/10/09-20:24:44.087 15f8 Delete type=2 #1953
-2024/10/09-20:24:44.087 15f8 Delete type=2 #1955
+2024/10/10-18:45:00.063 27f4 Delete type=3 #1
+2024/10/10-18:45:00.063 1aa4 Compacting 2@0 + 0@1 files
+2024/10/10-18:45:00.103 1aa4 Generated table #1966@0: 2379 keys, 2122805 bytes
+2024/10/10-18:45:00.104 1aa4 Generated table #1967@0: 7 keys, 2720 bytes
+2024/10/10-18:45:00.104 1aa4 Compacted 2@0 + 0@1 files => 2125525 bytes
+2024/10/10-18:45:00.105 1aa4 compacted to: files[ 5 2 0 0 0 0 0 ]
+2024/10/10-18:45:00.105 1aa4 Moved #1958 to level-1 2131627 bytes OK: files[ 4 3 0 0 0 0 0 ]
+2024/10/10-18:45:00.106 1aa4 Moved #1959 to level-1 2129175 bytes OK: files[ 3 4 0 0 0 0 0 ]

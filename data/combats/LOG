@@ -1,3 +1,7 @@
-2024/10/09-20:24:34.898 ea8 Recovering log #807
-2024/10/09-20:24:34.903 ea8 Delete type=0 #807
-2024/10/09-20:24:34.903 ea8 Delete type=3 #806
+2024/10/10-18:45:00.304 27f4 Delete type=3 #1
+2024/10/10-20:17:37.877 1aa4 Compacting 2@0 + 0@1 files
+2024/10/10-20:17:37.879 1aa4 Generated table #813@0: 24 keys, 2927 bytes
+2024/10/10-20:17:37.879 1aa4 Compacted 2@0 + 0@1 files => 2927 bytes
+2024/10/10-20:17:37.880 1aa4 compacted to: files[ 0 1 0 0 0 0 0 ]
+2024/10/10-20:17:37.880 1aa4 Delete type=2 #753
+2024/10/10-20:17:37.880 1aa4 Delete type=2 #764
