@@ -1,5 +1,3 @@
-2024/10/08-22:00:06.432 f1c Recovering log #854
-2024/10/08-22:00:06.432 f1c Level-0 table #856: started
-2024/10/08-22:00:06.437 f1c Level-0 table #856: 1470 bytes OK
-2024/10/08-22:00:06.441 f1c Delete type=0 #854
-2024/10/08-22:00:06.441 f1c Delete type=3 #853
+2024/10/09-20:24:34.942 ea8 Recovering log #859
+2024/10/09-20:24:34.947 ea8 Delete type=0 #859
+2024/10/09-20:24:34.947 ea8 Delete type=3 #858
