@@ -1,11 +1,26 @@
-2024/10/10-18:45:00.001 27f4 Log #1956: 1 ops saved to Table #1963 OK
-2024/10/10-18:45:00.001 27f4 Archiving C:/Users/qrurick/AppData/Local/FoundryVTT/Data/worlds/girls-frontline-tihij-dom/data/actors/001956.log: OK
-2024/10/10-18:45:00.012 27f4 Table #1957: 2386 entries OK
-2024/10/10-18:45:00.021 27f4 Table #1958: 4043 entries OK
-2024/10/10-18:45:00.029 27f4 Table #1959: 3659 entries OK
-2024/10/10-18:45:00.038 27f4 Table #1960: 3935 entries OK
-2024/10/10-18:45:00.046 27f4 Table #1961: 3838 entries OK
-2024/10/10-18:45:00.050 27f4 Table #1962: 2413 entries OK
-2024/10/10-18:45:00.050 27f4 Table #1963: 1 entries OK
-2024/10/10-18:45:00.052 27f4 Archiving C:/Users/qrurick/AppData/Local/FoundryVTT/Data/worlds/girls-frontline-tihij-dom/data/actors/MANIFEST-001954: OK
-2024/10/10-18:45:00.054 27f4 **** Repaired leveldb C:/Users/qrurick/AppData/Local/FoundryVTT/Data/worlds/girls-frontline-tihij-dom/data/actors; recovered 7 files; 11536658 bytes. Some data may have been lost. ****
+2024/10/11-16:42:00.627 18a0 Recovering log #1995
+2024/10/11-16:42:00.635 18a0 Level-0 table #2002: started
+2024/10/11-16:42:00.652 18a0 Level-0 table #2002: 894586 bytes OK
+2024/10/11-16:42:00.657 18a0 Delete type=0 #1995
+2024/10/11-16:42:00.658 18a0 Delete type=3 #1993
+2024/10/11-16:42:00.877 1130 Compacting 1@0 + 5@1 files
+2024/10/11-16:42:00.964 1130 Generated table #2004@0: 3922 keys, 2130881 bytes
+2024/10/11-16:42:01.051 1130 Generated table #2005@0: 3643 keys, 2128644 bytes
+2024/10/11-16:42:01.176 1130 Generated table #2006@0: 3895 keys, 2131164 bytes
+2024/10/11-16:42:01.258 1130 Generated table #2007@0: 3889 keys, 2130786 bytes
+2024/10/11-16:42:01.312 1130 Generated table #2008@0: 3024 keys, 1274735 bytes
+2024/10/11-16:42:01.313 1130 Compacted 1@0 + 5@1 files => 9796210 bytes
+2024/10/11-16:42:01.314 1130 compacted to: files[ 0 5 1 0 0 0 0 ]
+2024/10/11-16:42:01.314 1130 Delete type=2 #1996
+2024/10/11-16:42:01.315 1130 Delete type=2 #1997
+2024/10/11-16:42:01.316 1130 Delete type=2 #1998
+2024/10/11-16:42:01.317 1130 Delete type=2 #1999
+2024/10/11-16:42:01.317 1130 Delete type=2 #2000
+2024/10/11-16:42:01.318 1130 Delete type=2 #2002
+2024/10/11-16:42:12.224 1130 Compacting 1@1 + 1@2 files
+2024/10/11-16:42:12.288 1130 Generated table #2009@1: 2343 keys, 2123234 bytes
+2024/10/11-16:42:12.360 1130 Generated table #2010@1: 3934 keys, 2076265 bytes
+2024/10/11-16:42:12.360 1130 Compacted 1@1 + 1@2 files => 4199499 bytes
+2024/10/11-16:42:12.361 1130 compacted to: files[ 0 4 2 0 0 0 0 ]
+2024/10/11-16:42:12.361 1130 Delete type=2 #1971
+2024/10/11-16:42:12.362 1130 Delete type=2 #2004
