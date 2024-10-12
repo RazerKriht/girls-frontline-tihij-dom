@@ -1,11 +1,20 @@
-2024/10/12-22:56:58.480 a4c Log #2106: 2 ops saved to Table #2107 OK
-2024/10/12-22:56:58.481 a4c Archiving C:/Users/qrurick/AppData/Local/FoundryVTT/Data/worlds/girls-frontline-tihij-dom/data/actors/002106.log: OK
-2024/10/12-22:56:58.499 a4c Table #2097: 3921 entries OK
-2024/10/12-22:56:58.514 a4c Table #2098: 3812 entries OK
-2024/10/12-22:56:58.523 a4c Table #2099: 3432 entries OK
-2024/10/12-22:56:58.535 a4c Table #2100: 2328 entries OK
-2024/10/12-22:56:58.550 a4c Table #2101: 4077 entries OK
-2024/10/12-22:56:58.560 a4c Table #2102: 3416 entries OK
-2024/10/12-22:56:58.560 a4c Table #2107: 2 entries OK
-2024/10/12-22:56:58.563 a4c Archiving C:/Users/qrurick/AppData/Local/FoundryVTT/Data/worlds/girls-frontline-tihij-dom/data/actors/MANIFEST-002105: OK
-2024/10/12-22:56:58.565 a4c **** Repaired leveldb C:/Users/qrurick/AppData/Local/FoundryVTT/Data/worlds/girls-frontline-tihij-dom/data/actors; recovered 7 files; 12035062 bytes. Some data may have been lost. ****
+2024/10/12-23:29:54.241 1104 Recovering log #2112
+2024/10/12-23:29:54.242 1104 Level-0 table #2114: started
+2024/10/12-23:29:54.248 1104 Level-0 table #2114: 181602 bytes OK
+2024/10/12-23:29:54.253 1104 Delete type=0 #2112
+2024/10/12-23:29:54.253 1104 Delete type=3 #2111
+2024/10/12-23:29:54.260 2288 Compacting 3@0 + 3@1 files
+2024/10/12-23:29:54.331 2288 Generated table #2116@0: 2328 keys, 2123429 bytes
+2024/10/12-23:29:54.410 2288 Generated table #2117@0: 4077 keys, 2131388 bytes
+2024/10/12-23:29:54.484 2288 Generated table #2118@0: 3604 keys, 2130208 bytes
+2024/10/12-23:29:54.556 2288 Generated table #2119@0: 3893 keys, 2129821 bytes
+2024/10/12-23:29:54.629 2288 Generated table #2120@0: 3649 keys, 2037371 bytes
+2024/10/12-23:29:54.629 2288 Compacted 3@0 + 3@1 files => 10552217 bytes
+2024/10/12-23:29:54.632 2288 compacted to: files[ 1 5 0 0 0 0 0 ]
+2024/10/12-23:29:54.632 2288 Delete type=2 #2097
+2024/10/12-23:29:54.632 2288 Delete type=2 #2098
+2024/10/12-23:29:54.633 2288 Delete type=2 #2101
+2024/10/12-23:29:54.634 2288 Delete type=2 #2102
+2024/10/12-23:29:54.634 2288 Delete type=2 #2110
+2024/10/12-23:29:54.635 2288 Delete type=2 #2114
+2024/10/12-23:29:54.636 2288 Moved #2116 to level-2 2123429 bytes OK: files[ 1 4 1 0 0 0 0 ]
