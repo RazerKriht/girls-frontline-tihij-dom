@@ -1,13 +1,6 @@
-2024/10/11-21:29:47.324 2a6c Recovering log #938
-2024/10/11-21:29:47.325 2a6c Level-0 table #940: started
-2024/10/11-21:29:47.327 2a6c Level-0 table #940: 38819 bytes OK
-2024/10/11-21:29:47.331 2a6c Delete type=0 #938
-2024/10/11-21:29:47.332 2a6c Delete type=3 #937
-2024/10/11-21:29:47.332 1d50 Compacting 4@0 + 0@1 files
-2024/10/11-21:29:47.357 1d50 Generated table #942@0: 1122 keys, 755688 bytes
-2024/10/11-21:29:47.357 1d50 Compacted 4@0 + 0@1 files => 755688 bytes
-2024/10/11-21:29:47.359 1d50 compacted to: files[ 0 1 0 0 0 0 0 ]
-2024/10/11-21:29:47.359 1d50 Delete type=2 #892
-2024/10/11-21:29:47.359 1d50 Delete type=2 #912
-2024/10/11-21:29:47.359 1d50 Delete type=2 #923
-2024/10/11-21:29:47.359 1d50 Delete type=2 #940
+2024/10/12-12:45:29.614 1cd8 Log #945: 0 ops saved to Table #946 OK
+2024/10/12-12:45:29.614 1cd8 Archiving C:/Users/qrurick/AppData/Local/FoundryVTT/Data/worlds/girls-frontline-tihij-dom/data/messages/000945.log: OK
+2024/10/12-12:45:29.620 1cd8 Table #942: 1122 entries OK
+2024/10/12-12:45:29.620 1cd8 Table #944: 11 entries OK
+2024/10/12-12:45:29.623 1cd8 Archiving C:/Users/qrurick/AppData/Local/FoundryVTT/Data/worlds/girls-frontline-tihij-dom/data/messages/MANIFEST-000943: OK
+2024/10/12-12:45:29.628 1cd8 **** Repaired leveldb C:/Users/qrurick/AppData/Local/FoundryVTT/Data/worlds/girls-frontline-tihij-dom/data/messages; recovered 2 files; 757940 bytes. Some data may have been lost. ****
