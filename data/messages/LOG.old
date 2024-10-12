@@ -1,3 +1,6 @@
-2024/10/12-21:35:20.183 1e90 Recovering log #960
-2024/10/12-21:35:20.187 1e90 Delete type=0 #960
-2024/10/12-21:35:20.187 1e90 Delete type=3 #958
+2024/10/12-22:56:58.856 a4c Log #965: 20 ops saved to Table #967 OK
+2024/10/12-22:56:58.857 a4c Archiving C:/Users/qrurick/AppData/Local/FoundryVTT/Data/worlds/girls-frontline-tihij-dom/data/messages/000965.log: OK
+2024/10/12-22:56:58.862 a4c Table #966: 1156 entries OK
+2024/10/12-22:56:58.862 a4c Table #967: 20 entries OK
+2024/10/12-22:56:58.866 a4c Archiving C:/Users/qrurick/AppData/Local/FoundryVTT/Data/worlds/girls-frontline-tihij-dom/data/messages/MANIFEST-000963: OK
+2024/10/12-22:56:58.869 a4c **** Repaired leveldb C:/Users/qrurick/AppData/Local/FoundryVTT/Data/worlds/girls-frontline-tihij-dom/data/messages; recovered 2 files; 786536 bytes. Some data may have been lost. ****

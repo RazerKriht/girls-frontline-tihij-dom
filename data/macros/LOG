@@ -1,6 +1,2 @@
-2024/10/12-22:29:59.123 29b0 Recovering log #848
-2024/10/12-22:29:59.123 29b0 Level-0 table #850: started
-2024/10/12-22:29:59.126 29b0 Level-0 table #850: 198 bytes OK
-2024/10/12-22:29:59.129 29b0 Delete type=0 #848
-2024/10/12-22:29:59.129 29b0 Delete type=3 #847
-2024/10/12-22:29:59.130 290c Moved #179 to level-1 4230 bytes OK: files[ 3 1 0 0 0 0 0 ]
+2024/10/12-22:56:59.051 8 Delete type=3 #1
+2024/10/12-22:56:59.053 1724 Moved #179 to level-1 4230 bytes OK: files[ 3 1 0 0 0 0 0 ]
