@@ -1,3 +1,5 @@
-2024/10/15-16:11:09.110 12a0 Recovering log #949
-2024/10/15-16:11:09.114 12a0 Delete type=0 #949
-2024/10/15-16:11:09.115 12a0 Delete type=3 #948
+2024/10/15-17:22:04.634 1cec Log #953: 0 ops saved to Table #954 OK
+2024/10/15-17:22:04.634 1cec Archiving C:/Users/qrurick/AppData/Local/FoundryVTT/Data/worlds/girls-frontline-tihij-dom/data/playlists/000953.log: OK
+2024/10/15-17:22:04.635 1cec Table #888: 260 entries OK
+2024/10/15-17:22:04.637 1cec Archiving C:/Users/qrurick/AppData/Local/FoundryVTT/Data/worlds/girls-frontline-tihij-dom/data/playlists/MANIFEST-000952: OK
+2024/10/15-17:22:04.639 1cec **** Repaired leveldb C:/Users/qrurick/AppData/Local/FoundryVTT/Data/worlds/girls-frontline-tihij-dom/data/playlists; recovered 1 files; 27824 bytes. Some data may have been lost. ****

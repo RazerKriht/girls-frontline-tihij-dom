@@ -1,3 +1,6 @@
-2024/10/15-16:11:09.312 f24 Recovering log #771
-2024/10/15-16:11:09.317 f24 Delete type=0 #771
-2024/10/15-16:11:09.317 f24 Delete type=3 #770
+2024/10/15-17:22:04.842 dc8 Log #775: 0 ops saved to Table #776 OK
+2024/10/15-17:22:04.842 dc8 Archiving C:\Users\qrurick\AppData\Local\FoundryVTT\Data\worlds\girls-frontline-tihij-dom\packs\moi-makrosy/000775.log: OK
+2024/10/15-17:22:04.842 dc8 Table #5: 5 entries OK
+2024/10/15-17:22:04.843 dc8 Table #687: 1 entries OK
+2024/10/15-17:22:04.854 dc8 Archiving C:\Users\qrurick\AppData\Local\FoundryVTT\Data\worlds\girls-frontline-tihij-dom\packs\moi-makrosy/MANIFEST-000774: OK
+2024/10/15-17:22:04.861 dc8 **** Repaired leveldb C:\Users\qrurick\AppData\Local\FoundryVTT\Data\worlds\girls-frontline-tihij-dom\packs\moi-makrosy; recovered 2 files; 6140 bytes. Some data may have been lost. ****
