@@ -1,7 +1,11 @@
-2024/10/15-17:22:04.687 1cec Log #1122: 1018 ops saved to Table #1123 OK
-2024/10/15-17:22:04.687 1cec Archiving C:/Users/qrurick/AppData/Local/FoundryVTT/Data/worlds/girls-frontline-tihij-dom/data/scenes/001122.log: OK
-2024/10/15-17:22:04.694 1cec Table #1044: 7831 entries OK
-2024/10/15-17:22:04.694 1cec Table #1051: 18 entries OK
-2024/10/15-17:22:04.696 1cec Table #1123: 1018 entries OK
-2024/10/15-17:22:04.701 1cec Archiving C:/Users/qrurick/AppData/Local/FoundryVTT/Data/worlds/girls-frontline-tihij-dom/data/scenes/MANIFEST-001121: OK
-2024/10/15-17:22:04.703 1cec **** Repaired leveldb C:/Users/qrurick/AppData/Local/FoundryVTT/Data/worlds/girls-frontline-tihij-dom/data/scenes; recovered 3 files; 1901057 bytes. Some data may have been lost. ****
+2024/10/15-20:15:55.131 1d3c Recovering log #1125
+2024/10/15-20:15:55.136 1d3c Level-0 table #1128: started
+2024/10/15-20:15:55.141 1d3c Level-0 table #1128: 148921 bytes OK
+2024/10/15-20:15:55.144 1d3c Delete type=0 #1125
+2024/10/15-20:15:55.144 1d3c Delete type=3 #1124
+2024/10/15-20:16:01.611 5bc Compacting 1@0 + 1@1 files
+2024/10/15-20:16:01.645 5bc Generated table #1130@0: 7972 keys, 1130441 bytes
+2024/10/15-20:16:01.645 5bc Compacted 1@0 + 1@1 files => 1130441 bytes
+2024/10/15-20:16:01.646 5bc compacted to: files[ 0 1 0 0 0 0 0 ]
+2024/10/15-20:16:01.646 5bc Delete type=2 #1126
+2024/10/15-20:16:01.646 5bc Delete type=2 #1128

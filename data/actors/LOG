@@ -1,4 +1,6 @@
-2024/10/15-17:22:04.277 6c4 Delete type=3 #1
-2024/10/15-17:22:04.278 ba0 Moved #2347 to level-1 2123401 bytes OK: files[ 5 1 0 0 0 0 0 ]
-2024/10/15-17:22:04.279 ba0 Moved #2348 to level-1 2131483 bytes OK: files[ 4 2 0 0 0 0 0 ]
-2024/10/15-17:22:04.280 ba0 Moved #2349 to level-1 2129759 bytes OK: files[ 3 3 0 0 0 0 0 ]
+2024/10/15-20:19:01.536 32c Recovering log #2363
+2024/10/15-20:19:01.536 32c Level-0 table #2365: started
+2024/10/15-20:19:01.537 32c Level-0 table #2365: 13526 bytes OK
+2024/10/15-20:19:01.541 32c Delete type=0 #2363
+2024/10/15-20:19:01.542 32c Delete type=3 #2362
+2024/10/15-20:19:01.543 908 Moved #2350 to level-1 2130978 bytes OK: files[ 3 4 0 0 0 0 0 ]
