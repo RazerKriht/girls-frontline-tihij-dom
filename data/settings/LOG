@@ -1,5 +1,5 @@
-2024/10/15-20:19:01.872 18ec Recovering log #1361
-2024/10/15-20:19:01.872 18ec Level-0 table #1363: started
-2024/10/15-20:19:01.873 18ec Level-0 table #1363: 1822 bytes OK
-2024/10/15-20:19:01.877 18ec Delete type=0 #1361
-2024/10/15-20:19:01.877 18ec Delete type=3 #1359
+2024/10/16-23:42:23.454 f8c Recovering log #1380
+2024/10/16-23:42:23.454 f8c Level-0 table #1383: started
+2024/10/16-23:42:23.456 f8c Level-0 table #1383: 1822 bytes OK
+2024/10/16-23:42:23.461 f8c Delete type=0 #1380
+2024/10/16-23:42:23.461 f8c Delete type=3 #1378
