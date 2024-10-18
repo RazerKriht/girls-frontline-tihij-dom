@@ -1,1 +1,5 @@
-2024/10/18-04:34:11.283 1fe4 Delete type=3 #1
+2024/10/18-12:18:54.483 c4c Recovering log #1417
+2024/10/18-12:18:54.483 c4c Level-0 table #1419: started
+2024/10/18-12:18:54.485 c4c Level-0 table #1419: 1822 bytes OK
+2024/10/18-12:18:54.489 c4c Delete type=0 #1417
+2024/10/18-12:18:54.489 c4c Delete type=3 #1415

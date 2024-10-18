@@ -1,5 +1,5 @@
-2024/10/18-04:34:11.189 1e0c Delete type=3 #1
-2024/10/18-04:34:21.886 1a20 Compacting 2@0 + 0@1 files
-2024/10/18-04:34:21.959 1a20 Generated table #1178@0: 8151 keys, 1148040 bytes
-2024/10/18-04:34:21.959 1a20 Compacted 2@0 + 0@1 files => 1148040 bytes
-2024/10/18-04:34:21.961 1a20 compacted to: files[ 0 1 0 0 0 0 0 ]
+2024/10/18-12:18:54.410 c4c Recovering log #1185
+2024/10/18-12:18:54.411 c4c Level-0 table #1188: started
+2024/10/18-12:18:54.413 c4c Level-0 table #1188: 14349 bytes OK
+2024/10/18-12:18:54.417 c4c Delete type=0 #1185
+2024/10/18-12:18:54.418 c4c Delete type=3 #1183
