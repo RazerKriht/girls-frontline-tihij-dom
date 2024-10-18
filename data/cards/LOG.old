@@ -1,1 +1,4 @@
-2024/10/17-16:42:06.386 508 Delete type=3 #1
+2024/10/18-04:34:10.758 844 Log #925: 0 ops saved to Table #926 OK
+2024/10/18-04:34:10.758 844 Archiving C:/Users/qrurick/AppData/Local/FoundryVTT/Data/worlds/girls-frontline-tihij-dom/data/cards/000925.log: OK
+2024/10/18-04:34:10.760 844 Archiving C:/Users/qrurick/AppData/Local/FoundryVTT/Data/worlds/girls-frontline-tihij-dom/data/cards/MANIFEST-000924: OK
+2024/10/18-04:34:10.764 844 **** Repaired leveldb C:/Users/qrurick/AppData/Local/FoundryVTT/Data/worlds/girls-frontline-tihij-dom/data/cards; recovered 0 files; 0 bytes. Some data may have been lost. ****
