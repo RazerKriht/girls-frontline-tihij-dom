@@ -1,13 +1,22 @@
-2024/10/18-04:34:10.262 844 Log #2466: 851 ops saved to Table #2467 OK
-2024/10/18-04:34:10.263 844 Archiving C:/Users/qrurick/AppData/Local/FoundryVTT/Data/worlds/girls-frontline-tihij-dom/data/actors/002466.log: OK
-2024/10/18-04:34:10.277 844 Table #2457: 2216 entries OK
-2024/10/18-04:34:10.294 844 Table #2458: 3975 entries OK
-2024/10/18-04:34:10.308 844 Table #2459: 3584 entries OK
-2024/10/18-04:34:10.322 844 Table #2460: 3708 entries OK
-2024/10/18-04:34:10.339 844 Table #2461: 3597 entries OK
-2024/10/18-04:34:10.356 844 Table #2462: 3840 entries OK
-2024/10/18-04:34:10.363 844 Table #2463: 2100 entries OK
-2024/10/18-04:34:10.364 844 Table #2465: 1 entries OK
-2024/10/18-04:34:10.372 844 Table #2467: 851 entries OK
-2024/10/18-04:34:10.374 844 Archiving C:/Users/qrurick/AppData/Local/FoundryVTT/Data/worlds/girls-frontline-tihij-dom/data/actors/MANIFEST-002464: OK
-2024/10/18-04:34:10.377 844 **** Repaired leveldb C:/Users/qrurick/AppData/Local/FoundryVTT/Data/worlds/girls-frontline-tihij-dom/data/actors; recovered 9 files; 15868960 bytes. Some data may have been lost. ****
+2024/10/18-04:34:10.391 844 Delete type=3 #1
+2024/10/18-04:34:10.392 1a20 Compacting 9@0 + 0@1 files
+2024/10/18-04:34:10.459 1a20 Generated table #2470@0: 2271 keys, 2124482 bytes
+2024/10/18-04:34:10.538 1a20 Generated table #2471@0: 3968 keys, 2131402 bytes
+2024/10/18-04:34:10.618 1a20 Generated table #2472@0: 3565 keys, 2129293 bytes
+2024/10/18-04:34:10.699 1a20 Generated table #2473@0: 3704 keys, 2128666 bytes
+2024/10/18-04:34:10.775 1a20 Generated table #2474@0: 3586 keys, 2128863 bytes
+2024/10/18-04:34:10.854 1a20 Generated table #2475@0: 3896 keys, 2129581 bytes
+2024/10/18-04:34:10.882 1a20 Generated table #2476@0: 2079 keys, 712905 bytes
+2024/10/18-04:34:10.882 1a20 Compacted 9@0 + 0@1 files => 13485192 bytes
+2024/10/18-04:34:10.883 1a20 compacted to: files[ 0 7 0 0 0 0 0 ]
+2024/10/18-04:34:10.883 1a20 Delete type=2 #2457
+2024/10/18-04:34:10.884 1a20 Delete type=2 #2458
+2024/10/18-04:34:10.885 1a20 Delete type=2 #2459
+2024/10/18-04:34:10.885 1a20 Delete type=2 #2460
+2024/10/18-04:34:10.886 1a20 Delete type=2 #2461
+2024/10/18-04:34:10.887 1a20 Delete type=2 #2462
+2024/10/18-04:34:10.887 1a20 Delete type=2 #2463
+2024/10/18-04:34:10.887 1a20 Delete type=2 #2465
+2024/10/18-04:34:10.888 1a20 Delete type=2 #2467
+2024/10/18-04:34:10.889 1a20 Moved #2470 to level-2 2124482 bytes OK: files[ 0 6 1 0 0 0 0 ]
+2024/10/18-04:34:10.890 1a20 Moved #2471 to level-2 2131402 bytes OK: files[ 0 5 2 0 0 0 0 ]
