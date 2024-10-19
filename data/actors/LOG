@@ -1,20 +1,22 @@
-2024/10/18-13:54:57.474 10f8 Recovering log #2504
-2024/10/18-13:54:57.480 10f8 Level-0 table #2514: started
-2024/10/18-13:54:57.489 10f8 Level-0 table #2514: 343563 bytes OK
-2024/10/18-13:54:57.495 10f8 Delete type=0 #2504
-2024/10/18-13:54:57.495 10f8 Delete type=3 #2502
-2024/10/18-13:55:06.224 a48 Moved #2514 to level-1 343563 bytes OK: files[ 0 3 5 0 0 0 0 ]
-2024/10/18-13:55:06.226 a48 Compacting 1@1 + 5@2 files
-2024/10/18-13:55:06.285 a48 Generated table #2516@1: 2286 keys, 2123958 bytes
-2024/10/18-13:55:06.362 a48 Generated table #2517@1: 4036 keys, 2130700 bytes
-2024/10/18-13:55:06.469 a48 Generated table #2518@1: 3550 keys, 2128908 bytes
-2024/10/18-13:55:06.542 a48 Generated table #2519@1: 3825 keys, 2130385 bytes
-2024/10/18-13:55:06.596 a48 Generated table #2520@1: 2842 keys, 1746193 bytes
-2024/10/18-13:55:06.596 a48 Compacted 1@1 + 5@2 files => 10260144 bytes
-2024/10/18-13:55:06.597 a48 compacted to: files[ 0 2 5 0 0 0 0 ]
-2024/10/18-13:55:06.597 a48 Delete type=2 #2508
-2024/10/18-13:55:06.598 a48 Delete type=2 #2509
-2024/10/18-13:55:06.598 a48 Delete type=2 #2510
-2024/10/18-13:55:06.599 a48 Delete type=2 #2511
-2024/10/18-13:55:06.599 a48 Delete type=2 #2512
-2024/10/18-13:55:06.600 a48 Delete type=2 #2514
+2024/10/19-12:34:35.658 1ef0 Recovering log #2556
+2024/10/19-12:34:35.659 1ef0 Level-0 table #2565: started
+2024/10/19-12:34:35.666 1ef0 Level-0 table #2565: 168309 bytes OK
+2024/10/19-12:34:35.671 1ef0 Delete type=0 #2556
+2024/10/19-12:34:35.671 1ef0 Delete type=3 #2554
+2024/10/19-12:34:35.902 1fa4 Moved #2565 to level-1 168309 bytes OK: files[ 0 1 6 0 0 0 0 ]
+2024/10/19-12:34:47.155 1fa4 Compacting 1@1 + 6@2 files
+2024/10/19-12:34:47.214 1fa4 Generated table #2567@1: 2289 keys, 2125433 bytes
+2024/10/19-12:34:47.290 1fa4 Generated table #2568@1: 4041 keys, 2130757 bytes
+2024/10/19-12:34:47.381 1fa4 Generated table #2569@1: 3578 keys, 2128572 bytes
+2024/10/19-12:34:47.462 1fa4 Generated table #2570@1: 3832 keys, 2136792 bytes
+2024/10/19-12:34:47.532 1fa4 Generated table #2571@1: 3570 keys, 2128863 bytes
+2024/10/19-12:34:47.602 1fa4 Generated table #2572@1: 4406 keys, 1998215 bytes
+2024/10/19-12:34:47.602 1fa4 Compacted 1@1 + 6@2 files => 12648632 bytes
+2024/10/19-12:34:47.602 1fa4 compacted to: files[ 0 0 6 0 0 0 0 ]
+2024/10/19-12:34:47.603 1fa4 Delete type=2 #2558
+2024/10/19-12:34:47.603 1fa4 Delete type=2 #2559
+2024/10/19-12:34:47.604 1fa4 Delete type=2 #2560
+2024/10/19-12:34:47.604 1fa4 Delete type=2 #2561
+2024/10/19-12:34:47.605 1fa4 Delete type=2 #2562
+2024/10/19-12:34:47.605 1fa4 Delete type=2 #2563
+2024/10/19-12:34:47.606 1fa4 Delete type=2 #2565
