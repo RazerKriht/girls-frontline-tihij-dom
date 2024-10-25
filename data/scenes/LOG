@@ -1,5 +1,5 @@
-2024/10/25-12:35:02.206 25bc Recovering log #1386
-2024/10/25-12:35:02.206 25bc Level-0 table #1388: started
-2024/10/25-12:35:02.206 25bc Level-0 table #1388: 17429 bytes OK
-2024/10/25-12:35:02.214 25bc Delete type=0 #1386
-2024/10/25-12:35:02.214 25bc Delete type=3 #1385
+2024/10/26-01:20:55.773 a4c Recovering log #1395
+2024/10/26-01:20:55.773 a4c Level-0 table #1397: started
+2024/10/26-01:20:55.782 a4c Level-0 table #1397: 13198 bytes OK
+2024/10/26-01:20:55.783 a4c Delete type=0 #1395
+2024/10/26-01:20:55.783 a4c Delete type=3 #1394

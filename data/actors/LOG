@@ -1,25 +1,28 @@
-2024/10/25-12:35:01.413 205c Recovering log #3055
-2024/10/25-12:35:01.436 205c Level-0 table #3059: started
-2024/10/25-12:35:01.476 205c Level-0 table #3059: 3028443 bytes OK
-2024/10/25-12:35:01.476 205c Delete type=0 #3055
-2024/10/25-12:35:01.476 205c Delete type=3 #3054
-2024/10/25-12:35:01.486 1abc Compacting 4@0 + 4@1 files
-2024/10/25-12:35:01.546 1abc Generated table #3061@0: 2384 keys, 2123563 bytes
-2024/10/25-12:35:01.616 1abc Generated table #3062@0: 3894 keys, 2129819 bytes
-2024/10/25-12:35:01.689 1abc Generated table #3063@0: 3560 keys, 2130071 bytes
-2024/10/25-12:35:01.756 1abc Generated table #3064@0: 3820 keys, 2130975 bytes
-2024/10/25-12:35:01.830 1abc Generated table #3065@0: 3567 keys, 2127824 bytes
-2024/10/25-12:35:01.906 1abc Generated table #3066@0: 4004 keys, 2131345 bytes
-2024/10/25-12:35:01.926 1abc Generated table #3067@0: 1365 keys, 341879 bytes
-2024/10/25-12:35:01.926 1abc Compacted 4@0 + 4@1 files => 13115476 bytes
-2024/10/25-12:35:01.927 1abc compacted to: files[ 0 7 0 0 0 0 0 ]
-2024/10/25-12:35:01.927 1abc Delete type=2 #3046
-2024/10/25-12:35:01.927 1abc Delete type=2 #3047
-2024/10/25-12:35:01.927 1abc Delete type=2 #3050
-2024/10/25-12:35:01.929 1abc Delete type=2 #3051
-2024/10/25-12:35:01.929 1abc Delete type=2 #3052
-2024/10/25-12:35:01.929 1abc Delete type=2 #3056
-2024/10/25-12:35:01.930 1abc Delete type=2 #3057
-2024/10/25-12:35:01.931 1abc Delete type=2 #3059
-2024/10/25-12:35:01.933 1abc Moved #3061 to level-2 2123563 bytes OK: files[ 0 6 1 0 0 0 0 ]
-2024/10/25-12:35:01.933 1abc Moved #3062 to level-2 2129819 bytes OK: files[ 0 5 2 0 0 0 0 ]
+2024/10/26-01:20:55.221 950 Recovering log #3084
+2024/10/26-01:20:55.230 950 Level-0 table #3094: started
+2024/10/26-01:20:55.245 950 Level-0 table #3094: 941411 bytes OK
+2024/10/26-01:20:55.245 950 Delete type=0 #3084
+2024/10/26-01:20:55.245 950 Delete type=3 #3082
+2024/10/26-01:20:55.453 27fc Compacting 1@0 + 3@1 files
+2024/10/26-01:20:55.533 27fc Generated table #3096@0: 3441 keys, 2134232 bytes
+2024/10/26-01:20:55.646 27fc Generated table #3097@0: 3842 keys, 2130309 bytes
+2024/10/26-01:20:55.672 27fc Generated table #3098@0: 1647 keys, 528899 bytes
+2024/10/26-01:20:55.672 27fc Compacted 1@0 + 3@1 files => 4793440 bytes
+2024/10/26-01:20:55.672 27fc compacted to: files[ 0 3 4 0 0 0 0 ]
+2024/10/26-01:20:55.672 27fc Delete type=2 #3086
+2024/10/26-01:20:55.672 27fc Delete type=2 #3087
+2024/10/26-01:20:55.672 27fc Delete type=2 #3088
+2024/10/26-01:20:55.677 27fc Delete type=2 #3094
+2024/10/26-01:21:04.926 27fc Compacting 1@1 + 4@2 files
+2024/10/26-01:21:04.990 27fc Generated table #3099@1: 2336 keys, 2124270 bytes
+2024/10/26-01:21:05.071 27fc Generated table #3100@1: 3876 keys, 2129258 bytes
+2024/10/26-01:21:05.158 27fc Generated table #3101@1: 3522 keys, 2129137 bytes
+2024/10/26-01:21:05.245 27fc Generated table #3102@1: 3853 keys, 2129977 bytes
+2024/10/26-01:21:05.309 27fc Generated table #3103@1: 2681 keys, 1632307 bytes
+2024/10/26-01:21:05.309 27fc Compacted 1@1 + 4@2 files => 10144949 bytes
+2024/10/26-01:21:05.310 27fc compacted to: files[ 0 2 5 0 0 0 0 ]
+2024/10/26-01:21:05.310 27fc Delete type=2 #3089
+2024/10/26-01:21:05.311 27fc Delete type=2 #3090
+2024/10/26-01:21:05.311 27fc Delete type=2 #3091
+2024/10/26-01:21:05.312 27fc Delete type=2 #3092
+2024/10/26-01:21:05.312 27fc Delete type=2 #3096
