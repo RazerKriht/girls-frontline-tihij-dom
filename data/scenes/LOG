@@ -1,5 +1,9 @@
-2024/10/30-04:02:30.781 c58 Recovering log #1468
-2024/10/30-04:02:30.781 c58 Level-0 table #1470: started
-2024/10/30-04:02:30.785 c58 Level-0 table #1470: 3710 bytes OK
-2024/10/30-04:02:30.785 c58 Delete type=0 #1468
-2024/10/30-04:02:30.785 c58 Delete type=3 #1467
+2024/10/31-02:16:40.986 1d64 Recovering log #1486
+2024/10/31-02:16:40.987 1d64 Level-0 table #1488: started
+2024/10/31-02:16:40.989 1d64 Level-0 table #1488: 10545 bytes OK
+2024/10/31-02:16:40.992 1d64 Delete type=0 #1486
+2024/10/31-02:16:40.992 1d64 Delete type=3 #1485
+2024/10/31-02:16:47.591 1ee4 Compacting 1@0 + 1@1 files
+2024/10/31-02:16:47.620 1ee4 Generated table #1490@0: 8649 keys, 1192905 bytes
+2024/10/31-02:16:47.621 1ee4 Compacted 1@0 + 1@1 files => 1192905 bytes
+2024/10/31-02:16:47.622 1ee4 compacted to: files[ 0 1 0 0 0 0 0 ]
