@@ -1,5 +1,5 @@
-2024/10/31-02:16:41.044 1eac Recovering log #1787
-2024/10/31-02:16:41.045 1eac Level-0 table #1790: started
-2024/10/31-02:16:41.047 1eac Level-0 table #1790: 1822 bytes OK
-2024/10/31-02:16:41.051 1eac Delete type=0 #1787
-2024/10/31-02:16:41.051 1eac Delete type=3 #1785
+2024/10/31-14:55:20.931 d28 Recovering log #1800
+2024/10/31-14:55:20.931 d28 Level-0 table #1803: started
+2024/10/31-14:55:20.933 d28 Level-0 table #1803: 1822 bytes OK
+2024/10/31-14:55:20.936 d28 Delete type=0 #1800
+2024/10/31-14:55:20.936 d28 Delete type=3 #1798
