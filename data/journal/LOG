@@ -1,3 +1,5 @@
-2024/11/01-21:44:30.281 1edc Recovering log #1307
-2024/11/01-21:44:30.284 1edc Delete type=0 #1307
-2024/11/01-21:44:30.284 1edc Delete type=3 #1306
+2024/11/02-00:21:08.763 1ae0 Recovering log #1312
+2024/11/02-00:21:08.764 1ae0 Level-0 table #1314: started
+2024/11/02-00:21:08.768 1ae0 Level-0 table #1314: 2065 bytes OK
+2024/11/02-00:21:08.779 1ae0 Delete type=0 #1312
+2024/11/02-00:21:08.779 1ae0 Delete type=3 #1310
