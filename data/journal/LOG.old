@@ -1,5 +1,5 @@
-2024/11/02-00:21:08.763 1ae0 Recovering log #1312
-2024/11/02-00:21:08.764 1ae0 Level-0 table #1314: started
-2024/11/02-00:21:08.768 1ae0 Level-0 table #1314: 2065 bytes OK
-2024/11/02-00:21:08.779 1ae0 Delete type=0 #1312
-2024/11/02-00:21:08.779 1ae0 Delete type=3 #1310
+2024/11/02-22:39:46.778 1df8 Recovering log #1326
+2024/11/02-22:39:46.778 1df8 Level-0 table #1328: started
+2024/11/02-22:39:46.784 1df8 Level-0 table #1328: 3375 bytes OK
+2024/11/02-22:39:46.784 1df8 Delete type=0 #1326
+2024/11/02-22:39:46.784 1df8 Delete type=3 #1325
