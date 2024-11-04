@@ -1,3 +1,25 @@
-2024/11/04-23:50:17.358 f54 Recovering log #3720
-2024/11/04-23:50:17.364 f54 Delete type=0 #3720
-2024/11/04-23:50:17.365 f54 Delete type=3 #3719
+2024/11/05-02:31:22.173 990 Recovering log #3737
+2024/11/05-02:31:22.178 990 Level-0 table #3744: started
+2024/11/05-02:31:22.197 990 Level-0 table #3744: 842926 bytes OK
+2024/11/05-02:31:22.202 990 Delete type=0 #3737
+2024/11/05-02:31:22.203 990 Delete type=3 #3735
+2024/11/05-02:31:22.411 2cc0 Compacting 1@0 + 5@1 files
+2024/11/05-02:31:22.485 2cc0 Generated table #3746@0: 3651 keys, 2129502 bytes
+2024/11/05-02:31:22.565 2cc0 Generated table #3747@0: 3803 keys, 2131240 bytes
+2024/11/05-02:31:22.647 2cc0 Generated table #3748@0: 3726 keys, 2129477 bytes
+2024/11/05-02:31:22.715 2cc0 Generated table #3749@0: 3634 keys, 1606878 bytes
+2024/11/05-02:31:22.715 2cc0 Compacted 1@0 + 5@1 files => 7997097 bytes
+2024/11/05-02:31:22.717 2cc0 compacted to: files[ 0 4 3 0 0 0 0 ]
+2024/11/05-02:31:22.718 2cc0 Delete type=2 #3724
+2024/11/05-02:31:22.719 2cc0 Delete type=2 #3725
+2024/11/05-02:31:22.719 2cc0 Delete type=2 #3726
+2024/11/05-02:31:22.720 2cc0 Delete type=2 #3727
+2024/11/05-02:31:22.720 2cc0 Delete type=2 #3739
+2024/11/05-02:31:22.721 2cc0 Delete type=2 #3744
+2024/11/05-02:31:31.306 2cc0 Compacting 1@1 + 3@2 files
+2024/11/05-02:31:31.369 2cc0 Generated table #3750@1: 2129 keys, 2123200 bytes
+2024/11/05-02:31:31.489 2cc0 Generated table #3751@1: 3911 keys, 2130603 bytes
+2024/11/05-02:31:31.588 2cc0 Generated table #3752@1: 3450 keys, 2127600 bytes
+2024/11/05-02:31:31.660 2cc0 Generated table #3753@1: 3606 keys, 2085413 bytes
+2024/11/05-02:31:31.660 2cc0 Compacted 1@1 + 3@2 files => 8466816 bytes
+2024/11/05-02:31:31.661 2cc0 compacted to: files[ 0 3 4 0 0 0 0 ]
