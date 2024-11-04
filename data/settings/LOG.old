@@ -1,5 +1,5 @@
-2024/11/03-23:48:36.112 1fc0 Recovering log #1922
-2024/11/03-23:48:36.112 1fc0 Level-0 table #1925: started
-2024/11/03-23:48:36.113 1fc0 Level-0 table #1925: 1823 bytes OK
-2024/11/03-23:48:36.120 1fc0 Delete type=0 #1922
-2024/11/03-23:48:36.120 1fc0 Delete type=3 #1920
+2024/11/04-12:39:22.014 1fbc Recovering log #1935
+2024/11/04-12:39:22.014 1fbc Level-0 table #1938: started
+2024/11/04-12:39:22.015 1fbc Level-0 table #1938: 1823 bytes OK
+2024/11/04-12:39:22.021 1fbc Delete type=0 #1935
+2024/11/04-12:39:22.022 1fbc Delete type=3 #1933
