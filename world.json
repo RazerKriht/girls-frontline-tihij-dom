@@ -9,22 +9,10 @@
     "verified": "11"
   },
   "systemVersion": "v0.88.2",
-  "lastPlayed": "Tue Nov 05 2024 02:31:22 GMT+0300 (Москва, стандартное время)",
+  "lastPlayed": "Wed Nov 06 2024 00:15:46 GMT+0300 (Москва, стандартное время)",
   "playtime": 75656,
   "background": "worlds/girls-frontline-tihij-dom/user_icons/tech_image/main_art.jpg",
   "packs": [
-    {
-      "label": "Батлмапы",
-      "type": "Scene",
-      "name": "batlmapy",
-      "path": "packs/batlmapy",
-      "system": "cyberpunk-red-core",
-      "ownership": {
-        "PLAYER": "OBSERVER",
-        "ASSISTANT": "OWNER"
-      },
-      "flags": {}
-    },
     {
       "label": "Мои Макросы",
       "type": "Macro",
