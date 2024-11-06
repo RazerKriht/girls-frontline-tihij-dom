@@ -1,8 +1,24 @@
-2024/11/06-03:21:49.084 230c Delete type=3 #1
-2024/11/06-03:21:49.084 15d4 Compacting 2@0 + 0@1 files
-2024/11/06-03:21:49.144 15d4 Generated table #3845@0: 2074 keys, 2122411 bytes
-2024/11/06-03:21:49.144 15d4 Compacted 2@0 + 0@1 files => 2122411 bytes
-2024/11/06-03:21:49.145 15d4 compacted to: files[ 6 1 0 0 0 0 0 ]
-2024/11/06-03:21:49.146 15d4 Moved #3839 to level-1 2129665 bytes OK: files[ 5 2 0 0 0 0 0 ]
-2024/11/06-03:21:49.147 15d4 Moved #3840 to level-1 2131082 bytes OK: files[ 4 3 0 0 0 0 0 ]
-2024/11/06-03:21:49.147 15d4 Moved #3841 to level-1 2130975 bytes OK: files[ 3 4 0 0 0 0 0 ]
+2024/11/06-14:04:15.085 14e8 Recovering log #3855
+2024/11/06-14:04:15.085 14e8 Level-0 table #3860: started
+2024/11/06-14:04:15.087 14e8 Level-0 table #3860: 57123 bytes OK
+2024/11/06-14:04:15.090 14e8 Delete type=2 #3840
+2024/11/06-14:04:15.091 14e8 Delete type=2 #3850
+2024/11/06-14:04:15.091 14e8 Delete type=2 #3851
+2024/11/06-14:04:15.091 14e8 Delete type=2 #3852
+2024/11/06-14:04:15.091 14e8 Delete type=2 #3853
+2024/11/06-14:04:15.091 14e8 Delete type=0 #3855
+2024/11/06-14:04:15.092 14e8 Delete type=3 #3854
+2024/11/06-14:04:15.093 166c Moved #3832 to level-1 2129436 bytes OK: files[ 3 5 0 0 0 0 0 ]
+2024/11/06-14:04:15.093 166c Moved #3856 to level-2 2120936 bytes OK: files[ 3 4 1 0 0 0 0 ]
+2024/11/06-14:04:26.458 166c Compacting 1@0 + 1@1 files
+2024/11/06-14:04:26.507 166c Generated table #3862@0: 3785 keys, 2129523 bytes
+2024/11/06-14:04:26.509 166c Generated table #3863@0: 59 keys, 31672 bytes
+2024/11/06-14:04:26.509 166c Compacted 1@0 + 1@1 files => 2161195 bytes
+2024/11/06-14:04:26.510 166c compacted to: files[ 2 5 1 0 0 0 0 ]
+2024/11/06-14:04:26.513 166c Compacting 1@1 + 1@2 files
+2024/11/06-14:04:26.551 166c Generated table #3864@1: 2073 keys, 2120968 bytes
+2024/11/06-14:04:26.597 166c Generated table #3865@1: 3781 keys, 2103603 bytes
+2024/11/06-14:04:26.597 166c Compacted 1@1 + 1@2 files => 4224571 bytes
+2024/11/06-14:04:26.598 166c compacted to: files[ 2 4 2 0 0 0 0 ]
+2024/11/06-14:04:26.598 166c Delete type=2 #3857
+2024/11/06-14:04:26.598 166c Delete type=2 #3860
