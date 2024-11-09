@@ -1,24 +1,5 @@
-2024/11/08-01:51:37.410 c1c Recovering log #4102
-2024/11/08-01:51:37.413 c1c Level-0 table #4112: started
-2024/11/08-01:51:37.425 c1c Level-0 table #4112: 866749 bytes OK
-2024/11/08-01:51:37.428 c1c Delete type=0 #4102
-2024/11/08-01:51:37.428 c1c Delete type=3 #4092
-2024/11/08-01:51:37.570 1cf4 Moved #4112 to level-1 866749 bytes OK: files[ 0 1 7 0 0 0 0 ]
-2024/11/08-01:51:44.890 1cf4 Compacting 1@1 + 7@2 files
-2024/11/08-01:51:44.932 1cf4 Generated table #4114@1: 2219 keys, 2122040 bytes
-2024/11/08-01:51:44.979 1cf4 Generated table #4115@1: 4025 keys, 2130551 bytes
-2024/11/08-01:51:45.025 1cf4 Generated table #4116@1: 3670 keys, 2130496 bytes
-2024/11/08-01:51:45.104 1cf4 Generated table #4117@1: 3617 keys, 2130878 bytes
-2024/11/08-01:51:45.157 1cf4 Generated table #4118@1: 3770 keys, 2128942 bytes
-2024/11/08-01:51:45.202 1cf4 Generated table #4119@1: 3895 keys, 2129300 bytes
-2024/11/08-01:51:45.221 1cf4 Generated table #4120@1: 2424 keys, 860635 bytes
-2024/11/08-01:51:45.221 1cf4 Compacted 1@1 + 7@2 files => 13632842 bytes
-2024/11/08-01:51:45.221 1cf4 compacted to: files[ 0 0 7 0 0 0 0 ]
-2024/11/08-01:51:45.221 1cf4 Delete type=2 #4104
-2024/11/08-01:51:45.222 1cf4 Delete type=2 #4105
-2024/11/08-01:51:45.222 1cf4 Delete type=2 #4106
-2024/11/08-01:51:45.222 1cf4 Delete type=2 #4107
-2024/11/08-01:51:45.222 1cf4 Delete type=2 #4108
-2024/11/08-01:51:45.223 1cf4 Delete type=2 #4109
-2024/11/08-01:51:45.223 1cf4 Delete type=2 #4110
-2024/11/08-01:51:45.223 1cf4 Delete type=2 #4112
+2024/11/09-04:36:25.340 23dc Recovering log #4147
+2024/11/09-04:36:25.340 23dc Delete type=2 #4134
+2024/11/09-04:36:25.340 23dc Delete type=2 #4142
+2024/11/09-04:36:25.340 23dc Delete type=0 #4147
+2024/11/09-04:36:25.340 23dc Delete type=3 #4146
