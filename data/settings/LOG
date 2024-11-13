@@ -1,5 +1,5 @@
-2024/11/12-22:12:09.564 11dc Recovering log #2329
-2024/11/12-22:12:09.564 11dc Level-0 table #2332: started
-2024/11/12-22:12:09.564 11dc Level-0 table #2332: 1823 bytes OK
-2024/11/12-22:12:09.574 11dc Delete type=0 #2329
-2024/11/12-22:12:09.574 11dc Delete type=3 #2327
+2024/11/13-20:26:14.910 1cd4 Recovering log #2359
+2024/11/13-20:26:14.911 1cd4 Level-0 table #2361: started
+2024/11/13-20:26:14.912 1cd4 Level-0 table #2361: 1823 bytes OK
+2024/11/13-20:26:14.916 1cd4 Delete type=0 #2359
+2024/11/13-20:26:14.916 1cd4 Delete type=3 #2357
