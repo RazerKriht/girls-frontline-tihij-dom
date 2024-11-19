@@ -1,5 +1,5 @@
-2024/11/18-15:16:04.930 1fc4 Recovering log #1946
-2024/11/18-15:16:04.930 1fc4 Level-0 table #1948: started
-2024/11/18-15:16:04.932 1fc4 Level-0 table #1948: 199 bytes OK
-2024/11/18-15:16:04.935 1fc4 Delete type=0 #1946
-2024/11/18-15:16:04.935 1fc4 Delete type=3 #1945
+2024/11/20-00:27:58.733 cb4 Recovering log #1981
+2024/11/20-00:27:58.733 cb4 Level-0 table #1983: started
+2024/11/20-00:27:58.734 cb4 Level-0 table #1983: 1848 bytes OK
+2024/11/20-00:27:58.738 cb4 Delete type=0 #1981
+2024/11/20-00:27:58.738 cb4 Delete type=3 #1980
