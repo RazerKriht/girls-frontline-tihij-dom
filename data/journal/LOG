@@ -1,3 +1,12 @@
-2024/11/23-02:00:55.898 22a0 Recovering log #1974
-2024/11/23-02:00:55.902 22a0 Delete type=0 #1974
-2024/11/23-02:00:55.902 22a0 Delete type=3 #1973
+2024/11/23-18:55:16.558 da4 Recovering log #1981
+2024/11/23-18:55:16.558 da4 Level-0 table #1983: started
+2024/11/23-18:55:16.559 da4 Level-0 table #1983: 5761 bytes OK
+2024/11/23-18:55:16.563 da4 Delete type=0 #1981
+2024/11/23-18:55:16.563 da4 Delete type=3 #1980
+2024/11/23-19:01:19.130 19ac Compacting 2@0 + 1@1 files
+2024/11/23-19:01:19.134 19ac Generated table #1985@0: 219 keys, 125060 bytes
+2024/11/23-19:01:19.134 19ac Compacted 2@0 + 1@1 files => 125060 bytes
+2024/11/23-19:01:19.135 19ac compacted to: files[ 0 1 0 0 0 0 0 ]
+2024/11/23-19:01:19.135 19ac Delete type=2 #1972
+2024/11/23-19:01:19.135 19ac Delete type=2 #1978
+2024/11/23-19:01:19.136 19ac Delete type=2 #1983
