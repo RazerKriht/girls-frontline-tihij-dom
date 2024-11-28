@@ -1,30 +1,5 @@
-2024/11/28-01:49:38.509 d10 Recovering log #5705
-2024/11/28-01:49:38.514 d10 Level-0 table #5717: started
-2024/11/28-01:49:38.529 d10 Level-0 table #5717: 1043257 bytes OK
-2024/11/28-01:49:38.533 d10 Delete type=0 #5705
-2024/11/28-01:49:38.534 d10 Delete type=3 #5696
-2024/11/28-01:49:38.681 1ed4 Compacting 1@0 + 4@1 files
-2024/11/28-01:49:38.739 1ed4 Generated table #5719@0: 3708 keys, 2131089 bytes
-2024/11/28-01:49:38.795 1ed4 Generated table #5720@0: 3754 keys, 2129011 bytes
-2024/11/28-01:49:38.843 1ed4 Generated table #5721@0: 4407 keys, 2131828 bytes
-2024/11/28-01:49:38.848 1ed4 Generated table #5722@0: 673 keys, 154884 bytes
-2024/11/28-01:49:38.848 1ed4 Compacted 1@0 + 4@1 files => 6546812 bytes
-2024/11/28-01:49:38.849 1ed4 compacted to: files[ 0 4 4 0 0 0 0 ]
-2024/11/28-01:49:38.849 1ed4 Delete type=2 #5708
-2024/11/28-01:49:38.849 1ed4 Delete type=2 #5709
-2024/11/28-01:49:38.850 1ed4 Delete type=2 #5710
-2024/11/28-01:49:38.850 1ed4 Delete type=2 #5711
-2024/11/28-01:49:38.850 1ed4 Delete type=2 #5717
-2024/11/28-01:49:43.609 1ed4 Compacting 1@1 + 4@2 files
-2024/11/28-01:49:43.644 1ed4 Generated table #5723@1: 1947 keys, 2121930 bytes
-2024/11/28-01:49:43.694 1ed4 Generated table #5724@1: 3985 keys, 2129475 bytes
-2024/11/28-01:49:43.743 1ed4 Generated table #5725@1: 3766 keys, 2129363 bytes
-2024/11/28-01:49:43.788 1ed4 Generated table #5726@1: 3736 keys, 2128823 bytes
-2024/11/28-01:49:43.848 1ed4 Generated table #5727@1: 3616 keys, 2022239 bytes
-2024/11/28-01:49:43.848 1ed4 Compacted 1@1 + 4@2 files => 10531830 bytes
-2024/11/28-01:49:43.848 1ed4 compacted to: files[ 0 3 5 0 0 0 0 ]
-2024/11/28-01:49:43.848 1ed4 Delete type=2 #5712
-2024/11/28-01:49:43.849 1ed4 Delete type=2 #5713
-2024/11/28-01:49:43.849 1ed4 Delete type=2 #5714
-2024/11/28-01:49:43.849 1ed4 Delete type=2 #5715
-2024/11/28-01:49:43.850 1ed4 Delete type=2 #5719
+2024/11/28-16:08:58.511 380 Recovering log #5756
+2024/11/28-16:08:58.511 380 Level-0 table #5758: started
+2024/11/28-16:08:58.511 380 Level-0 table #5758: 19319 bytes OK
+2024/11/28-16:08:58.515 380 Delete type=0 #5756
+2024/11/28-16:08:58.515 380 Delete type=3 #5755
