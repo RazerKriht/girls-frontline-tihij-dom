@@ -1,3 +1,5 @@
-2024/11/29-21:11:54.833 94c Recovering log #2096
-2024/11/29-21:11:54.847 94c Delete type=0 #2096
-2024/11/29-21:11:54.847 94c Delete type=3 #2095
+2024/11/30-01:46:09.951 1edc Recovering log #2098
+2024/11/30-01:46:09.952 1edc Level-0 table #2100: started
+2024/11/30-01:46:09.952 1edc Level-0 table #2100: 14541 bytes OK
+2024/11/30-01:46:09.952 1edc Delete type=0 #2098
+2024/11/30-01:46:09.952 1edc Delete type=3 #2097
