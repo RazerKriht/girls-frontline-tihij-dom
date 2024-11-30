@@ -1,26 +1,6 @@
-2024/11/30-01:46:09.551 1ee4 Recovering log #5841
-2024/11/30-01:46:09.574 1ee4 Level-0 table #5850: started
-2024/11/30-01:46:09.592 1ee4 Level-0 table #5850: 1762876 bytes OK
-2024/11/30-01:46:09.595 1ee4 Delete type=0 #5841
-2024/11/30-01:46:09.596 1ee4 Delete type=3 #5839
-2024/11/30-01:46:09.798 f7c Moved #5850 to level-1 1762876 bytes OK: files[ 0 1 8 0 0 0 0 ]
-2024/11/30-01:46:16.300 f7c Compacting 1@1 + 8@2 files
-2024/11/30-01:46:16.351 f7c Generated table #5852@1: 1942 keys, 2121134 bytes
-2024/11/30-01:46:16.395 f7c Generated table #5853@1: 3964 keys, 2129388 bytes
-2024/11/30-01:46:16.439 f7c Generated table #5854@1: 3732 keys, 2131387 bytes
-2024/11/30-01:46:16.491 f7c Generated table #5855@1: 3771 keys, 2131044 bytes
-2024/11/30-01:46:16.549 f7c Generated table #5856@1: 3729 keys, 2128668 bytes
-2024/11/30-01:46:16.612 f7c Generated table #5857@1: 3778 keys, 2130706 bytes
-2024/11/30-01:46:16.660 f7c Generated table #5858@1: 4624 keys, 2133175 bytes
-2024/11/30-01:46:16.662 f7c Generated table #5859@1: 186 keys, 42793 bytes
-2024/11/30-01:46:16.662 f7c Compacted 1@1 + 8@2 files => 14948295 bytes
-2024/11/30-01:46:16.662 f7c compacted to: files[ 0 0 8 0 0 0 0 ]
-2024/11/30-01:46:16.662 f7c Delete type=2 #5771
-2024/11/30-01:46:16.663 f7c Delete type=2 #5842
-2024/11/30-01:46:16.663 f7c Delete type=2 #5843
-2024/11/30-01:46:16.663 f7c Delete type=2 #5844
-2024/11/30-01:46:16.663 f7c Delete type=2 #5845
-2024/11/30-01:46:16.664 f7c Delete type=2 #5846
-2024/11/30-01:46:16.664 f7c Delete type=2 #5847
-2024/11/30-01:46:16.664 f7c Delete type=2 #5848
-2024/11/30-01:46:16.664 f7c Delete type=2 #5850
+2024/11/30-17:27:28.590 2288 Recovering log #5872
+2024/11/30-17:27:28.593 2288 Delete type=0 #5872
+2024/11/30-17:27:28.593 2288 Delete type=3 #5870
+2024/11/30-20:48:18.636 168 Level-0 table #5876: started
+2024/11/30-20:48:18.666 168 Level-0 table #5876: 2426371 bytes OK
+2024/11/30-20:48:18.668 168 Delete type=0 #5874
