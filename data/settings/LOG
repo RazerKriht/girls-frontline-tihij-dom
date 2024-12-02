@@ -1,5 +1,5 @@
-2024/12/02-21:47:43.961 1ebc Recovering log #2980
-2024/12/02-21:47:43.961 1ebc Level-0 table #2982: started
-2024/12/02-21:47:43.962 1ebc Level-0 table #2982: 1839 bytes OK
-2024/12/02-21:47:43.966 1ebc Delete type=0 #2980
-2024/12/02-21:47:43.966 1ebc Delete type=3 #2978
+2024/12/03-02:04:57.342 1e3c Recovering log #2993
+2024/12/03-02:04:57.342 1e3c Level-0 table #2995: started
+2024/12/03-02:04:57.348 1e3c Level-0 table #2995: 1839 bytes OK
+2024/12/03-02:04:57.354 1e3c Delete type=0 #2993
+2024/12/03-02:04:57.354 1e3c Delete type=3 #2991
