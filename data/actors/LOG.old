@@ -1,26 +1,23 @@
-2024/12/06-00:13:22.486 5b4 Recovering log #6303
-2024/12/06-00:13:22.491 5b4 Level-0 table #6305: started
-2024/12/06-00:13:22.493 5b4 Level-0 table #6305: 136287 bytes OK
-2024/12/06-00:13:22.493 5b4 Delete type=0 #6303
-2024/12/06-00:13:22.493 5b4 Delete type=3 #6302
-2024/12/06-00:13:22.675 1c6c Moved #6305 to level-1 136287 bytes OK: files[ 0 1 8 0 0 0 0 ]
-2024/12/06-00:13:28.095 1c6c Compacting 1@1 + 8@2 files
-2024/12/06-00:13:28.140 1c6c Generated table #6307@1: 1901 keys, 2122344 bytes
-2024/12/06-00:13:28.187 1c6c Generated table #6308@1: 3799 keys, 2129433 bytes
-2024/12/06-00:13:28.231 1c6c Generated table #6309@1: 3808 keys, 2130115 bytes
-2024/12/06-00:13:28.277 1c6c Generated table #6310@1: 3638 keys, 2129598 bytes
-2024/12/06-00:13:28.331 1c6c Generated table #6311@1: 3775 keys, 2130022 bytes
-2024/12/06-00:13:28.392 1c6c Generated table #6312@1: 3683 keys, 2129586 bytes
-2024/12/06-00:13:28.455 1c6c Generated table #6313@1: 3985 keys, 2131086 bytes
-2024/12/06-00:13:28.470 1c6c Generated table #6314@1: 1508 keys, 355775 bytes
-2024/12/06-00:13:28.470 1c6c Compacted 1@1 + 8@2 files => 15257959 bytes
-2024/12/06-00:13:28.471 1c6c compacted to: files[ 0 0 8 0 0 0 0 ]
-2024/12/06-00:13:28.471 1c6c Delete type=2 #6294
-2024/12/06-00:13:28.471 1c6c Delete type=2 #6295
-2024/12/06-00:13:28.472 1c6c Delete type=2 #6296
-2024/12/06-00:13:28.472 1c6c Delete type=2 #6297
-2024/12/06-00:13:28.473 1c6c Delete type=2 #6298
-2024/12/06-00:13:28.473 1c6c Delete type=2 #6299
-2024/12/06-00:13:28.473 1c6c Delete type=2 #6300
-2024/12/06-00:13:28.474 1c6c Delete type=2 #6301
-2024/12/06-00:13:28.474 1c6c Delete type=2 #6305
+2024/12/06-00:17:27.480 1e54 Recovering log #6306
+2024/12/06-00:17:27.480 1e54 Level-0 table #6316: started
+2024/12/06-00:17:27.480 1e54 Level-0 table #6316: 80052 bytes OK
+2024/12/06-00:17:27.490 1e54 Delete type=0 #6306
+2024/12/06-00:17:27.490 1e54 Delete type=3 #6304
+2024/12/06-00:17:34.126 22f0 Moved #6316 to level-1 80052 bytes OK: files[ 0 1 8 0 0 0 0 ]
+2024/12/06-00:17:34.127 22f0 Compacting 1@1 + 6@2 files
+2024/12/06-00:17:34.178 22f0 Generated table #6318@1: 1901 keys, 2122153 bytes
+2024/12/06-00:17:34.224 22f0 Generated table #6319@1: 3799 keys, 2129433 bytes
+2024/12/06-00:17:34.288 22f0 Generated table #6320@1: 3808 keys, 2130115 bytes
+2024/12/06-00:17:34.334 22f0 Generated table #6321@1: 3638 keys, 2129598 bytes
+2024/12/06-00:17:34.378 22f0 Generated table #6322@1: 3775 keys, 2130022 bytes
+2024/12/06-00:17:34.433 22f0 Generated table #6323@1: 3680 keys, 2130347 bytes
+2024/12/06-00:17:34.435 22f0 Generated table #6324@1: 2 keys, 2487 bytes
+2024/12/06-00:17:34.435 22f0 Compacted 1@1 + 6@2 files => 12774155 bytes
+2024/12/06-00:17:34.435 22f0 compacted to: files[ 0 0 9 0 0 0 0 ]
+2024/12/06-00:17:34.435 22f0 Delete type=2 #6307
+2024/12/06-00:17:34.436 22f0 Delete type=2 #6308
+2024/12/06-00:17:34.436 22f0 Delete type=2 #6309
+2024/12/06-00:17:34.436 22f0 Delete type=2 #6310
+2024/12/06-00:17:34.437 22f0 Delete type=2 #6311
+2024/12/06-00:17:34.437 22f0 Delete type=2 #6312
+2024/12/06-00:17:34.437 22f0 Delete type=2 #6316
