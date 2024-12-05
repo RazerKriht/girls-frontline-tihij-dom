@@ -1,5 +1,5 @@
-2024/12/06-00:17:28.011 1e4c Recovering log #3054
-2024/12/06-00:17:28.011 1e4c Level-0 table #3057: started
-2024/12/06-00:17:28.011 1e4c Level-0 table #3057: 1839 bytes OK
-2024/12/06-00:17:28.011 1e4c Delete type=0 #3054
-2024/12/06-00:17:28.011 1e4c Delete type=3 #3052
+2024/12/06-00:41:36.456 1d6c Recovering log #3058
+2024/12/06-00:41:36.464 1d6c Level-0 table #3060: started
+2024/12/06-00:41:36.464 1d6c Level-0 table #3060: 1839 bytes OK
+2024/12/06-00:41:36.469 1d6c Delete type=0 #3058
+2024/12/06-00:41:36.469 1d6c Delete type=3 #3056
