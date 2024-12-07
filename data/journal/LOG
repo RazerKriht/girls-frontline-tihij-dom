@@ -1,3 +1,5 @@
-2024/12/07-17:50:34.849 2b4 Recovering log #2273
-2024/12/07-17:50:34.854 2b4 Delete type=0 #2273
-2024/12/07-17:50:34.854 2b4 Delete type=3 #2272
+2024/12/07-22:14:53.374 1dec Recovering log #2275
+2024/12/07-22:14:53.374 1dec Level-0 table #2277: started
+2024/12/07-22:14:53.384 1dec Level-0 table #2277: 1711 bytes OK
+2024/12/07-22:14:53.384 1dec Delete type=0 #2275
+2024/12/07-22:14:53.384 1dec Delete type=3 #2274

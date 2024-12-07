@@ -1,3 +1,5 @@
-2024/12/07-17:50:35.744 2b4 Recovering log #2010
-2024/12/07-17:50:35.747 2b4 Delete type=0 #2010
-2024/12/07-17:50:35.747 2b4 Delete type=3 #2009
+2024/12/07-22:14:53.704 1dec Recovering log #2012
+2024/12/07-22:14:53.704 1dec Level-0 table #2014: started
+2024/12/07-22:14:53.704 1dec Level-0 table #2014: 5038 bytes OK
+2024/12/07-22:14:53.715 1dec Delete type=0 #2012
+2024/12/07-22:14:53.715 1dec Delete type=3 #2011
