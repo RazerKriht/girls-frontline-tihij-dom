@@ -1,5 +1,5 @@
-2024/12/08-23:56:12.095 1cf4 Recovering log #3185
-2024/12/08-23:56:12.095 1cf4 Level-0 table #3188: started
-2024/12/08-23:56:12.095 1cf4 Level-0 table #3188: 2020 bytes OK
-2024/12/08-23:56:12.107 1cf4 Delete type=0 #3185
-2024/12/08-23:56:12.107 1cf4 Delete type=3 #3183
+2024/12/10-18:40:39.128 5cc Recovering log #3198
+2024/12/10-18:40:39.128 5cc Level-0 table #3201: started
+2024/12/10-18:40:39.129 5cc Level-0 table #3201: 2020 bytes OK
+2024/12/10-18:40:39.133 5cc Delete type=0 #3198
+2024/12/10-18:40:39.133 5cc Delete type=3 #3196
