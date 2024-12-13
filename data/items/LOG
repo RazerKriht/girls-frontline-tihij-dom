@@ -1,3 +1,5 @@
-2024/12/13-01:24:34.204 ee0 Recovering log #2377
-2024/12/13-01:24:34.213 ee0 Delete type=0 #2377
-2024/12/13-01:24:34.213 ee0 Delete type=3 #2376
+2024/12/13-13:52:00.775 1cfc Recovering log #2402
+2024/12/13-13:52:00.775 1cfc Level-0 table #2404: started
+2024/12/13-13:52:00.779 1cfc Level-0 table #2404: 1553 bytes OK
+2024/12/13-13:52:00.779 1cfc Delete type=0 #2402
+2024/12/13-13:52:00.779 1cfc Delete type=3 #2401
