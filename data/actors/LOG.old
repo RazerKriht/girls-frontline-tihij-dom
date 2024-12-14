@@ -1,15 +1,27 @@
-2024/12/14-05:49:14.311 a9c Log #7196: 444 ops saved to Table #7201 OK
-2024/12/14-05:49:14.311 a9c Archiving C:/Users/SystemX/AppData/Local/FoundryVTT/Data/worlds/girls-frontline-tihij-dom/data/actors/007196.log: OK
-2024/12/14-05:49:14.311 a9c Table #6755: 16 entries OK
-2024/12/14-05:49:14.320 a9c Table #7179: 3756 entries OK
-2024/12/14-05:49:14.322 a9c Table #7180: 1887 entries OK
-2024/12/14-05:49:14.330 a9c Table #7184: 3377 entries OK
-2024/12/14-05:49:14.337 a9c Table #7185: 3569 entries OK
-2024/12/14-05:49:14.343 a9c Table #7186: 3542 entries OK
-2024/12/14-05:49:14.343 a9c Table #7187: 3391 entries OK
-2024/12/14-05:49:14.352 a9c Table #7198: 1586 entries OK
-2024/12/14-05:49:14.361 a9c Table #7199: 3645 entries OK
-2024/12/14-05:49:14.361 a9c Table #7200: 3840 entries OK
-2024/12/14-05:49:14.361 a9c Table #7201: 444 entries OK
-2024/12/14-05:49:14.372 a9c Archiving C:/Users/SystemX/AppData/Local/FoundryVTT/Data/worlds/girls-frontline-tihij-dom/data/actors/MANIFEST-007194: OK
-2024/12/14-05:49:14.372 a9c **** Repaired leveldb C:/Users/SystemX/AppData/Local/FoundryVTT/Data/worlds/girls-frontline-tihij-dom/data/actors; recovered 11 files; 18685335 bytes. Some data may have been lost. ****
+2024/12/14-05:49:14.381 a9c Delete type=3 #1
+2024/12/14-05:49:14.381 1310 Compacting 10@0 + 0@1 files
+2024/12/14-05:49:14.422 1310 Generated table #7204@0: 1586 keys, 2121557 bytes
+2024/12/14-05:49:14.462 1310 Generated table #7205@0: 3648 keys, 2129371 bytes
+2024/12/14-05:49:14.531 1310 Generated table #7206@0: 3806 keys, 2129190 bytes
+2024/12/14-05:49:14.582 1310 Generated table #7207@0: 3402 keys, 2128237 bytes
+2024/12/14-05:49:14.631 1310 Generated table #7208@0: 3547 keys, 2128887 bytes
+2024/12/14-05:49:14.704 1310 Generated table #7209@0: 3547 keys, 2129775 bytes
+2024/12/14-05:49:14.764 1310 Generated table #7210@0: 3637 keys, 2128965 bytes
+2024/12/14-05:49:14.832 1310 Generated table #7211@0: 3769 keys, 2129460 bytes
+2024/12/14-05:49:14.848 1310 Generated table #7212@0: 1686 keys, 427219 bytes
+2024/12/14-05:49:14.848 1310 Compacted 10@0 + 0@1 files => 17452661 bytes
+2024/12/14-05:49:14.848 1310 compacted to: files[ 1 9 0 0 0 0 0 ]
+2024/12/14-05:49:14.848 1310 Delete type=2 #7179
+2024/12/14-05:49:14.848 1310 Delete type=2 #7180
+2024/12/14-05:49:14.848 1310 Delete type=2 #7184
+2024/12/14-05:49:14.848 1310 Delete type=2 #7185
+2024/12/14-05:49:14.848 1310 Delete type=2 #7186
+2024/12/14-05:49:14.852 1310 Delete type=2 #7187
+2024/12/14-05:49:14.852 1310 Delete type=2 #7198
+2024/12/14-05:49:14.852 1310 Delete type=2 #7199
+2024/12/14-05:49:14.852 1310 Delete type=2 #7200
+2024/12/14-05:49:14.852 1310 Delete type=2 #7201
+2024/12/14-05:49:14.931 1310 Moved #7204 to level-2 2121557 bytes OK: files[ 1 8 1 0 0 0 0 ]
+2024/12/14-05:49:14.941 1310 Moved #7205 to level-2 2129371 bytes OK: files[ 1 7 2 0 0 0 0 ]
+2024/12/14-05:49:14.941 1310 Moved #7206 to level-2 2129190 bytes OK: files[ 1 6 3 0 0 0 0 ]
+2024/12/14-05:49:14.941 1310 Moved #7207 to level-2 2128237 bytes OK: files[ 1 5 4 0 0 0 0 ]

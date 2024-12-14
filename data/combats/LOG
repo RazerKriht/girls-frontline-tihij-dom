@@ -1,1 +1,5 @@
-2024/12/14-05:49:14.713 cc4 Delete type=3 #1
+2024/12/14-08:05:01.332 1fec Recovering log #2261
+2024/12/14-08:05:01.332 1fec Level-0 table #2263: started
+2024/12/14-08:05:01.334 1fec Level-0 table #2263: 969 bytes OK
+2024/12/14-08:05:01.338 1fec Delete type=0 #2261
+2024/12/14-08:05:01.338 1fec Delete type=3 #2260

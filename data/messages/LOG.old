@@ -1,8 +1,10 @@
-2024/12/14-05:49:14.644 1818 Log #2567: 0 ops saved to Table #2568 OK
-2024/12/14-05:49:14.644 1818 Archiving C:/Users/SystemX/AppData/Local/FoundryVTT/Data/worlds/girls-frontline-tihij-dom/data/messages/002567.log: OK
-2024/12/14-05:49:14.653 1818 Table #2544: 2967 entries OK
-2024/12/14-05:49:14.653 1818 Table #2545: 1006 entries OK
-2024/12/14-05:49:14.653 1818 Table #2553: 70 entries OK
-2024/12/14-05:49:14.653 1818 Table #2560: 63 entries OK
-2024/12/14-05:49:14.653 1818 Archiving C:/Users/SystemX/AppData/Local/FoundryVTT/Data/worlds/girls-frontline-tihij-dom/data/messages/MANIFEST-002566: OK
-2024/12/14-05:49:14.660 1818 **** Repaired leveldb C:/Users/SystemX/AppData/Local/FoundryVTT/Data/worlds/girls-frontline-tihij-dom/data/messages; recovered 4 files; 2901958 bytes. Some data may have been lost. ****
+2024/12/14-05:49:14.663 1818 Delete type=3 #1
+2024/12/14-05:49:14.852 1310 Compacting 4@0 + 0@1 files
+2024/12/14-05:49:14.914 1310 Generated table #2571@0: 2968 keys, 2135568 bytes
+2024/12/14-05:49:14.931 1310 Generated table #2572@0: 1006 keys, 714443 bytes
+2024/12/14-05:49:14.931 1310 Compacted 4@0 + 0@1 files => 2850011 bytes
+2024/12/14-05:49:14.931 1310 compacted to: files[ 0 2 0 0 0 0 0 ]
+2024/12/14-05:49:14.931 1310 Delete type=2 #2544
+2024/12/14-05:49:14.931 1310 Delete type=2 #2545
+2024/12/14-05:49:14.931 1310 Delete type=2 #2553
+2024/12/14-05:49:14.931 1310 Delete type=2 #2560

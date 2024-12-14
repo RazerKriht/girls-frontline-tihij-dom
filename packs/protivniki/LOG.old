@@ -1,8 +1,7 @@
-2024/12/14-05:49:15.081 a9c Log #2173: 0 ops saved to Table #2174 OK
-2024/12/14-05:49:15.081 a9c Archiving C:\Users\SystemX\AppData\Local\FoundryVTT\Data\worlds\girls-frontline-tihij-dom\packs\protivniki/002173.log: OK
-2024/12/14-05:49:15.081 a9c Table #2008: 14 entries OK
-2024/12/14-05:49:15.096 a9c Table #2151: 4436 entries OK
-2024/12/14-05:49:15.096 a9c Table #2152: 599 entries OK
-2024/12/14-05:49:15.096 a9c Table #2160: 6 entries OK
-2024/12/14-05:49:15.101 a9c Archiving C:\Users\SystemX\AppData\Local\FoundryVTT\Data\worlds\girls-frontline-tihij-dom\packs\protivniki/MANIFEST-002172: OK
-2024/12/14-05:49:15.101 a9c **** Repaired leveldb C:\Users\SystemX\AppData\Local\FoundryVTT\Data\worlds\girls-frontline-tihij-dom\packs\protivniki; recovered 4 files; 2398574 bytes. Some data may have been lost. ****
+2024/12/14-05:49:15.112 a9c Delete type=3 #1
+2024/12/14-05:49:15.112 1310 Compacting 2@0 + 0@1 files
+2024/12/14-05:49:15.164 1310 Generated table #2177@0: 4436 keys, 2132797 bytes
+2024/12/14-05:49:15.164 1310 Compacted 2@0 + 0@1 files => 2132797 bytes
+2024/12/14-05:49:15.164 1310 compacted to: files[ 2 1 0 0 0 0 0 ]
+2024/12/14-05:49:15.164 1310 Delete type=2 #2151
+2024/12/14-05:49:15.164 1310 Delete type=2 #2160

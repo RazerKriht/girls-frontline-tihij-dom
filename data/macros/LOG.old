@@ -1,8 +1,2 @@
-2024/12/14-05:49:14.846 cc4 Log #2247: 0 ops saved to Table #2248 OK
-2024/12/14-05:49:14.847 cc4 Archiving C:/Users/SystemX/AppData/Local/FoundryVTT/Data/worlds/girls-frontline-tihij-dom/data/macros/002247.log: OK
-2024/12/14-05:49:14.848 cc4 Table #179: 2 entries OK
-2024/12/14-05:49:14.848 cc4 Table #1686: 2 entries OK
-2024/12/14-05:49:14.848 cc4 Table #2192: 2 entries OK
-2024/12/14-05:49:14.848 cc4 Table #2238: 2 entries OK
-2024/12/14-05:49:14.852 cc4 Archiving C:/Users/SystemX/AppData/Local/FoundryVTT/Data/worlds/girls-frontline-tihij-dom/data/macros/MANIFEST-002246: OK
-2024/12/14-05:49:14.853 cc4 **** Repaired leveldb C:/Users/SystemX/AppData/Local/FoundryVTT/Data/worlds/girls-frontline-tihij-dom/data/macros; recovered 4 files; 13242 bytes. Some data may have been lost. ****
+2024/12/14-05:49:14.862 cc4 Delete type=3 #1
+2024/12/14-05:49:14.941 1310 Moved #179 to level-1 4230 bytes OK: files[ 3 1 0 0 0 0 0 ]
