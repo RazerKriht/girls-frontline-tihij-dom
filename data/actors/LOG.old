@@ -1,5 +1,15 @@
-2024/12/14-03:05:13.863 1cd4 Recovering log #7190
-2024/12/14-03:05:13.863 1cd4 Level-0 table #7192: started
-2024/12/14-03:05:13.872 1cd4 Level-0 table #7192: 10742 bytes OK
-2024/12/14-03:05:13.923 1cd4 Delete type=0 #7190
-2024/12/14-03:05:13.923 1cd4 Delete type=3 #7188
+2024/12/14-05:49:14.311 a9c Log #7196: 444 ops saved to Table #7201 OK
+2024/12/14-05:49:14.311 a9c Archiving C:/Users/SystemX/AppData/Local/FoundryVTT/Data/worlds/girls-frontline-tihij-dom/data/actors/007196.log: OK
+2024/12/14-05:49:14.311 a9c Table #6755: 16 entries OK
+2024/12/14-05:49:14.320 a9c Table #7179: 3756 entries OK
+2024/12/14-05:49:14.322 a9c Table #7180: 1887 entries OK
+2024/12/14-05:49:14.330 a9c Table #7184: 3377 entries OK
+2024/12/14-05:49:14.337 a9c Table #7185: 3569 entries OK
+2024/12/14-05:49:14.343 a9c Table #7186: 3542 entries OK
+2024/12/14-05:49:14.343 a9c Table #7187: 3391 entries OK
+2024/12/14-05:49:14.352 a9c Table #7198: 1586 entries OK
+2024/12/14-05:49:14.361 a9c Table #7199: 3645 entries OK
+2024/12/14-05:49:14.361 a9c Table #7200: 3840 entries OK
+2024/12/14-05:49:14.361 a9c Table #7201: 444 entries OK
+2024/12/14-05:49:14.372 a9c Archiving C:/Users/SystemX/AppData/Local/FoundryVTT/Data/worlds/girls-frontline-tihij-dom/data/actors/MANIFEST-007194: OK
+2024/12/14-05:49:14.372 a9c **** Repaired leveldb C:/Users/SystemX/AppData/Local/FoundryVTT/Data/worlds/girls-frontline-tihij-dom/data/actors; recovered 11 files; 18685335 bytes. Some data may have been lost. ****
