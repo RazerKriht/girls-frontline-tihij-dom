@@ -1,5 +1,23 @@
-2024/12/14-03:05:13.863 1cd4 Recovering log #7190
-2024/12/14-03:05:13.863 1cd4 Level-0 table #7192: started
-2024/12/14-03:05:13.872 1cd4 Level-0 table #7192: 10742 bytes OK
-2024/12/14-03:05:13.923 1cd4 Delete type=0 #7190
-2024/12/14-03:05:13.923 1cd4 Delete type=3 #7188
+2024/12/14-04:10:13.067 c74 Recovering log #7193
+2024/12/14-04:10:13.069 c74 Level-0 table #7195: started
+2024/12/14-04:10:13.075 c74 Level-0 table #7195: 84449 bytes OK
+2024/12/14-04:10:13.080 c74 Delete type=0 #7193
+2024/12/14-04:10:13.080 c74 Delete type=3 #7191
+2024/12/14-04:10:13.082 5dc Moved #6755 to level-1 4232 bytes OK: files[ 3 3 7 0 0 0 0 ]
+2024/12/14-04:10:20.801 5dc Compacting 3@0 + 0@1 files
+2024/12/14-04:10:20.811 5dc Generated table #7197@0: 10 keys, 51030 bytes
+2024/12/14-04:10:20.811 5dc Compacted 3@0 + 0@1 files => 51030 bytes
+2024/12/14-04:10:20.812 5dc compacted to: files[ 0 4 7 0 0 0 0 ]
+2024/12/14-04:10:20.812 5dc Delete type=2 #7189
+2024/12/14-04:10:20.813 5dc Delete type=2 #7192
+2024/12/14-04:10:20.813 5dc Delete type=2 #7195
+2024/12/14-04:10:20.815 5dc Compacting 1@1 + 3@2 files
+2024/12/14-04:10:20.883 5dc Generated table #7198@1: 1586 keys, 2121860 bytes
+2024/12/14-04:10:21.027 5dc Generated table #7199@1: 3645 keys, 2127968 bytes
+2024/12/14-04:10:21.124 5dc Generated table #7200@1: 3840 keys, 2130382 bytes
+2024/12/14-04:10:21.124 5dc Compacted 1@1 + 3@2 files => 6380210 bytes
+2024/12/14-04:10:21.125 5dc compacted to: files[ 0 3 7 0 0 0 0 ]
+2024/12/14-04:10:21.125 5dc Delete type=2 #7181
+2024/12/14-04:10:21.126 5dc Delete type=2 #7182
+2024/12/14-04:10:21.126 5dc Delete type=2 #7183
+2024/12/14-04:10:21.127 5dc Delete type=2 #7197
