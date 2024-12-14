@@ -1,5 +1,5 @@
-2024/12/14-08:05:01.281 1fec Recovering log #2570
-2024/12/14-08:05:01.282 1fec Level-0 table #2574: started
-2024/12/14-08:05:01.283 1fec Level-0 table #2574: 19423 bytes OK
-2024/12/14-08:05:01.287 1fec Delete type=0 #2570
-2024/12/14-08:05:01.287 1fec Delete type=3 #2569
+2024/12/14-08:59:28.242 1cf0 Recovering log #2575
+2024/12/14-08:59:28.242 1cf0 Level-0 table #2577: started
+2024/12/14-08:59:28.243 1cf0 Level-0 table #2577: 951 bytes OK
+2024/12/14-08:59:28.246 1cf0 Delete type=0 #2575
+2024/12/14-08:59:28.248 1cf0 Delete type=3 #2573
