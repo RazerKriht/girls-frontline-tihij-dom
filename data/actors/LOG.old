@@ -1,28 +1,13 @@
-2024/12/15-14:47:58.297 1a68 Recovering log #7349
-2024/12/15-14:47:58.307 1a68 Level-0 table #7357: started
-2024/12/15-14:47:58.314 1a68 Level-0 table #7357: 824169 bytes OK
-2024/12/15-14:47:58.314 1a68 Delete type=0 #7349
-2024/12/15-14:47:58.314 1a68 Delete type=3 #7347
-2024/12/15-14:47:58.514 77c Moved #7357 to level-1 824169 bytes OK: files[ 0 1 9 0 0 0 0 ]
-2024/12/15-14:48:04.557 77c Compacting 1@1 + 9@2 files
-2024/12/15-14:48:04.593 77c Generated table #7359@1: 1326 keys, 2119507 bytes
-2024/12/15-14:48:04.642 77c Generated table #7360@1: 3600 keys, 2128942 bytes
-2024/12/15-14:48:04.702 77c Generated table #7361@1: 4014 keys, 2135530 bytes
-2024/12/15-14:48:04.752 77c Generated table #7362@1: 3539 keys, 2128679 bytes
-2024/12/15-14:48:04.848 77c Generated table #7363@1: 3372 keys, 2126991 bytes
-2024/12/15-14:48:05.154 77c Generated table #7364@1: 3595 keys, 2128635 bytes
-2024/12/15-14:48:05.697 77c Generated table #7365@1: 3273 keys, 2128789 bytes
-2024/12/15-14:48:05.742 77c Generated table #7366@1: 3941 keys, 2129856 bytes
-2024/12/15-14:48:05.795 77c Generated table #7367@1: 3838 keys, 1637540 bytes
-2024/12/15-14:48:05.795 77c Compacted 1@1 + 9@2 files => 18664469 bytes
-2024/12/15-14:48:05.829 77c compacted to: files[ 0 0 9 0 0 0 0 ]
-2024/12/15-14:48:05.829 77c Delete type=2 #7338
-2024/12/15-14:48:05.830 77c Delete type=2 #7339
-2024/12/15-14:48:05.830 77c Delete type=2 #7340
-2024/12/15-14:48:05.830 77c Delete type=2 #7350
-2024/12/15-14:48:05.831 77c Delete type=2 #7351
-2024/12/15-14:48:05.831 77c Delete type=2 #7352
-2024/12/15-14:48:05.831 77c Delete type=2 #7353
-2024/12/15-14:48:05.831 77c Delete type=2 #7354
-2024/12/15-14:48:05.832 77c Delete type=2 #7355
-2024/12/15-14:48:05.832 77c Delete type=2 #7357
+2024/12/15-17:38:22.542 17d4 Log #7370: 0 ops saved to Table #7380 OK
+2024/12/15-17:38:22.542 17d4 Archiving C:/Users/qrurick/AppData/Local/FoundryVTT/Data/worlds/girls-frontline-tihij-dom/data/actors/007370.log: OK
+2024/12/15-17:38:22.560 17d4 Table #7371: 1375 entries OK
+2024/12/15-17:38:22.574 17d4 Table #7372: 3668 entries OK
+2024/12/15-17:38:22.591 17d4 Table #7373: 3982 entries OK
+2024/12/15-17:38:22.601 17d4 Table #7374: 3520 entries OK
+2024/12/15-17:38:22.621 17d4 Table #7375: 3373 entries OK
+2024/12/15-17:38:22.632 17d4 Table #7376: 3531 entries OK
+2024/12/15-17:38:22.651 17d4 Table #7377: 3435 entries OK
+2024/12/15-17:38:22.666 17d4 Table #7378: 3886 entries OK
+2024/12/15-17:38:22.680 17d4 Table #7379: 3108 entries OK
+2024/12/15-17:38:22.682 17d4 Archiving C:/Users/qrurick/AppData/Local/FoundryVTT/Data/worlds/girls-frontline-tihij-dom/data/actors/MANIFEST-007368: OK
+2024/12/15-17:38:22.685 17d4 **** Repaired leveldb C:/Users/qrurick/AppData/Local/FoundryVTT/Data/worlds/girls-frontline-tihij-dom/data/actors; recovered 9 files; 18244894 bytes. Some data may have been lost. ****
