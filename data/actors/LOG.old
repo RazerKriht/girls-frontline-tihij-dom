@@ -1,13 +1,14 @@
-2024/12/15-17:38:22.542 17d4 Log #7370: 0 ops saved to Table #7380 OK
-2024/12/15-17:38:22.542 17d4 Archiving C:/Users/qrurick/AppData/Local/FoundryVTT/Data/worlds/girls-frontline-tihij-dom/data/actors/007370.log: OK
-2024/12/15-17:38:22.560 17d4 Table #7371: 1375 entries OK
-2024/12/15-17:38:22.574 17d4 Table #7372: 3668 entries OK
-2024/12/15-17:38:22.591 17d4 Table #7373: 3982 entries OK
-2024/12/15-17:38:22.601 17d4 Table #7374: 3520 entries OK
-2024/12/15-17:38:22.621 17d4 Table #7375: 3373 entries OK
-2024/12/15-17:38:22.632 17d4 Table #7376: 3531 entries OK
-2024/12/15-17:38:22.651 17d4 Table #7377: 3435 entries OK
-2024/12/15-17:38:22.666 17d4 Table #7378: 3886 entries OK
-2024/12/15-17:38:22.680 17d4 Table #7379: 3108 entries OK
-2024/12/15-17:38:22.682 17d4 Archiving C:/Users/qrurick/AppData/Local/FoundryVTT/Data/worlds/girls-frontline-tihij-dom/data/actors/MANIFEST-007368: OK
-2024/12/15-17:38:22.685 17d4 **** Repaired leveldb C:/Users/qrurick/AppData/Local/FoundryVTT/Data/worlds/girls-frontline-tihij-dom/data/actors; recovered 9 files; 18244894 bytes. Some data may have been lost. ****
+2024/12/15-19:09:59.015 cfc Log #7382: 515 ops saved to Table #7383 OK
+2024/12/15-19:09:59.015 cfc Archiving C:/Users/SystemX/AppData/Local/FoundryVTT/Data/worlds/girls-frontline-tihij-dom/data/actors/007382.log: OK
+2024/12/15-19:09:59.021 cfc Table #7371: 1375 entries OK
+2024/12/15-19:09:59.027 cfc Table #7372: 3668 entries OK
+2024/12/15-19:09:59.039 cfc Table #7373: 3982 entries OK
+2024/12/15-19:09:59.045 cfc Table #7374: 3520 entries OK
+2024/12/15-19:09:59.051 cfc Table #7375: 3373 entries OK
+2024/12/15-19:09:59.062 cfc Table #7376: 3531 entries OK
+2024/12/15-19:09:59.062 cfc Table #7377: 3435 entries OK
+2024/12/15-19:09:59.075 cfc Table #7378: 3886 entries OK
+2024/12/15-19:09:59.077 cfc Table #7379: 3108 entries OK
+2024/12/15-19:09:59.081 cfc Table #7383: 515 entries OK
+2024/12/15-19:09:59.081 cfc Archiving C:/Users/SystemX/AppData/Local/FoundryVTT/Data/worlds/girls-frontline-tihij-dom/data/actors/MANIFEST-007381: OK
+2024/12/15-19:09:59.081 cfc **** Repaired leveldb C:/Users/SystemX/AppData/Local/FoundryVTT/Data/worlds/girls-frontline-tihij-dom/data/actors; recovered 10 files; 19230035 bytes. Some data may have been lost. ****

@@ -1,6 +1,6 @@
-2024/12/15-17:38:23.251 c7c Log #2274: 0 ops saved to Table #2275 OK
-2024/12/15-17:38:23.251 c7c Archiving C:/Users/qrurick/AppData/Local/FoundryVTT/Data/worlds/girls-frontline-tihij-dom/data/fog/002274.log: OK
-2024/12/15-17:38:23.251 c7c Table #1324: 7 entries OK
-2024/12/15-17:38:23.251 c7c Table #1996: 19 entries OK
-2024/12/15-17:38:23.257 c7c Archiving C:/Users/qrurick/AppData/Local/FoundryVTT/Data/worlds/girls-frontline-tihij-dom/data/fog/MANIFEST-002273: OK
-2024/12/15-17:38:23.261 c7c **** Repaired leveldb C:/Users/qrurick/AppData/Local/FoundryVTT/Data/worlds/girls-frontline-tihij-dom/data/fog; recovered 2 files; 375293 bytes. Some data may have been lost. ****
+2024/12/15-19:09:59.594 1604 Log #2277: 0 ops saved to Table #2278 OK
+2024/12/15-19:09:59.601 1604 Archiving C:/Users/SystemX/AppData/Local/FoundryVTT/Data/worlds/girls-frontline-tihij-dom/data/fog/002277.log: OK
+2024/12/15-19:09:59.601 1604 Table #1324: 7 entries OK
+2024/12/15-19:09:59.601 1604 Table #1996: 19 entries OK
+2024/12/15-19:09:59.601 1604 Archiving C:/Users/SystemX/AppData/Local/FoundryVTT/Data/worlds/girls-frontline-tihij-dom/data/fog/MANIFEST-002276: OK
+2024/12/15-19:09:59.601 1604 **** Repaired leveldb C:/Users/SystemX/AppData/Local/FoundryVTT/Data/worlds/girls-frontline-tihij-dom/data/fog; recovered 2 files; 375293 bytes. Some data may have been lost. ****

@@ -1,9 +1,27 @@
-2024/12/15-17:38:22.692 17d4 Delete type=3 #1
-2024/12/15-17:38:22.701 1134 Moved #7371 to level-1 2118908 bytes OK: files[ 8 1 0 0 0 0 0 ]
-2024/12/15-17:38:22.703 1134 Moved #7372 to level-1 2128330 bytes OK: files[ 7 2 0 0 0 0 0 ]
-2024/12/15-17:38:22.704 1134 Moved #7373 to level-1 2129196 bytes OK: files[ 6 3 0 0 0 0 0 ]
-2024/12/15-17:38:22.705 1134 Moved #7374 to level-1 2128448 bytes OK: files[ 5 4 0 0 0 0 0 ]
-2024/12/15-17:38:22.706 1134 Moved #7375 to level-1 2132681 bytes OK: files[ 4 5 0 0 0 0 0 ]
-2024/12/15-17:38:22.706 1134 Moved #7371 to level-2 2118908 bytes OK: files[ 4 4 1 0 0 0 0 ]
-2024/12/15-17:38:22.706 1134 Moved #7376 to level-1 2129791 bytes OK: files[ 3 5 1 0 0 0 0 ]
-2024/12/15-17:38:22.706 1134 Moved #7372 to level-2 2128330 bytes OK: files[ 3 4 2 0 0 0 0 ]
+2024/12/15-19:09:59.095 cfc Delete type=3 #1
+2024/12/15-19:09:59.095 1a70 Compacting 10@0 + 0@1 files
+2024/12/15-19:09:59.132 1a70 Generated table #7386@0: 1577 keys, 2119011 bytes
+2024/12/15-19:09:59.202 1a70 Generated table #7387@0: 3569 keys, 2128395 bytes
+2024/12/15-19:09:59.259 1a70 Generated table #7388@0: 4070 keys, 2130505 bytes
+2024/12/15-19:09:59.301 1a70 Generated table #7389@0: 3366 keys, 2133383 bytes
+2024/12/15-19:09:59.351 1a70 Generated table #7390@0: 3402 keys, 2128444 bytes
+2024/12/15-19:09:59.407 1a70 Generated table #7391@0: 3499 keys, 2129965 bytes
+2024/12/15-19:09:59.467 1a70 Generated table #7392@0: 3459 keys, 2127738 bytes
+2024/12/15-19:09:59.512 1a70 Generated table #7393@0: 3926 keys, 2130911 bytes
+2024/12/15-19:09:59.545 1a70 Generated table #7394@0: 2923 keys, 1130600 bytes
+2024/12/15-19:09:59.545 1a70 Compacted 10@0 + 0@1 files => 18158952 bytes
+2024/12/15-19:09:59.545 1a70 compacted to: files[ 0 9 0 0 0 0 0 ]
+2024/12/15-19:09:59.545 1a70 Delete type=2 #7371
+2024/12/15-19:09:59.545 1a70 Delete type=2 #7372
+2024/12/15-19:09:59.551 1a70 Delete type=2 #7373
+2024/12/15-19:09:59.551 1a70 Delete type=2 #7374
+2024/12/15-19:09:59.551 1a70 Delete type=2 #7375
+2024/12/15-19:09:59.551 1a70 Delete type=2 #7376
+2024/12/15-19:09:59.551 1a70 Delete type=2 #7377
+2024/12/15-19:09:59.551 1a70 Delete type=2 #7378
+2024/12/15-19:09:59.551 1a70 Delete type=2 #7379
+2024/12/15-19:09:59.551 1a70 Delete type=2 #7383
+2024/12/15-19:09:59.551 1a70 Moved #7386 to level-2 2119011 bytes OK: files[ 0 8 1 0 0 0 0 ]
+2024/12/15-19:09:59.551 1a70 Moved #7387 to level-2 2128395 bytes OK: files[ 0 7 2 0 0 0 0 ]
+2024/12/15-19:09:59.551 1a70 Moved #7388 to level-2 2130505 bytes OK: files[ 0 6 3 0 0 0 0 ]
+2024/12/15-19:09:59.551 1a70 Moved #7389 to level-2 2133383 bytes OK: files[ 0 5 4 0 0 0 0 ]
