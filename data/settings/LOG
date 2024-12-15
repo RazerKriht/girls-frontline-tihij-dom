@@ -1,5 +1,14 @@
-2024/12/15-07:30:44.872 20ec Recovering log #3397
-2024/12/15-07:30:44.872 20ec Level-0 table #3399: started
-2024/12/15-07:30:44.873 20ec Level-0 table #3399: 2020 bytes OK
-2024/12/15-07:30:44.876 20ec Delete type=0 #3397
-2024/12/15-07:30:44.877 20ec Delete type=3 #3395
+2024/12/15-15:14:16.471 bb4 Recovering log #3413
+2024/12/15-15:14:16.471 bb4 Level-0 table #3415: started
+2024/12/15-15:14:16.472 bb4 Level-0 table #3415: 2020 bytes OK
+2024/12/15-15:14:16.472 bb4 Delete type=0 #3413
+2024/12/15-15:14:16.472 bb4 Delete type=3 #3411
+2024/12/15-15:14:16.472 cc Compacting 4@0 + 1@1 files
+2024/12/15-15:14:16.479 cc Generated table #3417@0: 67 keys, 29105 bytes
+2024/12/15-15:14:16.479 cc Compacted 4@0 + 1@1 files => 29105 bytes
+2024/12/15-15:14:16.479 cc compacted to: files[ 0 1 0 0 0 0 0 ]
+2024/12/15-15:14:16.479 cc Delete type=2 #3404
+2024/12/15-15:14:16.479 cc Delete type=2 #3406
+2024/12/15-15:14:16.479 cc Delete type=2 #3409
+2024/12/15-15:14:16.479 cc Delete type=2 #3412
+2024/12/15-15:14:16.479 cc Delete type=2 #3415
