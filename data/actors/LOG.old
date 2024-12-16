@@ -1,14 +1,11 @@
-2024/12/15-19:09:59.015 cfc Log #7382: 515 ops saved to Table #7383 OK
-2024/12/15-19:09:59.015 cfc Archiving C:/Users/SystemX/AppData/Local/FoundryVTT/Data/worlds/girls-frontline-tihij-dom/data/actors/007382.log: OK
-2024/12/15-19:09:59.021 cfc Table #7371: 1375 entries OK
-2024/12/15-19:09:59.027 cfc Table #7372: 3668 entries OK
-2024/12/15-19:09:59.039 cfc Table #7373: 3982 entries OK
-2024/12/15-19:09:59.045 cfc Table #7374: 3520 entries OK
-2024/12/15-19:09:59.051 cfc Table #7375: 3373 entries OK
-2024/12/15-19:09:59.062 cfc Table #7376: 3531 entries OK
-2024/12/15-19:09:59.062 cfc Table #7377: 3435 entries OK
-2024/12/15-19:09:59.075 cfc Table #7378: 3886 entries OK
-2024/12/15-19:09:59.077 cfc Table #7379: 3108 entries OK
-2024/12/15-19:09:59.081 cfc Table #7383: 515 entries OK
-2024/12/15-19:09:59.081 cfc Archiving C:/Users/SystemX/AppData/Local/FoundryVTT/Data/worlds/girls-frontline-tihij-dom/data/actors/MANIFEST-007381: OK
-2024/12/15-19:09:59.081 cfc **** Repaired leveldb C:/Users/SystemX/AppData/Local/FoundryVTT/Data/worlds/girls-frontline-tihij-dom/data/actors; recovered 10 files; 19230035 bytes. Some data may have been lost. ****
+2024/12/16-06:09:32.966 1074 Recovering log #7397
+2024/12/16-06:09:32.966 1074 Delete type=0 #7397
+2024/12/16-06:09:32.966 1074 Delete type=3 #7395
+2024/12/16-06:09:39.572 15a4 Compacting 1@1 + 4@2 files
+2024/12/16-06:09:39.626 15a4 Generated table #7405@1: 1559 keys, 2121325 bytes
+2024/12/16-06:09:39.674 15a4 Generated table #7406@1: 3701 keys, 2129869 bytes
+2024/12/16-06:09:39.720 15a4 Generated table #7407@1: 3777 keys, 2135277 bytes
+2024/12/16-06:09:39.766 15a4 Generated table #7408@1: 3286 keys, 2127558 bytes
+2024/12/16-06:09:39.798 15a4 Generated table #7409@1: 2544 keys, 1520822 bytes
+2024/12/16-06:09:39.798 15a4 Compacted 1@1 + 4@2 files => 10034851 bytes
+2024/12/16-06:09:39.799 15a4 compacted to: files[ 0 4 5 0 0 0 0 ]

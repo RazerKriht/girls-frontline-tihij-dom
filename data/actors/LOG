@@ -1,27 +1,37 @@
-2024/12/15-19:09:59.095 cfc Delete type=3 #1
-2024/12/15-19:09:59.095 1a70 Compacting 10@0 + 0@1 files
-2024/12/15-19:09:59.132 1a70 Generated table #7386@0: 1577 keys, 2119011 bytes
-2024/12/15-19:09:59.202 1a70 Generated table #7387@0: 3569 keys, 2128395 bytes
-2024/12/15-19:09:59.259 1a70 Generated table #7388@0: 4070 keys, 2130505 bytes
-2024/12/15-19:09:59.301 1a70 Generated table #7389@0: 3366 keys, 2133383 bytes
-2024/12/15-19:09:59.351 1a70 Generated table #7390@0: 3402 keys, 2128444 bytes
-2024/12/15-19:09:59.407 1a70 Generated table #7391@0: 3499 keys, 2129965 bytes
-2024/12/15-19:09:59.467 1a70 Generated table #7392@0: 3459 keys, 2127738 bytes
-2024/12/15-19:09:59.512 1a70 Generated table #7393@0: 3926 keys, 2130911 bytes
-2024/12/15-19:09:59.545 1a70 Generated table #7394@0: 2923 keys, 1130600 bytes
-2024/12/15-19:09:59.545 1a70 Compacted 10@0 + 0@1 files => 18158952 bytes
-2024/12/15-19:09:59.545 1a70 compacted to: files[ 0 9 0 0 0 0 0 ]
-2024/12/15-19:09:59.545 1a70 Delete type=2 #7371
-2024/12/15-19:09:59.545 1a70 Delete type=2 #7372
-2024/12/15-19:09:59.551 1a70 Delete type=2 #7373
-2024/12/15-19:09:59.551 1a70 Delete type=2 #7374
-2024/12/15-19:09:59.551 1a70 Delete type=2 #7375
-2024/12/15-19:09:59.551 1a70 Delete type=2 #7376
-2024/12/15-19:09:59.551 1a70 Delete type=2 #7377
-2024/12/15-19:09:59.551 1a70 Delete type=2 #7378
-2024/12/15-19:09:59.551 1a70 Delete type=2 #7379
-2024/12/15-19:09:59.551 1a70 Delete type=2 #7383
-2024/12/15-19:09:59.551 1a70 Moved #7386 to level-2 2119011 bytes OK: files[ 0 8 1 0 0 0 0 ]
-2024/12/15-19:09:59.551 1a70 Moved #7387 to level-2 2128395 bytes OK: files[ 0 7 2 0 0 0 0 ]
-2024/12/15-19:09:59.551 1a70 Moved #7388 to level-2 2130505 bytes OK: files[ 0 6 3 0 0 0 0 ]
-2024/12/15-19:09:59.551 1a70 Moved #7389 to level-2 2133383 bytes OK: files[ 0 5 4 0 0 0 0 ]
+2024/12/16-13:53:42.594 1010 Recovering log #7404
+2024/12/16-13:53:42.605 1010 Level-0 table #7411: started
+2024/12/16-13:53:42.639 1010 Level-0 table #7411: 1248981 bytes OK
+2024/12/16-13:53:42.644 1010 Delete type=2 #7386
+2024/12/16-13:53:42.644 1010 Delete type=2 #7387
+2024/12/16-13:53:42.644 1010 Delete type=2 #7388
+2024/12/16-13:53:42.644 1010 Delete type=2 #7389
+2024/12/16-13:53:42.644 1010 Delete type=2 #7398
+2024/12/16-13:53:42.644 1010 Delete type=0 #7404
+2024/12/16-13:53:42.644 1010 Delete type=3 #7403
+2024/12/16-13:53:42.846 1fcc Compacting 1@0 + 4@1 files
+2024/12/16-13:53:42.888 1fcc Generated table #7413@0: 3523 keys, 2128363 bytes
+2024/12/16-13:53:42.936 1fcc Generated table #7414@0: 3436 keys, 2129120 bytes
+2024/12/16-13:53:43.007 1fcc Generated table #7415@0: 3867 keys, 2131619 bytes
+2024/12/16-13:53:43.041 1fcc Generated table #7416@0: 3164 keys, 1280525 bytes
+2024/12/16-13:53:43.041 1fcc Compacted 1@0 + 4@1 files => 7669627 bytes
+2024/12/16-13:53:43.042 1fcc compacted to: files[ 0 4 5 0 0 0 0 ]
+2024/12/16-13:53:43.042 1fcc Delete type=2 #7399
+2024/12/16-13:53:43.042 1fcc Delete type=2 #7400
+2024/12/16-13:53:43.043 1fcc Delete type=2 #7401
+2024/12/16-13:53:43.043 1fcc Delete type=2 #7402
+2024/12/16-13:53:43.043 1fcc Delete type=2 #7411
+2024/12/16-13:53:50.313 1fcc Compacting 1@1 + 5@2 files
+2024/12/16-13:53:50.344 1fcc Generated table #7417@1: 1559 keys, 2121013 bytes
+2024/12/16-13:53:50.389 1fcc Generated table #7418@1: 3701 keys, 2129858 bytes
+2024/12/16-13:53:50.435 1fcc Generated table #7419@1: 3777 keys, 2135340 bytes
+2024/12/16-13:53:50.480 1fcc Generated table #7420@1: 3289 keys, 2127512 bytes
+2024/12/16-13:53:50.527 1fcc Generated table #7421@1: 3536 keys, 2129871 bytes
+2024/12/16-13:53:50.574 1fcc Generated table #7422@1: 2265 keys, 1351429 bytes
+2024/12/16-13:53:50.574 1fcc Compacted 1@1 + 5@2 files => 11995023 bytes
+2024/12/16-13:53:50.575 1fcc compacted to: files[ 0 3 6 0 0 0 0 ]
+2024/12/16-13:53:50.575 1fcc Delete type=2 #7405
+2024/12/16-13:53:50.575 1fcc Delete type=2 #7406
+2024/12/16-13:53:50.576 1fcc Delete type=2 #7407
+2024/12/16-13:53:50.576 1fcc Delete type=2 #7408
+2024/12/16-13:53:50.576 1fcc Delete type=2 #7409
+2024/12/16-13:53:50.576 1fcc Delete type=2 #7413
