@@ -1,14 +1,17 @@
-2024/12/17-21:20:35.140 1c68 Recovering log #7491
-2024/12/17-21:20:35.140 1c68 Level-0 table #7501: started
-2024/12/17-21:20:35.145 1c68 Level-0 table #7501: 51789 bytes OK
-2024/12/17-21:20:35.147 1c68 Delete type=0 #7491
-2024/12/17-21:20:35.147 1c68 Delete type=3 #7489
-2024/12/17-21:20:42.412 1f04 Moved #7501 to level-1 51789 bytes OK: files[ 0 1 11 0 0 0 0 ]
-2024/12/17-21:20:42.417 1f04 Compacting 1@1 + 5@2 files
-2024/12/17-21:20:42.453 1f04 Generated table #7503@1: 1569 keys, 2120158 bytes
-2024/12/17-21:20:42.498 1f04 Generated table #7504@1: 3690 keys, 2129951 bytes
-2024/12/17-21:20:42.542 1f04 Generated table #7505@1: 3722 keys, 2133998 bytes
-2024/12/17-21:20:42.590 1f04 Generated table #7506@1: 3314 keys, 2126894 bytes
-2024/12/17-21:20:42.634 1f04 Generated table #7507@1: 3552 keys, 2128867 bytes
-2024/12/17-21:20:42.634 1f04 Compacted 1@1 + 5@2 files => 10639868 bytes
-2024/12/17-21:20:42.634 1f04 compacted to: files[ 0 0 11 0 0 0 0 ]
+2024/12/18-07:59:28.593 e34 Recovering log #7510
+2024/12/18-07:59:28.599 e34 Level-0 table #7521: started
+2024/12/18-07:59:28.606 e34 Level-0 table #7521: 601090 bytes OK
+2024/12/18-07:59:28.610 e34 Delete type=0 #7510
+2024/12/18-07:59:28.610 e34 Delete type=3 #7508
+2024/12/18-07:59:28.791 1d38 Moved #7521 to level-1 601090 bytes OK: files[ 0 1 9 0 0 0 0 ]
+2024/12/18-07:59:49.607 1d38 Compacting 1@1 + 8@2 files
+2024/12/18-07:59:49.644 1d38 Generated table #7523@1: 1570 keys, 2119753 bytes
+2024/12/18-07:59:49.689 1d38 Generated table #7524@1: 3690 keys, 2129966 bytes
+2024/12/18-07:59:49.733 1d38 Generated table #7525@1: 3722 keys, 2133994 bytes
+2024/12/18-07:59:49.802 1d38 Generated table #7526@1: 3313 keys, 2126794 bytes
+2024/12/18-07:59:49.851 1d38 Generated table #7527@1: 3560 keys, 2130055 bytes
+2024/12/18-07:59:49.894 1d38 Generated table #7528@1: 3506 keys, 2131242 bytes
+2024/12/18-07:59:49.938 1d38 Generated table #7529@1: 3768 keys, 2133650 bytes
+2024/12/18-07:59:49.987 1d38 Generated table #7530@1: 3635 keys, 2112867 bytes
+2024/12/18-07:59:49.987 1d38 Compacted 1@1 + 8@2 files => 17018321 bytes
+2024/12/18-07:59:49.988 1d38 compacted to: files[ 0 0 9 0 0 0 0 ]
