@@ -1,3 +1,5 @@
-2024/12/19-22:52:36.291 eac Recovering log #2174
-2024/12/19-22:52:36.294 eac Delete type=0 #2174
-2024/12/19-22:52:36.294 eac Delete type=3 #2173
+2024/12/20-00:18:54.081 438 Log #2178: 0 ops saved to Table #2179 OK
+2024/12/20-00:18:54.081 438 Archiving C:\Users\SystemX\AppData\Local\FoundryVTT\Data\worlds\girls-frontline-tihij-dom\packs\moi-makrosy/002178.log: OK
+2024/12/20-00:18:54.089 438 Table #2143: 3 entries OK
+2024/12/20-00:18:54.089 438 Archiving C:\Users\SystemX\AppData\Local\FoundryVTT\Data\worlds\girls-frontline-tihij-dom\packs\moi-makrosy/MANIFEST-002177: OK
+2024/12/20-00:18:54.089 438 **** Repaired leveldb C:\Users\SystemX\AppData\Local\FoundryVTT\Data\worlds\girls-frontline-tihij-dom\packs\moi-makrosy; recovered 1 files; 6353 bytes. Some data may have been lost. ****

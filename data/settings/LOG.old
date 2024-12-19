@@ -1,5 +1,6 @@
-2024/12/19-22:52:36.251 eac Recovering log #3539
-2024/12/19-22:52:36.251 eac Level-0 table #3541: started
-2024/12/19-22:52:36.253 eac Level-0 table #3541: 2020 bytes OK
-2024/12/19-22:52:36.257 eac Delete type=0 #3539
-2024/12/19-22:52:36.257 eac Delete type=3 #3537
+2024/12/20-00:18:54.003 2180 Log #3545: 2 ops saved to Table #3547 OK
+2024/12/20-00:18:54.003 2180 Archiving C:/Users/SystemX/AppData/Local/FoundryVTT/Data/worlds/girls-frontline-tihij-dom/data/settings/003545.log: OK
+2024/12/20-00:18:54.003 2180 Table #3546: 67 entries OK
+2024/12/20-00:18:54.003 2180 Table #3547: 2 entries OK
+2024/12/20-00:18:54.013 2180 Archiving C:/Users/SystemX/AppData/Local/FoundryVTT/Data/worlds/girls-frontline-tihij-dom/data/settings/MANIFEST-003543: OK
+2024/12/20-00:18:54.013 2180 **** Repaired leveldb C:/Users/SystemX/AppData/Local/FoundryVTT/Data/worlds/girls-frontline-tihij-dom/data/settings; recovered 2 files; 31061 bytes. Some data may have been lost. ****

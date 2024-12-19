@@ -1,29 +1,21 @@
-2024/12/19-22:52:35.826 1bac Recovering log #7718
-2024/12/19-22:52:35.826 1bac Level-0 table #7730: started
-2024/12/19-22:52:35.828 1bac Level-0 table #7730: 41135 bytes OK
-2024/12/19-22:52:35.831 1bac Delete type=0 #7718
-2024/12/19-22:52:35.831 1bac Delete type=3 #7716
-2024/12/19-22:52:35.981 1f00 Compacting 1@0 + 2@1 files
-2024/12/19-22:52:36.028 1f00 Generated table #7732@0: 3419 keys, 2127853 bytes
-2024/12/19-22:52:36.072 1f00 Generated table #7733@0: 3672 keys, 2131523 bytes
-2024/12/19-22:52:36.074 1f00 Generated table #7734@0: 57 keys, 31520 bytes
-2024/12/19-22:52:36.074 1f00 Compacted 1@0 + 2@1 files => 4290896 bytes
-2024/12/19-22:52:36.075 1f00 compacted to: files[ 0 5 5 0 0 0 0 ]
-2024/12/19-22:52:36.075 1f00 Delete type=2 #7720
-2024/12/19-22:52:36.075 1f00 Delete type=2 #7721
-2024/12/19-22:52:36.076 1f00 Delete type=2 #7730
-2024/12/19-22:52:43.300 1f00 Compacting 1@1 + 5@2 files
-2024/12/19-22:52:43.336 1f00 Generated table #7735@1: 1567 keys, 2118069 bytes
-2024/12/19-22:52:43.379 1f00 Generated table #7736@1: 3709 keys, 2129495 bytes
-2024/12/19-22:52:43.423 1f00 Generated table #7737@1: 3702 keys, 2129083 bytes
-2024/12/19-22:52:43.464 1f00 Generated table #7738@1: 3441 keys, 2128488 bytes
-2024/12/19-22:52:43.506 1f00 Generated table #7739@1: 3500 keys, 2129100 bytes
-2024/12/19-22:52:43.545 1f00 Generated table #7740@1: 3172 keys, 1927017 bytes
-2024/12/19-22:52:43.545 1f00 Compacted 1@1 + 5@2 files => 12561252 bytes
-2024/12/19-22:52:43.545 1f00 compacted to: files[ 0 4 6 0 0 0 0 ]
-2024/12/19-22:52:43.545 1f00 Delete type=2 #7724
-2024/12/19-22:52:43.546 1f00 Delete type=2 #7725
-2024/12/19-22:52:43.546 1f00 Delete type=2 #7726
-2024/12/19-22:52:43.546 1f00 Delete type=2 #7727
-2024/12/19-22:52:43.546 1f00 Delete type=2 #7728
-2024/12/19-22:52:43.547 1f00 Delete type=2 #7732
+2024/12/20-00:18:52.733 2014 Log #7743: 37 ops saved to Table #7754 OK
+2024/12/20-00:18:52.733 2014 Archiving C:/Users/SystemX/AppData/Local/FoundryVTT/Data/worlds/girls-frontline-tihij-dom/data/actors/007743.log: OK
+2024/12/20-00:18:52.744 2014 Table #7735: 1567 entries OK
+2024/12/20-00:18:52.764 2014 Table #7736: 3709 entries OK
+2024/12/20-00:18:52.781 2014 Table #7737: 3702 entries OK
+2024/12/20-00:18:52.795 2014 Table #7738: 3441 entries OK
+2024/12/20-00:18:52.803 2014 Table #7739: 3500 entries OK
+2024/12/20-00:18:52.819 2014 Table #7740: 3172 entries OK
+2024/12/20-00:18:52.833 2014 Table #7744: 3612 entries OK
+2024/12/20-00:18:52.852 2014 Table #7745: 3729 entries OK
+2024/12/20-00:18:52.855 2014 Table #7746: 2020 entries OK
+2024/12/20-00:18:52.864 2014 Table #7747: 1567 entries OK
+2024/12/20-00:18:52.874 2014 Table #7748: 3710 entries OK
+2024/12/20-00:18:52.891 2014 Table #7749: 3702 entries OK
+2024/12/20-00:18:52.905 2014 Table #7750: 3441 entries OK
+2024/12/20-00:18:52.919 2014 Table #7751: 3499 entries OK
+2024/12/20-00:18:52.924 2014 Table #7752: 3498 entries OK
+2024/12/20-00:18:52.933 2014 Table #7753: 3273 entries OK
+2024/12/20-00:18:52.933 2014 Table #7754: 37 entries OK
+2024/12/20-00:18:52.933 2014 Archiving C:/Users/SystemX/AppData/Local/FoundryVTT/Data/worlds/girls-frontline-tihij-dom/data/actors/MANIFEST-007741: OK
+2024/12/20-00:18:52.944 2014 **** Repaired leveldb C:/Users/SystemX/AppData/Local/FoundryVTT/Data/worlds/girls-frontline-tihij-dom/data/actors; recovered 17 files; 32263066 bytes. Some data may have been lost. ****

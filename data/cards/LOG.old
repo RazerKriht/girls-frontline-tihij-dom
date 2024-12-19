@@ -1,3 +1,4 @@
-2024/12/19-22:52:36.062 eac Recovering log #2276
-2024/12/19-22:52:36.065 eac Delete type=0 #2276
-2024/12/19-22:52:36.065 eac Delete type=3 #2275
+2024/12/20-00:18:53.464 438 Log #2280: 0 ops saved to Table #2281 OK
+2024/12/20-00:18:53.464 438 Archiving C:/Users/SystemX/AppData/Local/FoundryVTT/Data/worlds/girls-frontline-tihij-dom/data/cards/002280.log: OK
+2024/12/20-00:18:53.474 438 Archiving C:/Users/SystemX/AppData/Local/FoundryVTT/Data/worlds/girls-frontline-tihij-dom/data/cards/MANIFEST-002279: OK
+2024/12/20-00:18:53.474 438 **** Repaired leveldb C:/Users/SystemX/AppData/Local/FoundryVTT/Data/worlds/girls-frontline-tihij-dom/data/cards; recovered 0 files; 0 bytes. Some data may have been lost. ****
