@@ -1,5 +1,5 @@
-2024/12/19-15:58:16.266 5dc Recovering log #2647
-2024/12/19-15:58:16.266 5dc Level-0 table #2649: started
-2024/12/19-15:58:16.271 5dc Level-0 table #2649: 686 bytes OK
-2024/12/19-15:58:16.275 5dc Delete type=0 #2647
-2024/12/19-15:58:16.275 5dc Delete type=3 #2646
+2024/12/19-16:37:14.428 2f4 Recovering log #2650
+2024/12/19-16:37:14.428 2f4 Level-0 table #2652: started
+2024/12/19-16:37:14.429 2f4 Level-0 table #2652: 1346 bytes OK
+2024/12/19-16:37:14.433 2f4 Delete type=0 #2650
+2024/12/19-16:37:14.433 2f4 Delete type=3 #2648

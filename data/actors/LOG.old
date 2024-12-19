@@ -1,28 +1,24 @@
-2024/12/19-14:54:52.285 8c0 Recovering log #7663
-2024/12/19-14:54:52.287 8c0 Level-0 table #7665: started
-2024/12/19-14:54:52.294 8c0 Level-0 table #7665: 307729 bytes OK
-2024/12/19-14:54:52.299 8c0 Delete type=0 #7663
-2024/12/19-14:54:52.299 8c0 Delete type=3 #7662
-2024/12/19-14:54:52.518 d6c Moved #7665 to level-1 307729 bytes OK: files[ 0 1 9 0 0 0 0 ]
-2024/12/19-14:54:59.243 d6c Compacting 1@1 + 9@2 files
-2024/12/19-14:54:59.298 d6c Generated table #7667@1: 1576 keys, 2120315 bytes
-2024/12/19-14:54:59.380 d6c Generated table #7668@1: 3707 keys, 2131172 bytes
-2024/12/19-14:54:59.445 d6c Generated table #7669@1: 3718 keys, 2129552 bytes
-2024/12/19-14:54:59.519 d6c Generated table #7670@1: 3452 keys, 2128372 bytes
-2024/12/19-14:54:59.584 d6c Generated table #7671@1: 3536 keys, 2129527 bytes
-2024/12/19-14:54:59.652 d6c Generated table #7672@1: 3432 keys, 2128013 bytes
-2024/12/19-14:54:59.731 d6c Generated table #7673@1: 3777 keys, 2130426 bytes
-2024/12/19-14:54:59.803 d6c Generated table #7674@1: 3679 keys, 2129259 bytes
-2024/12/19-14:54:59.820 d6c Generated table #7675@1: 1556 keys, 355732 bytes
-2024/12/19-14:54:59.820 d6c Compacted 1@1 + 9@2 files => 17382368 bytes
-2024/12/19-14:54:59.821 d6c compacted to: files[ 0 0 9 0 0 0 0 ]
-2024/12/19-14:54:59.822 d6c Delete type=2 #7648
-2024/12/19-14:54:59.822 d6c Delete type=2 #7649
-2024/12/19-14:54:59.822 d6c Delete type=2 #7650
-2024/12/19-14:54:59.823 d6c Delete type=2 #7651
-2024/12/19-14:54:59.823 d6c Delete type=2 #7652
-2024/12/19-14:54:59.824 d6c Delete type=2 #7653
-2024/12/19-14:54:59.824 d6c Delete type=2 #7654
-2024/12/19-14:54:59.825 d6c Delete type=2 #7660
-2024/12/19-14:54:59.825 d6c Delete type=2 #7661
-2024/12/19-14:54:59.825 d6c Delete type=2 #7665
+2024/12/19-15:58:15.794 1cd0 Recovering log #7666
+2024/12/19-15:58:15.794 1cd0 Level-0 table #7677: started
+2024/12/19-15:58:15.797 1cd0 Level-0 table #7677: 31779 bytes OK
+2024/12/19-15:58:15.797 1cd0 Delete type=0 #7666
+2024/12/19-15:58:15.797 1cd0 Delete type=3 #7664
+2024/12/19-15:58:16.053 19d4 Moved #7677 to level-1 31779 bytes OK: files[ 0 1 9 0 0 0 0 ]
+2024/12/19-15:58:24.456 19d4 Compacting 1@1 + 7@2 files
+2024/12/19-15:58:24.509 19d4 Generated table #7679@1: 1576 keys, 2120315 bytes
+2024/12/19-15:58:24.582 19d4 Generated table #7680@1: 3707 keys, 2131172 bytes
+2024/12/19-15:58:24.650 19d4 Generated table #7681@1: 3718 keys, 2129552 bytes
+2024/12/19-15:58:24.720 19d4 Generated table #7682@1: 3452 keys, 2128372 bytes
+2024/12/19-15:58:24.786 19d4 Generated table #7683@1: 3536 keys, 2129527 bytes
+2024/12/19-15:58:24.854 19d4 Generated table #7684@1: 3432 keys, 2128013 bytes
+2024/12/19-15:58:24.926 19d4 Generated table #7685@1: 3777 keys, 2130509 bytes
+2024/12/19-15:58:24.927 19d4 Compacted 1@1 + 7@2 files => 14897460 bytes
+2024/12/19-15:58:24.928 19d4 compacted to: files[ 0 0 9 0 0 0 0 ]
+2024/12/19-15:58:24.928 19d4 Delete type=2 #7667
+2024/12/19-15:58:24.929 19d4 Delete type=2 #7668
+2024/12/19-15:58:24.929 19d4 Delete type=2 #7669
+2024/12/19-15:58:24.930 19d4 Delete type=2 #7670
+2024/12/19-15:58:24.930 19d4 Delete type=2 #7671
+2024/12/19-15:58:24.931 19d4 Delete type=2 #7672
+2024/12/19-15:58:24.931 19d4 Delete type=2 #7673
+2024/12/19-15:58:24.932 19d4 Delete type=2 #7677
