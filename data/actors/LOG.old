@@ -1,36 +1,32 @@
-2024/12/19-18:42:34.715 b64 Recovering log #7700
-2024/12/19-18:42:34.717 b64 Level-0 table #7704: started
-2024/12/19-18:42:34.719 b64 Level-0 table #7704: 45853 bytes OK
-2024/12/19-18:42:34.722 b64 Delete type=2 #7689
-2024/12/19-18:42:34.722 b64 Delete type=2 #7690
-2024/12/19-18:42:34.722 b64 Delete type=2 #7698
-2024/12/19-18:42:34.722 b64 Delete type=0 #7700
-2024/12/19-18:42:34.722 b64 Delete type=3 #7699
-2024/12/19-18:42:34.723 1dc4 Compacting 4@0 + 4@1 files
-2024/12/19-18:42:34.775 1dc4 Generated table #7706@0: 3702 keys, 2130734 bytes
-2024/12/19-18:42:34.836 1dc4 Generated table #7707@0: 3441 keys, 2128427 bytes
-2024/12/19-18:42:34.887 1dc4 Generated table #7708@0: 3521 keys, 2127905 bytes
-2024/12/19-18:42:34.938 1dc4 Generated table #7709@0: 3479 keys, 2129778 bytes
-2024/12/19-18:42:34.984 1dc4 Generated table #7710@0: 3763 keys, 2129059 bytes
-2024/12/19-18:42:35.037 1dc4 Generated table #7711@0: 3668 keys, 2129316 bytes
-2024/12/19-18:42:35.046 1dc4 Generated table #7712@0: 1585 keys, 366524 bytes
-2024/12/19-18:42:35.046 1dc4 Compacted 4@0 + 4@1 files => 13141743 bytes
-2024/12/19-18:42:35.046 1dc4 compacted to: files[ 0 7 2 0 0 0 0 ]
-2024/12/19-18:42:35.046 1dc4 Delete type=2 #7691
-2024/12/19-18:42:35.047 1dc4 Delete type=2 #7692
-2024/12/19-18:42:35.047 1dc4 Delete type=2 #7693
-2024/12/19-18:42:35.048 1dc4 Delete type=2 #7694
-2024/12/19-18:42:35.048 1dc4 Delete type=2 #7695
-2024/12/19-18:42:35.049 1dc4 Delete type=2 #7696
-2024/12/19-18:42:35.049 1dc4 Delete type=2 #7697
-2024/12/19-18:42:35.050 1dc4 Delete type=2 #7704
-2024/12/19-18:42:35.050 1dc4 Compacting 1@1 + 2@2 files
-2024/12/19-18:42:35.083 1dc4 Generated table #7713@1: 1576 keys, 2119493 bytes
-2024/12/19-18:42:35.127 1dc4 Generated table #7714@1: 3705 keys, 2129498 bytes
-2024/12/19-18:42:35.177 1dc4 Generated table #7715@1: 3695 keys, 2121066 bytes
-2024/12/19-18:42:35.177 1dc4 Compacted 1@1 + 2@2 files => 6370057 bytes
-2024/12/19-18:42:35.177 1dc4 compacted to: files[ 0 6 3 0 0 0 0 ]
-2024/12/19-18:42:35.177 1dc4 Delete type=2 #7701
-2024/12/19-18:42:35.178 1dc4 Delete type=2 #7702
-2024/12/19-18:42:35.178 1dc4 Delete type=2 #7706
-2024/12/19-18:42:35.179 1dc4 Moved #7707 to level-2 2128427 bytes OK: files[ 0 5 4 0 0 0 0 ]
+2024/12/19-22:49:15.251 e98 Recovering log #7705
+2024/12/19-22:49:15.256 e98 Level-0 table #7717: started
+2024/12/19-22:49:15.271 e98 Level-0 table #7717: 1288443 bytes OK
+2024/12/19-22:49:15.275 e98 Delete type=0 #7705
+2024/12/19-22:49:15.275 e98 Delete type=3 #7703
+2024/12/19-22:49:15.431 4ac Compacting 1@0 + 5@1 files
+2024/12/19-22:49:15.481 4ac Generated table #7719@0: 3303 keys, 2127348 bytes
+2024/12/19-22:49:15.548 4ac Generated table #7720@0: 3477 keys, 2128844 bytes
+2024/12/19-22:49:15.603 4ac Generated table #7721@0: 3665 keys, 2129406 bytes
+2024/12/19-22:49:15.655 4ac Generated table #7722@0: 3735 keys, 2134357 bytes
+2024/12/19-22:49:15.671 4ac Generated table #7723@0: 1884 keys, 536299 bytes
+2024/12/19-22:49:15.672 4ac Compacted 1@0 + 5@1 files => 9056254 bytes
+2024/12/19-22:49:15.672 4ac compacted to: files[ 0 5 4 0 0 0 0 ]
+2024/12/19-22:49:15.672 4ac Delete type=2 #7708
+2024/12/19-22:49:15.673 4ac Delete type=2 #7709
+2024/12/19-22:49:15.673 4ac Delete type=2 #7710
+2024/12/19-22:49:15.673 4ac Delete type=2 #7711
+2024/12/19-22:49:15.674 4ac Delete type=2 #7712
+2024/12/19-22:49:15.674 4ac Delete type=2 #7717
+2024/12/19-22:49:21.605 4ac Compacting 1@1 + 4@2 files
+2024/12/19-22:49:21.635 4ac Generated table #7724@1: 1567 keys, 2118069 bytes
+2024/12/19-22:49:21.678 4ac Generated table #7725@1: 3709 keys, 2129495 bytes
+2024/12/19-22:49:21.721 4ac Generated table #7726@1: 3702 keys, 2129082 bytes
+2024/12/19-22:49:21.766 4ac Generated table #7727@1: 3441 keys, 2128493 bytes
+2024/12/19-22:49:21.828 4ac Generated table #7728@1: 3259 keys, 1960815 bytes
+2024/12/19-22:49:21.828 4ac Compacted 1@1 + 4@2 files => 10465954 bytes
+2024/12/19-22:49:21.828 4ac compacted to: files[ 0 4 5 0 0 0 0 ]
+2024/12/19-22:49:21.828 4ac Delete type=2 #7707
+2024/12/19-22:49:21.829 4ac Delete type=2 #7713
+2024/12/19-22:49:21.829 4ac Delete type=2 #7714
+2024/12/19-22:49:21.829 4ac Delete type=2 #7715
+2024/12/19-22:49:21.830 4ac Delete type=2 #7719

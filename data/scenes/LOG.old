@@ -1,3 +1,11 @@
-2024/12/19-18:42:35.149 12f0 Recovering log #2876
-2024/12/19-18:42:35.152 12f0 Delete type=0 #2876
-2024/12/19-18:42:35.152 12f0 Delete type=3 #2875
+2024/12/19-22:49:15.699 c7c Recovering log #2878
+2024/12/19-22:49:15.699 c7c Level-0 table #2880: started
+2024/12/19-22:49:15.700 c7c Level-0 table #2880: 16796 bytes OK
+2024/12/19-22:49:15.707 c7c Delete type=0 #2878
+2024/12/19-22:49:15.707 c7c Delete type=3 #2877
+2024/12/19-22:49:21.545 4ac Compacting 2@0 + 0@1 files
+2024/12/19-22:49:21.589 4ac Generated table #2882@0: 15566 keys, 1793064 bytes
+2024/12/19-22:49:21.589 4ac Compacted 2@0 + 0@1 files => 1793064 bytes
+2024/12/19-22:49:21.591 4ac compacted to: files[ 0 1 0 0 0 0 0 ]
+2024/12/19-22:49:21.591 4ac Delete type=2 #2871
+2024/12/19-22:49:21.591 4ac Delete type=2 #2880

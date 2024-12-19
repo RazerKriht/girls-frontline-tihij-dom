@@ -1,11 +1,5 @@
-2024/12/19-18:42:35.101 b64 Recovering log #2550
-2024/12/19-18:42:35.102 b64 Level-0 table #2553: started
-2024/12/19-18:42:35.103 b64 Level-0 table #2553: 1355 bytes OK
-2024/12/19-18:42:35.106 b64 Delete type=0 #2550
-2024/12/19-18:42:35.106 b64 Delete type=3 #2549
-2024/12/19-18:42:42.948 1dc4 Compacting 1@0 + 1@1 files
-2024/12/19-18:42:42.952 1dc4 Generated table #2555@0: 269 keys, 150390 bytes
-2024/12/19-18:42:42.952 1dc4 Compacted 1@0 + 1@1 files => 150390 bytes
-2024/12/19-18:42:42.954 1dc4 compacted to: files[ 0 1 0 0 0 0 0 ]
-2024/12/19-18:42:42.954 1dc4 Delete type=2 #2551
-2024/12/19-18:42:42.954 1dc4 Delete type=2 #2553
+2024/12/19-22:49:15.643 e98 Recovering log #2554
+2024/12/19-22:49:15.643 e98 Level-0 table #2557: started
+2024/12/19-22:49:15.649 e98 Level-0 table #2557: 1928 bytes OK
+2024/12/19-22:49:15.656 e98 Delete type=0 #2554
+2024/12/19-22:49:15.656 e98 Delete type=3 #2552
