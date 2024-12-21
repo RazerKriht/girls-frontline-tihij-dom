@@ -1,3 +1,6 @@
-2024/12/21-17:49:52.434 1920 Recovering log #2325
-2024/12/21-17:49:52.438 1920 Delete type=0 #2325
-2024/12/21-17:49:52.438 1920 Delete type=3 #2324
+2024/12/21-19:06:46.669 918 Log #2329: 0 ops saved to Table #2330 OK
+2024/12/21-19:06:46.669 918 Archiving C:\Users\SystemX\AppData\Local\FoundryVTT\Data\worlds\girls-frontline-tihij-dom\packs\protivniki/002329.log: OK
+2024/12/21-19:06:46.677 918 Table #2316: 4432 entries OK
+2024/12/21-19:06:46.679 918 Table #2317: 728 entries OK
+2024/12/21-19:06:46.682 918 Archiving C:\Users\SystemX\AppData\Local\FoundryVTT\Data\worlds\girls-frontline-tihij-dom\packs\protivniki/MANIFEST-002328: OK
+2024/12/21-19:06:46.684 918 **** Repaired leveldb C:\Users\SystemX\AppData\Local\FoundryVTT\Data\worlds\girls-frontline-tihij-dom\packs\protivniki; recovered 2 files; 2441729 bytes. Some data may have been lost. ****

@@ -1,36 +1,9 @@
-2024/12/21-17:55:15.502 1fbc Recovering log #7900
-2024/12/21-17:55:15.502 1fbc Level-0 table #7911: started
-2024/12/21-17:55:15.506 1fbc Level-0 table #7911: 46806 bytes OK
-2024/12/21-17:55:15.511 1fbc Delete type=2 #7886
-2024/12/21-17:55:15.511 1fbc Delete type=2 #7887
-2024/12/21-17:55:15.511 1fbc Delete type=2 #7891
-2024/12/21-17:55:15.512 1fbc Delete type=2 #7892
-2024/12/21-17:55:15.513 1fbc Delete type=2 #7893
-2024/12/21-17:55:15.513 1fbc Delete type=2 #7894
-2024/12/21-17:55:15.514 1fbc Delete type=2 #7895
-2024/12/21-17:55:15.514 1fbc Delete type=2 #7896
-2024/12/21-17:55:15.515 1fbc Delete type=2 #7897
-2024/12/21-17:55:15.515 1fbc Delete type=2 #7899
-2024/12/21-17:55:15.516 1fbc Delete type=0 #7900
-2024/12/21-17:55:15.516 1fbc Delete type=3 #7898
-2024/12/21-17:55:15.748 1f2c Moved #7911 to level-1 46806 bytes OK: files[ 0 1 9 0 0 0 0 ]
-2024/12/21-17:55:23.738 1f2c Compacting 1@1 + 8@2 files
-2024/12/21-17:55:23.796 1f2c Generated table #7913@1: 1582 keys, 2118648 bytes
-2024/12/21-17:55:23.879 1f2c Generated table #7914@1: 3699 keys, 2128693 bytes
-2024/12/21-17:55:23.947 1f2c Generated table #7915@1: 3699 keys, 2128946 bytes
-2024/12/21-17:55:24.016 1f2c Generated table #7916@1: 3402 keys, 2128347 bytes
-2024/12/21-17:55:24.089 1f2c Generated table #7917@1: 3564 keys, 2128996 bytes
-2024/12/21-17:55:24.165 1f2c Generated table #7918@1: 3402 keys, 2128842 bytes
-2024/12/21-17:55:24.228 1f2c Generated table #7919@1: 3732 keys, 2128267 bytes
-2024/12/21-17:55:24.298 1f2c Generated table #7920@1: 3696 keys, 2129406 bytes
-2024/12/21-17:55:24.298 1f2c Compacted 1@1 + 8@2 files => 17020145 bytes
-2024/12/21-17:55:24.299 1f2c compacted to: files[ 0 0 9 0 0 0 0 ]
-2024/12/21-17:55:24.300 1f2c Delete type=2 #7901
-2024/12/21-17:55:24.300 1f2c Delete type=2 #7902
-2024/12/21-17:55:24.300 1f2c Delete type=2 #7903
-2024/12/21-17:55:24.301 1f2c Delete type=2 #7904
-2024/12/21-17:55:24.301 1f2c Delete type=2 #7905
-2024/12/21-17:55:24.301 1f2c Delete type=2 #7906
-2024/12/21-17:55:24.302 1f2c Delete type=2 #7907
-2024/12/21-17:55:24.302 1f2c Delete type=2 #7908
-2024/12/21-17:55:24.302 1f2c Delete type=2 #7911
+2024/12/21-19:06:46.015 918 Delete type=3 #1
+2024/12/21-19:06:46.016 188c Moved #7913 to level-1 2118648 bytes OK: files[ 8 1 0 0 0 0 0 ]
+2024/12/21-19:06:46.017 188c Moved #7914 to level-1 2128693 bytes OK: files[ 7 2 0 0 0 0 0 ]
+2024/12/21-19:06:46.017 188c Moved #7915 to level-1 2128946 bytes OK: files[ 6 3 0 0 0 0 0 ]
+2024/12/21-19:06:46.018 188c Moved #7916 to level-1 2128347 bytes OK: files[ 5 4 0 0 0 0 0 ]
+2024/12/21-19:06:46.019 188c Moved #7917 to level-1 2128996 bytes OK: files[ 4 5 0 0 0 0 0 ]
+2024/12/21-19:06:46.020 188c Moved #7913 to level-2 2118648 bytes OK: files[ 4 4 1 0 0 0 0 ]
+2024/12/21-19:06:46.020 188c Moved #7918 to level-1 2128842 bytes OK: files[ 3 5 1 0 0 0 0 ]
+2024/12/21-19:06:46.021 188c Moved #7914 to level-2 2128693 bytes OK: files[ 3 4 2 0 0 0 0 ]

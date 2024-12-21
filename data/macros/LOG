@@ -1,3 +1,6 @@
-2024/12/21-17:55:16.005 1fc0 Recovering log #2394
-2024/12/21-17:55:16.006 1fc0 Delete type=0 #2394
-2024/12/21-17:55:16.006 1fc0 Delete type=3 #2393
+2024/12/21-19:06:46.454 1f80 Delete type=3 #1
+2024/12/21-19:06:46.455 188c Moved #179 to level-1 4230 bytes OK: files[ 7 1 0 0 0 0 0 ]
+2024/12/21-19:06:46.457 188c Moved #2238 to level-1 548 bytes OK: files[ 6 2 0 0 0 0 0 ]
+2024/12/21-19:06:46.459 188c Moved #2192 to level-1 4267 bytes OK: files[ 5 3 0 0 0 0 0 ]
+2024/12/21-19:06:46.460 188c Moved #2326 to level-1 4257 bytes OK: files[ 4 4 0 0 0 0 0 ]
+2024/12/21-19:06:46.461 188c Moved #2258 to level-1 4267 bytes OK: files[ 3 5 0 0 0 0 0 ]

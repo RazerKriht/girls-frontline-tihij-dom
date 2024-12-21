@@ -1,3 +1,7 @@
-2024/12/21-17:49:52.370 1920 Recovering log #2404
-2024/12/21-17:49:52.378 1920 Delete type=0 #2404
-2024/12/21-17:49:52.378 1920 Delete type=3 #2403
+2024/12/21-19:06:46.613 147c Log #2408: 0 ops saved to Table #2409 OK
+2024/12/21-19:06:46.614 147c Archiving C:/Users/SystemX/AppData/Local/FoundryVTT/Data/worlds/girls-frontline-tihij-dom/data/users/002408.log: OK
+2024/12/21-19:06:46.614 147c Table #2338: 3 entries OK
+2024/12/21-19:06:46.614 147c Table #2360: 1 entries OK
+2024/12/21-19:06:46.614 147c Table #2370: 1 entries OK
+2024/12/21-19:06:46.616 147c Archiving C:/Users/SystemX/AppData/Local/FoundryVTT/Data/worlds/girls-frontline-tihij-dom/data/users/MANIFEST-002407: OK
+2024/12/21-19:06:46.618 147c **** Repaired leveldb C:/Users/SystemX/AppData/Local/FoundryVTT/Data/worlds/girls-frontline-tihij-dom/data/users; recovered 3 files; 3217 bytes. Some data may have been lost. ****
