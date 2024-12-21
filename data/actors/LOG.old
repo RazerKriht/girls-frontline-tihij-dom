@@ -1,13 +1,9 @@
-2024/12/21-19:06:45.933 918 Log #7912: 0 ops saved to Table #7921 OK
-2024/12/21-19:06:45.933 918 Archiving C:/Users/SystemX/AppData/Local/FoundryVTT/Data/worlds/girls-frontline-tihij-dom/data/actors/007912.log: OK
-2024/12/21-19:06:45.936 918 Table #7909: 1678 entries OK
-2024/12/21-19:06:45.943 918 Table #7913: 1582 entries OK
-2024/12/21-19:06:45.953 918 Table #7914: 3699 entries OK
-2024/12/21-19:06:45.961 918 Table #7915: 3699 entries OK
-2024/12/21-19:06:45.970 918 Table #7916: 3402 entries OK
-2024/12/21-19:06:45.977 918 Table #7917: 3564 entries OK
-2024/12/21-19:06:45.985 918 Table #7918: 3402 entries OK
-2024/12/21-19:06:45.993 918 Table #7919: 3732 entries OK
-2024/12/21-19:06:46.001 918 Table #7920: 3696 entries OK
-2024/12/21-19:06:46.003 918 Archiving C:/Users/SystemX/AppData/Local/FoundryVTT/Data/worlds/girls-frontline-tihij-dom/data/actors/MANIFEST-007910: OK
-2024/12/21-19:06:46.007 918 **** Repaired leveldb C:/Users/SystemX/AppData/Local/FoundryVTT/Data/worlds/girls-frontline-tihij-dom/data/actors; recovered 9 files; 17437642 bytes. Some data may have been lost. ****
+2024/12/21-19:06:46.015 918 Delete type=3 #1
+2024/12/21-19:06:46.016 188c Moved #7913 to level-1 2118648 bytes OK: files[ 8 1 0 0 0 0 0 ]
+2024/12/21-19:06:46.017 188c Moved #7914 to level-1 2128693 bytes OK: files[ 7 2 0 0 0 0 0 ]
+2024/12/21-19:06:46.017 188c Moved #7915 to level-1 2128946 bytes OK: files[ 6 3 0 0 0 0 0 ]
+2024/12/21-19:06:46.018 188c Moved #7916 to level-1 2128347 bytes OK: files[ 5 4 0 0 0 0 0 ]
+2024/12/21-19:06:46.019 188c Moved #7917 to level-1 2128996 bytes OK: files[ 4 5 0 0 0 0 0 ]
+2024/12/21-19:06:46.020 188c Moved #7913 to level-2 2118648 bytes OK: files[ 4 4 1 0 0 0 0 ]
+2024/12/21-19:06:46.020 188c Moved #7918 to level-1 2128842 bytes OK: files[ 3 5 1 0 0 0 0 ]
+2024/12/21-19:06:46.021 188c Moved #7914 to level-2 2128693 bytes OK: files[ 3 4 2 0 0 0 0 ]

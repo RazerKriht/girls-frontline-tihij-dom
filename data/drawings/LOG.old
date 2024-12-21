@@ -1,4 +1,1 @@
-2024/12/21-19:06:46.343 1960 Log #2315: 0 ops saved to Table #2316 OK
-2024/12/21-19:06:46.343 1960 Archiving C:/Users/SystemX/AppData/Local/FoundryVTT/Data/worlds/girls-frontline-tihij-dom/data/drawings/002315.log: OK
-2024/12/21-19:06:46.345 1960 Archiving C:/Users/SystemX/AppData/Local/FoundryVTT/Data/worlds/girls-frontline-tihij-dom/data/drawings/MANIFEST-002314: OK
-2024/12/21-19:06:46.347 1960 **** Repaired leveldb C:/Users/SystemX/AppData/Local/FoundryVTT/Data/worlds/girls-frontline-tihij-dom/data/drawings; recovered 0 files; 0 bytes. Some data may have been lost. ****
+2024/12/21-19:06:46.352 1960 Delete type=3 #1
