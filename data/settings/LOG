@@ -1,5 +1,5 @@
-2024/12/22-21:10:58.369 ea0 Recovering log #3631
-2024/12/22-21:10:58.369 ea0 Level-0 table #3633: started
-2024/12/22-21:10:58.370 ea0 Level-0 table #3633: 2020 bytes OK
-2024/12/22-21:10:58.373 ea0 Delete type=0 #3631
-2024/12/22-21:10:58.373 ea0 Delete type=3 #3629
+2024/12/23-23:01:41.215 1d3c Recovering log #3637
+2024/12/23-23:01:41.215 1d3c Level-0 table #3640: started
+2024/12/23-23:01:41.224 1d3c Level-0 table #3640: 2020 bytes OK
+2024/12/23-23:01:41.229 1d3c Delete type=0 #3637
+2024/12/23-23:01:41.229 1d3c Delete type=3 #3636
