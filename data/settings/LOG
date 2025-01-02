@@ -1,5 +1,5 @@
-2025/01/01-01:32:27.799 dc4 Recovering log #3727
-2025/01/01-01:32:27.799 dc4 Level-0 table #3729: started
-2025/01/01-01:32:27.800 dc4 Level-0 table #3729: 2020 bytes OK
-2025/01/01-01:32:27.805 dc4 Delete type=0 #3727
-2025/01/01-01:32:27.805 dc4 Delete type=3 #3726
+2025/01/02-20:03:31.513 a98 Recovering log #3736
+2025/01/02-20:03:31.514 a98 Level-0 table #3739: started
+2025/01/02-20:03:31.515 a98 Level-0 table #3739: 2020 bytes OK
+2025/01/02-20:03:31.521 a98 Delete type=0 #3736
+2025/01/02-20:03:31.521 a98 Delete type=3 #3734
