@@ -1,5 +1,5 @@
-2025/01/04-08:28:52.764 6a0 Recovering log #3756
-2025/01/04-08:28:52.764 6a0 Level-0 table #3758: started
-2025/01/04-08:28:52.768 6a0 Level-0 table #3758: 2020 bytes OK
-2025/01/04-08:28:52.774 6a0 Delete type=0 #3756
-2025/01/04-08:28:52.774 6a0 Delete type=3 #3754
+2025/01/05-21:31:32.040 ea4 Recovering log #3762
+2025/01/05-21:31:32.040 ea4 Level-0 table #3765: started
+2025/01/05-21:31:32.062 ea4 Level-0 table #3765: 2020 bytes OK
+2025/01/05-21:31:32.122 ea4 Delete type=0 #3762
+2025/01/05-21:31:32.122 ea4 Delete type=3 #3760
