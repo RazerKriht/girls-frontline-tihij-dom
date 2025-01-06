@@ -1,24 +1,3 @@
-2025/01/05-21:31:30.676 1efc Recovering log #8251
-2025/01/05-21:31:30.677 1efc Level-0 table #8260: started
-2025/01/05-21:31:30.683 1efc Level-0 table #8260: 122648 bytes OK
-2025/01/05-21:31:30.688 1efc Delete type=0 #8251
-2025/01/05-21:31:30.688 1efc Delete type=3 #8249
-2025/01/05-21:31:30.882 1fd8 Compacting 1@0 + 2@1 files
-2025/01/05-21:31:30.994 1fd8 Generated table #8262@0: 3911 keys, 2130024 bytes
-2025/01/05-21:31:31.147 1fd8 Generated table #8263@0: 2451 keys, 863574 bytes
-2025/01/05-21:31:31.147 1fd8 Compacted 1@0 + 2@1 files => 2993598 bytes
-2025/01/05-21:31:31.168 1fd8 compacted to: files[ 0 2 7 0 0 0 0 ]
-2025/01/05-21:31:31.168 1fd8 Delete type=2 #8240
-2025/01/05-21:31:31.172 1fd8 Delete type=2 #8241
-2025/01/05-21:31:31.172 1fd8 Delete type=2 #8260
-2025/01/05-21:31:39.322 1fd8 Compacting 1@1 + 7@2 files
-2025/01/05-21:31:39.412 1fd8 Generated table #8264@1: 1536 keys, 2118493 bytes
-2025/01/05-21:31:39.485 1fd8 Generated table #8265@1: 3704 keys, 2128476 bytes
-2025/01/05-21:31:39.555 1fd8 Generated table #8266@1: 3715 keys, 2129941 bytes
-2025/01/05-21:31:39.624 1fd8 Generated table #8267@1: 3292 keys, 2134387 bytes
-2025/01/05-21:31:39.705 1fd8 Generated table #8268@1: 3563 keys, 2129767 bytes
-2025/01/05-21:31:39.791 1fd8 Generated table #8269@1: 3457 keys, 2130669 bytes
-2025/01/05-21:31:39.862 1fd8 Generated table #8270@1: 3631 keys, 2128207 bytes
-2025/01/05-21:31:39.929 1fd8 Generated table #8271@1: 3540 keys, 2012660 bytes
-2025/01/05-21:31:39.929 1fd8 Compacted 1@1 + 7@2 files => 16912600 bytes
-2025/01/05-21:31:39.930 1fd8 compacted to: files[ 0 1 8 0 0 0 0 ]
+2025/01/06-10:36:01.238 fd4 Recovering log #8273
+2025/01/06-10:36:01.244 fd4 Delete type=0 #8273
+2025/01/06-10:36:01.244 fd4 Delete type=3 #8272
