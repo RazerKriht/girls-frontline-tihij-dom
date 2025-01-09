@@ -1,3 +1,9 @@
-2025/01/06-10:36:01.238 fd4 Recovering log #8273
-2025/01/06-10:36:01.244 fd4 Delete type=0 #8273
-2025/01/06-10:36:01.244 fd4 Delete type=3 #8272
+2025/01/07-16:18:41.909 dc Delete type=3 #1
+2025/01/07-16:18:41.910 11cc Moved #8264 to level-1 2118493 bytes OK: files[ 8 1 0 0 0 0 0 ]
+2025/01/07-16:18:41.911 11cc Moved #8265 to level-1 2128476 bytes OK: files[ 7 2 0 0 0 0 0 ]
+2025/01/07-16:18:41.912 11cc Moved #8266 to level-1 2129941 bytes OK: files[ 6 3 0 0 0 0 0 ]
+2025/01/07-16:18:41.913 11cc Moved #8267 to level-1 2134387 bytes OK: files[ 5 4 0 0 0 0 0 ]
+2025/01/07-16:18:41.914 11cc Moved #8268 to level-1 2129767 bytes OK: files[ 4 5 0 0 0 0 0 ]
+2025/01/07-16:18:41.914 11cc Moved #8264 to level-2 2118493 bytes OK: files[ 4 4 1 0 0 0 0 ]
+2025/01/07-16:18:41.915 11cc Moved #8269 to level-1 2130669 bytes OK: files[ 3 5 1 0 0 0 0 ]
+2025/01/07-16:18:41.916 11cc Moved #8265 to level-2 2128476 bytes OK: files[ 3 4 2 0 0 0 0 ]
