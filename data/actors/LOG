@@ -1,32 +1,28 @@
-2025/01/19-15:43:48.839 4cc Recovering log #8501
-2025/01/19-15:43:48.843 4cc Level-0 table #8514: started
-2025/01/19-15:43:48.848 4cc Level-0 table #8514: 240387 bytes OK
-2025/01/19-15:43:48.852 4cc Delete type=0 #8501
-2025/01/19-15:43:48.852 4cc Delete type=3 #8488
-2025/01/19-15:43:49.037 1bbc Compacting 1@0 + 3@1 files
-2025/01/19-15:43:49.090 1bbc Generated table #8516@0: 3434 keys, 2131817 bytes
-2025/01/19-15:43:49.136 1bbc Generated table #8517@0: 4029 keys, 2129624 bytes
-2025/01/19-15:43:49.196 1bbc Generated table #8518@0: 4783 keys, 2054847 bytes
-2025/01/19-15:43:49.202 1bbc Compacted 1@0 + 3@1 files => 6316288 bytes
-2025/01/19-15:43:49.203 1bbc compacted to: files[ 0 3 6 0 0 0 0 ]
-2025/01/19-15:43:49.203 1bbc Delete type=2 #8504
-2025/01/19-15:43:49.204 1bbc Delete type=2 #8505
-2025/01/19-15:43:49.204 1bbc Delete type=2 #8506
-2025/01/19-15:43:49.204 1bbc Delete type=2 #8514
-2025/01/19-15:44:01.046 1bbc Compacting 1@1 + 6@2 files
-2025/01/19-15:44:01.079 1bbc Generated table #8519@1: 1351 keys, 2119115 bytes
-2025/01/19-15:44:01.127 1bbc Generated table #8520@1: 3822 keys, 2129815 bytes
-2025/01/19-15:44:01.173 1bbc Generated table #8521@1: 3872 keys, 2130866 bytes
-2025/01/19-15:44:01.219 1bbc Generated table #8522@1: 3480 keys, 2131848 bytes
-2025/01/19-15:44:01.273 1bbc Generated table #8523@1: 3390 keys, 2129615 bytes
-2025/01/19-15:44:01.320 1bbc Generated table #8524@1: 3657 keys, 2130250 bytes
-2025/01/19-15:44:01.377 1bbc Generated table #8525@1: 3313 keys, 2055982 bytes
-2025/01/19-15:44:01.377 1bbc Compacted 1@1 + 6@2 files => 14827491 bytes
-2025/01/19-15:44:01.377 1bbc compacted to: files[ 0 2 7 0 0 0 0 ]
-2025/01/19-15:44:01.378 1bbc Delete type=2 #8507
-2025/01/19-15:44:01.378 1bbc Delete type=2 #8508
-2025/01/19-15:44:01.378 1bbc Delete type=2 #8509
-2025/01/19-15:44:01.378 1bbc Delete type=2 #8510
-2025/01/19-15:44:01.379 1bbc Delete type=2 #8511
-2025/01/19-15:44:01.379 1bbc Delete type=2 #8512
-2025/01/19-15:44:01.379 1bbc Delete type=2 #8516
+2025/01/19-19:37:13.405 1334 Recovering log #8552
+2025/01/19-19:37:13.410 1334 Level-0 table #8565: started
+2025/01/19-19:37:13.426 1334 Level-0 table #8565: 1523455 bytes OK
+2025/01/19-19:37:13.430 1334 Delete type=0 #8552
+2025/01/19-19:37:13.430 1334 Delete type=3 #8526
+2025/01/19-19:37:13.564 168c Moved #8565 to level-1 1523455 bytes OK: files[ 0 1 9 0 0 0 0 ]
+2025/01/19-19:37:19.759 168c Compacting 1@1 + 9@2 files
+2025/01/19-19:37:19.795 168c Generated table #8567@1: 1340 keys, 2117905 bytes
+2025/01/19-19:37:19.839 168c Generated table #8568@1: 3793 keys, 2130069 bytes
+2025/01/19-19:37:19.881 168c Generated table #8569@1: 3861 keys, 2132178 bytes
+2025/01/19-19:37:19.926 168c Generated table #8570@1: 3506 keys, 2131070 bytes
+2025/01/19-19:37:19.971 168c Generated table #8571@1: 3375 keys, 2128350 bytes
+2025/01/19-19:37:20.017 168c Generated table #8572@1: 3661 keys, 2130642 bytes
+2025/01/19-19:37:20.073 168c Generated table #8573@1: 3432 keys, 2127312 bytes
+2025/01/19-19:37:20.134 168c Generated table #8574@1: 3989 keys, 2130369 bytes
+2025/01/19-19:37:20.189 168c Generated table #8575@1: 4731 keys, 2022722 bytes
+2025/01/19-19:37:20.189 168c Compacted 1@1 + 9@2 files => 19050617 bytes
+2025/01/19-19:37:20.189 168c compacted to: files[ 0 0 9 0 0 0 0 ]
+2025/01/19-19:37:20.190 168c Delete type=2 #8555
+2025/01/19-19:37:20.190 168c Delete type=2 #8556
+2025/01/19-19:37:20.190 168c Delete type=2 #8557
+2025/01/19-19:37:20.190 168c Delete type=2 #8558
+2025/01/19-19:37:20.191 168c Delete type=2 #8559
+2025/01/19-19:37:20.191 168c Delete type=2 #8560
+2025/01/19-19:37:20.191 168c Delete type=2 #8561
+2025/01/19-19:37:20.192 168c Delete type=2 #8562
+2025/01/19-19:37:20.192 168c Delete type=2 #8563
+2025/01/19-19:37:20.192 168c Delete type=2 #8565
