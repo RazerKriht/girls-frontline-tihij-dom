@@ -1,5 +1,5 @@
-2025/01/21-22:42:09.523 1dc8 Recovering log #3917
-2025/01/21-22:42:09.523 1dc8 Level-0 table #3919: started
-2025/01/21-22:42:09.523 1dc8 Level-0 table #3919: 2020 bytes OK
-2025/01/21-22:42:09.530 1dc8 Delete type=0 #3917
-2025/01/21-22:42:09.530 1dc8 Delete type=3 #3915
+2025/01/23-09:47:55.878 1ff4 Recovering log #3923
+2025/01/23-09:47:55.879 1ff4 Level-0 table #3926: started
+2025/01/23-09:47:55.880 1ff4 Level-0 table #3926: 2020 bytes OK
+2025/01/23-09:47:55.884 1ff4 Delete type=0 #3923
+2025/01/23-09:47:55.884 1ff4 Delete type=3 #3921
