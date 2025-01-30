@@ -1,5 +1,5 @@
-2025/01/30-19:16:59.991 a3c Recovering log #4018
-2025/01/30-19:16:59.992 a3c Level-0 table #4020: started
-2025/01/30-19:16:59.993 a3c Level-0 table #4020: 2016 bytes OK
-2025/01/30-19:16:59.997 a3c Delete type=0 #4018
-2025/01/30-19:16:59.997 a3c Delete type=3 #4016
+2025/01/30-20:12:47.513 fcc Recovering log #4021
+2025/01/30-20:12:47.513 fcc Level-0 table #4023: started
+2025/01/30-20:12:47.513 fcc Level-0 table #4023: 2016 bytes OK
+2025/01/30-20:12:47.525 fcc Delete type=0 #4021
+2025/01/30-20:12:47.525 fcc Delete type=3 #4019
