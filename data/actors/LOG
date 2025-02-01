@@ -1,3 +1,31 @@
-2025/02/01-17:01:14.677 1778 Recovering log #9066
-2025/02/01-17:01:14.681 1778 Delete type=0 #9066
-2025/02/01-17:01:14.681 1778 Delete type=3 #9064
+2025/02/01-21:56:56.288 1f08 Recovering log #9119
+2025/02/01-21:56:56.288 1f08 Level-0 table #9135: started
+2025/02/01-21:56:56.288 1f08 Level-0 table #9135: 208606 bytes OK
+2025/02/01-21:56:56.300 1f08 Delete type=0 #9119
+2025/02/01-21:56:56.300 1f08 Delete type=3 #9101
+2025/02/01-21:56:56.488 1da4 Moved #9135 to level-1 208606 bytes OK: files[ 0 2 13 0 0 0 0 ]
+2025/02/01-21:57:06.638 1da4 Compacting 1@1 + 7@2 files
+2025/02/01-21:57:06.682 1da4 Generated table #9137@1: 955 keys, 2115971 bytes
+2025/02/01-21:57:06.727 1da4 Generated table #9138@1: 3678 keys, 2131525 bytes
+2025/02/01-21:57:06.772 1da4 Generated table #9139@1: 3892 keys, 2129023 bytes
+2025/02/01-21:57:06.818 1da4 Generated table #9140@1: 3869 keys, 2132590 bytes
+2025/02/01-21:57:06.863 1da4 Generated table #9141@1: 3446 keys, 2127514 bytes
+2025/02/01-21:57:06.911 1da4 Generated table #9142@1: 3573 keys, 2129751 bytes
+2025/02/01-21:57:06.967 1da4 Generated table #9143@1: 3934 keys, 2130211 bytes
+2025/02/01-21:57:06.967 1da4 Compacted 1@1 + 7@2 files => 14896585 bytes
+2025/02/01-21:57:06.967 1da4 compacted to: files[ 0 1 13 0 0 0 0 ]
+2025/02/01-21:57:06.968 1da4 Delete type=2 #9123
+2025/02/01-21:57:06.968 1da4 Delete type=2 #9124
+2025/02/01-21:57:06.968 1da4 Delete type=2 #9125
+2025/02/01-21:57:06.969 1da4 Delete type=2 #9126
+2025/02/01-21:57:06.969 1da4 Delete type=2 #9127
+2025/02/01-21:57:06.970 1da4 Delete type=2 #9128
+2025/02/01-21:57:06.970 1da4 Delete type=2 #9129
+2025/02/01-21:57:06.970 1da4 Delete type=2 #9135
+2025/02/01-21:57:06.972 1da4 Compacting 1@1 + 2@2 files
+2025/02/01-21:57:06.990 1da4 Generated table #9144@1: 2397 keys, 653753 bytes
+2025/02/01-21:57:06.990 1da4 Compacted 1@1 + 2@2 files => 653753 bytes
+2025/02/01-21:57:06.991 1da4 compacted to: files[ 0 0 12 0 0 0 0 ]
+2025/02/01-21:57:06.991 1da4 Delete type=2 #9117
+2025/02/01-21:57:06.992 1da4 Delete type=2 #9118
+2025/02/01-21:57:06.992 1da4 Delete type=2 #9122
