@@ -1,5 +1,3 @@
-2025/02/02-17:54:11.071 aac Recovering log #2676
-2025/02/02-17:54:11.071 aac Level-0 table #2678: started
-2025/02/02-17:54:11.072 aac Level-0 table #2678: 21659 bytes OK
-2025/02/02-17:54:11.075 aac Delete type=0 #2676
-2025/02/02-17:54:11.075 aac Delete type=3 #2675
+2025/02/03-19:09:05.312 174c Recovering log #2679
+2025/02/03-19:09:05.315 174c Delete type=0 #2679
+2025/02/03-19:09:05.316 174c Delete type=3 #2677

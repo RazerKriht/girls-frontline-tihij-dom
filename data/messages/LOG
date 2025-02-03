@@ -1,3 +1,5 @@
-2025/02/02-17:54:10.835 106c Recovering log #3101
-2025/02/02-17:54:10.839 106c Delete type=0 #3101
-2025/02/02-17:54:10.840 106c Delete type=3 #3100
+2025/02/03-19:09:04.740 adc Recovering log #3103
+2025/02/03-19:09:04.741 adc Level-0 table #3105: started
+2025/02/03-19:09:04.743 adc Level-0 table #3105: 15745 bytes OK
+2025/02/03-19:09:04.747 adc Delete type=0 #3103
+2025/02/03-19:09:04.747 adc Delete type=3 #3102
