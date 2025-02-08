@@ -1,14 +1,5 @@
-2025/02/06-14:25:52.931 fec Recovering log #4169
-2025/02/06-14:25:52.931 fec Level-0 table #4171: started
-2025/02/06-14:25:52.936 fec Level-0 table #4171: 2016 bytes OK
-2025/02/06-14:25:52.940 fec Delete type=0 #4169
-2025/02/06-14:25:52.940 fec Delete type=3 #4167
-2025/02/06-14:25:52.940 1af4 Compacting 4@0 + 1@1 files
-2025/02/06-14:25:52.940 1af4 Generated table #4173@0: 67 keys, 29109 bytes
-2025/02/06-14:25:52.940 1af4 Compacted 4@0 + 1@1 files => 29109 bytes
-2025/02/06-14:25:52.940 1af4 compacted to: files[ 0 1 0 0 0 0 0 ]
-2025/02/06-14:25:52.940 1af4 Delete type=2 #4160
-2025/02/06-14:25:52.940 1af4 Delete type=2 #4162
-2025/02/06-14:25:52.940 1af4 Delete type=2 #4165
-2025/02/06-14:25:52.940 1af4 Delete type=2 #4168
-2025/02/06-14:25:52.940 1af4 Delete type=2 #4171
+2025/02/07-20:32:17.611 a00 Recovering log #4176
+2025/02/07-20:32:17.612 a00 Level-0 table #4178: started
+2025/02/07-20:32:17.613 a00 Level-0 table #4178: 2016 bytes OK
+2025/02/07-20:32:17.617 a00 Delete type=0 #4176
+2025/02/07-20:32:17.617 a00 Delete type=3 #4174
