@@ -1,3 +1,6 @@
-2025/02/08-19:47:39.351 1824 Recovering log #2766
-2025/02/08-19:47:39.357 1824 Delete type=0 #2766
-2025/02/08-19:47:39.357 1824 Delete type=3 #2765
+2025/02/09-11:21:28.643 1bdc Recovering log #2768
+2025/02/09-11:21:28.643 1bdc Level-0 table #2770: started
+2025/02/09-11:21:28.644 1bdc Level-0 table #2770: 4258 bytes OK
+2025/02/09-11:21:28.649 1bdc Delete type=0 #2768
+2025/02/09-11:21:28.649 1bdc Delete type=3 #2767
+2025/02/09-11:21:28.653 9fc Moved #1686 to level-1 4197 bytes OK: files[ 3 7 0 0 0 0 0 ]
