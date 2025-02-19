@@ -1,14 +1,5 @@
-2025/02/16-14:29:55.079 1ea8 Recovering log #4372
-2025/02/16-14:29:55.079 1ea8 Level-0 table #4374: started
-2025/02/16-14:29:55.080 1ea8 Level-0 table #4374: 2016 bytes OK
-2025/02/16-14:29:55.084 1ea8 Delete type=0 #4372
-2025/02/16-14:29:55.084 1ea8 Delete type=3 #4370
-2025/02/16-14:29:55.084 9cc Compacting 4@0 + 1@1 files
-2025/02/16-14:29:55.086 9cc Generated table #4376@0: 67 keys, 29112 bytes
-2025/02/16-14:29:55.086 9cc Compacted 4@0 + 1@1 files => 29112 bytes
-2025/02/16-14:29:55.088 9cc compacted to: files[ 0 1 0 0 0 0 0 ]
-2025/02/16-14:29:55.088 9cc Delete type=2 #4363
-2025/02/16-14:29:55.088 9cc Delete type=2 #4365
-2025/02/16-14:29:55.088 9cc Delete type=2 #4368
-2025/02/16-14:29:55.088 9cc Delete type=2 #4371
-2025/02/16-14:29:55.088 9cc Delete type=2 #4374
+2025/02/19-18:12:54.586 20ac Recovering log #4431
+2025/02/19-18:12:54.586 20ac Level-0 table #4433: started
+2025/02/19-18:12:54.588 20ac Level-0 table #4433: 2016 bytes OK
+2025/02/19-18:12:54.592 20ac Delete type=0 #4431
+2025/02/19-18:12:54.592 20ac Delete type=3 #4429
