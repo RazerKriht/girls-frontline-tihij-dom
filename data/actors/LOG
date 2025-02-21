@@ -1,38 +1,29 @@
-2025/02/21-17:31:07.502 f94 Recovering log #10707
-2025/02/21-17:31:07.503 f94 Level-0 table #10722: started
-2025/02/21-17:31:07.507 f94 Level-0 table #10722: 144497 bytes OK
-2025/02/21-17:31:07.514 f94 Delete type=0 #10707
-2025/02/21-17:31:07.514 f94 Delete type=3 #10705
-2025/02/21-17:31:07.716 bf0 Compacting 1@0 + 2@1 files
-2025/02/21-17:31:07.797 bf0 Generated table #10724@0: 3708 keys, 2129675 bytes
-2025/02/21-17:31:07.846 bf0 Generated table #10725@0: 4094 keys, 1495429 bytes
-2025/02/21-17:31:07.846 bf0 Compacted 1@0 + 2@1 files => 3625104 bytes
-2025/02/21-17:31:07.846 bf0 compacted to: files[ 0 2 10 0 0 0 0 ]
-2025/02/21-17:31:15.654 bf0 Compacting 1@1 + 10@2 files
-2025/02/21-17:31:15.722 bf0 Generated table #10726@1: 701 keys, 2115364 bytes
-2025/02/21-17:31:15.819 bf0 Generated table #10727@1: 3704 keys, 2129008 bytes
-2025/02/21-17:31:15.889 bf0 Generated table #10728@1: 3911 keys, 2129278 bytes
-2025/02/21-17:31:15.955 bf0 Generated table #10729@1: 3842 keys, 2130117 bytes
-2025/02/21-17:31:16.027 bf0 Generated table #10730@1: 3688 keys, 2134262 bytes
-2025/02/21-17:31:16.090 bf0 Generated table #10731@1: 3304 keys, 2128929 bytes
-2025/02/21-17:31:16.158 bf0 Generated table #10732@1: 3811 keys, 2129586 bytes
-2025/02/21-17:31:16.228 bf0 Generated table #10733@1: 3802 keys, 2129847 bytes
-2025/02/21-17:31:16.296 bf0 Generated table #10734@1: 3657 keys, 2128946 bytes
-2025/02/21-17:31:16.363 bf0 Generated table #10735@1: 3907 keys, 2129711 bytes
-2025/02/21-17:31:16.415 bf0 Generated table #10736@1: 2838 keys, 1605085 bytes
-2025/02/21-17:31:16.415 bf0 Compacted 1@1 + 10@2 files => 22890133 bytes
-2025/02/21-17:31:16.416 bf0 compacted to: files[ 0 1 11 0 0 0 0 ]
-2025/02/21-17:31:16.416 bf0 Delete type=2 #10709
-2025/02/21-17:31:16.416 bf0 Delete type=2 #10710
-2025/02/21-17:31:16.417 bf0 Delete type=2 #10711
-2025/02/21-17:31:16.417 bf0 Delete type=2 #10712
-2025/02/21-17:31:16.418 bf0 Delete type=2 #10713
-2025/02/21-17:31:16.418 bf0 Delete type=2 #10714
-2025/02/21-17:31:16.418 bf0 Delete type=2 #10715
-2025/02/21-17:31:16.419 bf0 Delete type=2 #10716
-2025/02/21-17:31:16.419 bf0 Delete type=2 #10717
-2025/02/21-17:31:16.420 bf0 Delete type=2 #10718
-2025/02/21-17:31:16.420 bf0 Delete type=2 #10719
-2025/02/21-17:31:16.420 bf0 Delete type=2 #10720
-2025/02/21-17:31:16.421 bf0 Delete type=2 #10722
-2025/02/21-17:31:16.421 bf0 Delete type=2 #10724
+2025/02/21-18:45:17.104 47c Recovering log #10723
+2025/02/21-18:45:17.106 47c Level-0 table #10738: started
+2025/02/21-18:45:17.113 47c Level-0 table #10738: 160880 bytes OK
+2025/02/21-18:45:17.116 47c Delete type=0 #10723
+2025/02/21-18:45:17.116 47c Delete type=3 #10721
+2025/02/21-18:45:17.406 1db4 Moved #10738 to level-1 160880 bytes OK: files[ 0 2 11 0 0 0 0 ]
+2025/02/21-18:45:25.868 1db4 Compacting 1@1 + 9@2 files
+2025/02/21-18:45:25.916 1db4 Generated table #10740@1: 701 keys, 2115378 bytes
+2025/02/21-18:45:25.999 1db4 Generated table #10741@1: 3704 keys, 2129008 bytes
+2025/02/21-18:45:26.069 1db4 Generated table #10742@1: 3911 keys, 2129278 bytes
+2025/02/21-18:45:26.136 1db4 Generated table #10743@1: 3842 keys, 2130117 bytes
+2025/02/21-18:45:26.203 1db4 Generated table #10744@1: 3688 keys, 2134262 bytes
+2025/02/21-18:45:26.267 1db4 Generated table #10745@1: 3304 keys, 2128929 bytes
+2025/02/21-18:45:26.337 1db4 Generated table #10746@1: 3811 keys, 2129586 bytes
+2025/02/21-18:45:26.408 1db4 Generated table #10747@1: 3802 keys, 2129847 bytes
+2025/02/21-18:45:26.477 1db4 Generated table #10748@1: 3653 keys, 2129968 bytes
+2025/02/21-18:45:26.479 1db4 Generated table #10749@1: 5 keys, 2825 bytes
+2025/02/21-18:45:26.479 1db4 Compacted 1@1 + 9@2 files => 19159198 bytes
+2025/02/21-18:45:26.480 1db4 compacted to: files[ 0 1 12 0 0 0 0 ]
+2025/02/21-18:45:26.480 1db4 Delete type=2 #10726
+2025/02/21-18:45:26.481 1db4 Delete type=2 #10727
+2025/02/21-18:45:26.482 1db4 Delete type=2 #10728
+2025/02/21-18:45:26.482 1db4 Delete type=2 #10729
+2025/02/21-18:45:26.483 1db4 Delete type=2 #10730
+2025/02/21-18:45:26.483 1db4 Delete type=2 #10731
+2025/02/21-18:45:26.483 1db4 Delete type=2 #10732
+2025/02/21-18:45:26.484 1db4 Delete type=2 #10733
+2025/02/21-18:45:26.484 1db4 Delete type=2 #10734
+2025/02/21-18:45:26.484 1db4 Delete type=2 #10738
