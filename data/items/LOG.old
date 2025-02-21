@@ -1,7 +1,1 @@
-2025/02/21-14:39:25.532 f48 Log #3152: 38 ops saved to Table #3153 OK
-2025/02/21-14:39:25.534 f48 Archiving C:/Users/SystemX/AppData/Local/FoundryVTT/Data/worlds/girls-frontline-tihij-dom/data/items/003152.log: OK
-2025/02/21-14:39:25.534 f48 Table #3135: 766 entries OK
-2025/02/21-14:39:25.534 f48 Table #3149: 1 entries OK
-2025/02/21-14:39:25.534 f48 Table #3153: 38 entries OK
-2025/02/21-14:39:25.544 f48 Archiving C:/Users/SystemX/AppData/Local/FoundryVTT/Data/worlds/girls-frontline-tihij-dom/data/items/MANIFEST-003151: OK
-2025/02/21-14:39:25.549 f48 **** Repaired leveldb C:/Users/SystemX/AppData/Local/FoundryVTT/Data/worlds/girls-frontline-tihij-dom/data/items; recovered 3 files; 697636 bytes. Some data may have been lost. ****
+2025/02/21-14:39:25.561 f48 Delete type=3 #1

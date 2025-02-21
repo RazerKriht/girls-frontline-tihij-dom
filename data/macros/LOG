@@ -1,12 +1,3 @@
-2025/02/21-14:39:25.623 f48 Delete type=3 #1
-2025/02/21-14:39:25.625 674 Moved #179 to level-1 4230 bytes OK: files[ 10 1 0 0 0 0 0 ]
-2025/02/21-14:39:25.626 674 Moved #2238 to level-1 548 bytes OK: files[ 9 2 0 0 0 0 0 ]
-2025/02/21-14:39:25.626 674 Moved #2530 to level-1 607 bytes OK: files[ 8 3 0 0 0 0 0 ]
-2025/02/21-14:39:25.627 674 Compacting 2@0 + 0@1 files
-2025/02/21-14:39:25.627 674 Compacted 2@0 + 0@1 files => 0 bytes
-2025/02/21-14:39:25.628 674 compacted to: files[ 6 3 0 0 0 0 0 ]
-2025/02/21-14:39:25.628 674 Delete type=2 #2192
-2025/02/21-14:39:25.628 674 Delete type=2 #2931
-2025/02/21-14:39:25.629 674 Moved #2326 to level-1 4257 bytes OK: files[ 5 4 0 0 0 0 0 ]
-2025/02/21-14:39:25.630 674 Moved #2258 to level-1 4267 bytes OK: files[ 4 5 0 0 0 0 0 ]
-2025/02/21-14:39:25.632 674 Moved #2947 to level-1 544 bytes OK: files[ 3 6 0 0 0 0 0 ]
+2025/02/21-16:55:59.156 b8c Recovering log #2949
+2025/02/21-16:55:59.160 b8c Delete type=0 #2949
+2025/02/21-16:55:59.160 b8c Delete type=3 #2948
