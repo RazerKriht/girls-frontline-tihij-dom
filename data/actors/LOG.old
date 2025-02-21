@@ -1,44 +1,19 @@
-2025/03/07-00:30:59.297 578 Recovering log #12110
-2025/03/07-00:30:59.318 578 Level-0 table #12128: started
-2025/03/07-00:30:59.349 578 Level-0 table #12128: 1815526 bytes OK
-2025/03/07-00:30:59.352 578 Delete type=0 #12110
-2025/03/07-00:30:59.352 578 Delete type=3 #12091
-2025/03/07-00:30:59.567 1ec4 Compacting 1@0 + 0@1 files
-2025/03/07-00:30:59.580 1ec4 Generated table #12130@0: 138 keys, 328400 bytes
-2025/03/07-00:30:59.581 1ec4 Generated table #12131@0: 22 keys, 3831 bytes
-2025/03/07-00:30:59.581 1ec4 Compacted 1@0 + 0@1 files => 332231 bytes
-2025/03/07-00:30:59.582 1ec4 compacted to: files[ 0 2 13 0 0 0 0 ]
-2025/03/07-00:30:59.696 1ec4 Compacting 1@1 + 10@2 files
-2025/03/07-00:30:59.723 1ec4 Generated table #12132@1: 549 keys, 2113942 bytes
-2025/03/07-00:30:59.774 1ec4 Generated table #12133@1: 3676 keys, 2129751 bytes
-2025/03/07-00:30:59.829 1ec4 Generated table #12134@1: 3934 keys, 2130046 bytes
-2025/03/07-00:30:59.875 1ec4 Generated table #12135@1: 3859 keys, 2132416 bytes
-2025/03/07-00:30:59.921 1ec4 Generated table #12136@1: 3660 keys, 2128609 bytes
-2025/03/07-00:30:59.973 1ec4 Generated table #12137@1: 3304 keys, 2126684 bytes
-2025/03/07-00:31:00.024 1ec4 Generated table #12138@1: 3823 keys, 2129584 bytes
-2025/03/07-00:31:00.073 1ec4 Generated table #12139@1: 3844 keys, 2131245 bytes
-2025/03/07-00:31:00.120 1ec4 Generated table #12140@1: 3399 keys, 2127670 bytes
-2025/03/07-00:31:00.170 1ec4 Generated table #12141@1: 3714 keys, 2129137 bytes
-2025/03/07-00:31:00.174 1ec4 Generated table #12142@1: 23 keys, 18416 bytes
-2025/03/07-00:31:00.174 1ec4 Compacted 1@1 + 10@2 files => 21297500 bytes
-2025/03/07-00:31:00.175 1ec4 compacted to: files[ 0 1 14 0 0 0 0 ]
-2025/03/07-00:31:00.175 1ec4 Delete type=2 #12114
-2025/03/07-00:31:00.176 1ec4 Delete type=2 #12115
-2025/03/07-00:31:00.176 1ec4 Delete type=2 #12116
-2025/03/07-00:31:00.176 1ec4 Delete type=2 #12117
-2025/03/07-00:31:00.177 1ec4 Delete type=2 #12118
-2025/03/07-00:31:00.177 1ec4 Delete type=2 #12119
-2025/03/07-00:31:00.177 1ec4 Delete type=2 #12120
-2025/03/07-00:31:00.178 1ec4 Delete type=2 #12121
-2025/03/07-00:31:00.178 1ec4 Delete type=2 #12122
-2025/03/07-00:31:00.178 1ec4 Delete type=2 #12123
-2025/03/07-00:31:00.179 1ec4 Delete type=2 #12128
-2025/03/07-00:31:00.179 1ec4 Delete type=2 #12130
-2025/03/07-00:31:07.390 1ec4 Compacting 1@1 + 2@2 files
-2025/03/07-00:31:07.434 1ec4 Generated table #12143@1: 4953 keys, 2136325 bytes
-2025/03/07-00:31:07.438 1ec4 Generated table #12144@1: 525 keys, 119872 bytes
-2025/03/07-00:31:07.438 1ec4 Compacted 1@1 + 2@2 files => 2256197 bytes
-2025/03/07-00:31:07.439 1ec4 compacted to: files[ 0 0 14 0 0 0 0 ]
-2025/03/07-00:31:07.439 1ec4 Delete type=2 #12125
-2025/03/07-00:31:07.439 1ec4 Delete type=2 #12126
-2025/03/07-00:31:07.439 1ec4 Delete type=2 #12131
+2025/02/21-22:55:45.739 1a48 Log #12147: 17 ops saved to Table #12157 OK
+2025/02/21-22:55:45.740 1a48 Archiving C:/Users/SystemX/AppData/Local/FoundryVTT/Data/worlds/girls-frontline-tihij-dom/data/actors/012147.log: OK
+2025/02/21-22:55:45.756 1a48 Table #12124: 3957 entries OK
+2025/02/21-22:55:45.783 1a48 Table #12141: 3714 entries OK
+2025/02/21-22:55:45.783 1a48 Table #12142: 23 entries OK
+2025/02/21-22:55:45.795 1a48 Table #12143: 4953 entries OK
+2025/02/21-22:55:45.795 1a48 Table #12144: 525 entries OK
+2025/02/21-22:55:45.803 1a48 Table #12148: 549 entries OK
+2025/02/21-22:55:45.805 1a48 Table #12149: 3676 entries OK
+2025/02/21-22:55:45.825 1a48 Table #12150: 3931 entries OK
+2025/02/21-22:55:45.835 1a48 Table #12151: 3866 entries OK
+2025/02/21-22:55:45.846 1a48 Table #12152: 3660 entries OK
+2025/02/21-22:55:45.865 1a48 Table #12153: 3304 entries OK
+2025/02/21-22:55:45.877 1a48 Table #12154: 3823 entries OK
+2025/02/21-22:55:45.901 1a48 Table #12155: 3844 entries OK
+2025/02/21-22:55:45.907 1a48 Table #12156: 3399 entries OK
+2025/02/21-22:55:45.907 1a48 Table #12157: 17 entries OK
+2025/02/21-22:55:45.915 1a48 Archiving C:/Users/SystemX/AppData/Local/FoundryVTT/Data/worlds/girls-frontline-tihij-dom/data/actors/MANIFEST-012145: OK
+2025/02/21-22:55:45.920 1a48 **** Repaired leveldb C:/Users/SystemX/AppData/Local/FoundryVTT/Data/worlds/girls-frontline-tihij-dom/data/actors; recovered 15 files; 25783123 bytes. Some data may have been lost. ****
