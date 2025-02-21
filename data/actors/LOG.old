@@ -1,11 +1,18 @@
-2025/02/20-16:03:06.604 1eec Recovering log #10541
-2025/02/20-16:03:06.604 1eec Level-0 table #10553: started
-2025/02/20-16:03:06.607 1eec Level-0 table #10553: 97492 bytes OK
-2025/02/20-16:03:06.610 1eec Delete type=0 #10541
-2025/02/20-16:03:06.610 1eec Delete type=3 #10539
-2025/02/20-16:03:12.767 19a8 Moved #10553 to level-1 97492 bytes OK: files[ 0 1 12 0 0 0 0 ]
-2025/02/20-16:03:12.771 19a8 Compacting 1@1 + 2@2 files
-2025/02/20-16:03:12.796 19a8 Generated table #10555@1: 751 keys, 2114897 bytes
-2025/02/20-16:03:12.839 19a8 Generated table #10556@1: 3662 keys, 2128242 bytes
-2025/02/20-16:03:12.840 19a8 Compacted 1@1 + 2@2 files => 4243139 bytes
-2025/02/20-16:03:12.840 19a8 compacted to: files[ 0 0 12 0 0 0 0 ]
+2025/02/21-14:39:24.277 f48 Log #10644: 817 ops saved to Table #10660 OK
+2025/02/21-14:39:24.284 f48 Archiving C:/Users/SystemX/AppData/Local/FoundryVTT/Data/worlds/girls-frontline-tihij-dom/data/actors/010644.log: OK
+2025/02/21-14:39:24.284 f48 Table #10609: 26 entries OK
+2025/02/21-14:39:24.293 f48 Table #10648: 716 entries OK
+2025/02/21-14:39:24.323 f48 Table #10649: 3708 entries OK
+2025/02/21-14:39:24.343 f48 Table #10650: 3963 entries OK
+2025/02/21-14:39:24.364 f48 Table #10651: 3911 entries OK
+2025/02/21-14:39:24.378 f48 Table #10652: 3698 entries OK
+2025/02/21-14:39:24.389 f48 Table #10653: 3324 entries OK
+2025/02/21-14:39:24.400 f48 Table #10654: 3845 entries OK
+2025/02/21-14:39:24.405 f48 Table #10655: 3840 entries OK
+2025/02/21-14:39:24.433 f48 Table #10656: 3641 entries OK
+2025/02/21-14:39:24.444 f48 Table #10657: 3628 entries OK
+2025/02/21-14:39:24.454 f48 Table #10658: 3793 entries OK
+2025/02/21-14:39:24.462 f48 Table #10659: 4266 entries OK
+2025/02/21-14:39:24.469 f48 Table #10660: 817 entries OK
+2025/02/21-14:39:24.472 f48 Archiving C:/Users/SystemX/AppData/Local/FoundryVTT/Data/worlds/girls-frontline-tihij-dom/data/actors/MANIFEST-010557: OK
+2025/02/21-14:39:24.474 f48 **** Repaired leveldb C:/Users/SystemX/AppData/Local/FoundryVTT/Data/worlds/girls-frontline-tihij-dom/data/actors; recovered 14 files; 27048673 bytes. Some data may have been lost. ****

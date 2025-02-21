@@ -1,3 +1,4 @@
-2025/02/20-16:03:06.987 1eec Recovering log #2857
-2025/02/20-16:03:06.992 1eec Delete type=0 #2857
-2025/02/20-16:03:06.992 1eec Delete type=3 #2856
+2025/02/21-14:39:25.454 1208 Log #2861: 0 ops saved to Table #2862 OK
+2025/02/21-14:39:25.458 1208 Archiving C:/Users/SystemX/AppData/Local/FoundryVTT/Data/worlds/girls-frontline-tihij-dom/data/drawings/002861.log: OK
+2025/02/21-14:39:25.462 1208 Archiving C:/Users/SystemX/AppData/Local/FoundryVTT/Data/worlds/girls-frontline-tihij-dom/data/drawings/MANIFEST-002860: OK
+2025/02/21-14:39:25.465 1208 **** Repaired leveldb C:/Users/SystemX/AppData/Local/FoundryVTT/Data/worlds/girls-frontline-tihij-dom/data/drawings; recovered 0 files; 0 bytes. Some data may have been lost. ****
