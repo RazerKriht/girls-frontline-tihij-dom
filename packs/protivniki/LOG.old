@@ -1,3 +1,11 @@
-2025/02/21-17:31:08.385 bac Recovering log #2967
-2025/02/21-17:31:08.385 bac Delete type=0 #2967
-2025/02/21-17:31:08.385 bac Delete type=3 #2965
+2025/02/21-19:41:34.582 1f44 Recovering log #2971
+2025/02/21-19:41:34.586 1f44 Delete type=0 #2971
+2025/02/21-19:41:34.586 1f44 Delete type=3 #2970
+2025/02/21-19:49:28.126 1db0 Compacting 1@0 + 2@1 files
+2025/02/21-19:49:28.212 1db0 Generated table #2974@0: 4293 keys, 2129974 bytes
+2025/02/21-19:49:28.236 1db0 Generated table #2975@0: 1192 keys, 511623 bytes
+2025/02/21-19:49:28.236 1db0 Compacted 1@0 + 2@1 files => 2641597 bytes
+2025/02/21-19:49:28.238 1db0 compacted to: files[ 0 2 0 0 0 0 0 ]
+2025/02/21-19:49:28.238 1db0 Delete type=2 #2963
+2025/02/21-19:49:28.239 1db0 Delete type=2 #2964
+2025/02/21-19:49:28.239 1db0 Delete type=2 #2966
