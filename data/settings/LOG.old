@@ -1,5 +1,14 @@
-2025/02/27-08:34:35.253 90c Recovering log #4607
-2025/02/27-08:34:35.253 90c Level-0 table #4609: started
-2025/02/27-08:34:35.253 90c Level-0 table #4609: 2016 bytes OK
-2025/02/27-08:34:35.257 90c Delete type=0 #4607
-2025/02/27-08:34:35.257 90c Delete type=3 #4605
+2025/02/27-18:24:58.995 1234 Recovering log #4626
+2025/02/27-18:24:58.995 1234 Level-0 table #4628: started
+2025/02/27-18:24:58.997 1234 Level-0 table #4628: 2016 bytes OK
+2025/02/27-18:24:59.000 1234 Delete type=0 #4626
+2025/02/27-18:24:59.000 1234 Delete type=3 #4624
+2025/02/27-18:24:59.000 1bfc Compacting 4@0 + 1@1 files
+2025/02/27-18:24:59.003 1bfc Generated table #4630@0: 67 keys, 29113 bytes
+2025/02/27-18:24:59.003 1bfc Compacted 4@0 + 1@1 files => 29113 bytes
+2025/02/27-18:24:59.004 1bfc compacted to: files[ 0 1 0 0 0 0 0 ]
+2025/02/27-18:24:59.004 1bfc Delete type=2 #4617
+2025/02/27-18:24:59.004 1bfc Delete type=2 #4619
+2025/02/27-18:24:59.005 1bfc Delete type=2 #4622
+2025/02/27-18:24:59.005 1bfc Delete type=2 #4625
+2025/02/27-18:24:59.005 1bfc Delete type=2 #4628
