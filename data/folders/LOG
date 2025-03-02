@@ -1,3 +1,5 @@
-2025/02/28-20:00:28.115 d8c Recovering log #3457
-2025/02/28-20:00:28.115 d8c Delete type=0 #3457
-2025/02/28-20:00:28.115 d8c Delete type=3 #3456
+2025/03/02-12:55:20.602 cbc Recovering log #3483
+2025/03/02-12:55:20.602 cbc Level-0 table #3485: started
+2025/03/02-12:55:20.605 cbc Level-0 table #3485: 199 bytes OK
+2025/03/02-12:55:20.622 cbc Delete type=0 #3483
+2025/03/02-12:55:20.623 cbc Delete type=3 #3481
