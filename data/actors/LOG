@@ -1,21 +1,23 @@
-2025/02/21-22:55:45.929 1a48 Delete type=3 #1
-2025/02/21-22:55:45.930 b68 Compacting 7@0 + 0@1 files
-2025/02/21-22:55:45.965 b68 Generated table #12160@0: 549 keys, 2115213 bytes
-2025/02/21-22:55:46.035 b68 Generated table #12161@0: 3676 keys, 2129742 bytes
-2025/02/21-22:55:46.095 b68 Generated table #12162@0: 3931 keys, 2129137 bytes
-2025/02/21-22:55:46.165 b68 Generated table #12163@0: 3866 keys, 2134250 bytes
-2025/02/21-22:55:46.235 b68 Generated table #12164@0: 3660 keys, 2128609 bytes
-2025/02/21-22:55:46.295 b68 Generated table #12165@0: 3304 keys, 2126690 bytes
-2025/02/21-22:55:46.295 b68 Compacted 7@0 + 0@1 files => 12763641 bytes
-2025/02/21-22:55:46.295 b68 compacted to: files[ 8 6 0 0 0 0 0 ]
-2025/02/21-22:55:46.305 b68 Moved #12154 to level-1 2129588 bytes OK: files[ 7 7 0 0 0 0 0 ]
-2025/02/21-22:55:46.305 b68 Moved #12155 to level-1 2131245 bytes OK: files[ 6 8 0 0 0 0 0 ]
-2025/02/21-22:55:46.305 b68 Moved #12160 to level-2 2115213 bytes OK: files[ 6 7 1 0 0 0 0 ]
-2025/02/21-22:55:46.305 b68 Moved #12156 to level-1 2127672 bytes OK: files[ 5 8 1 0 0 0 0 ]
-2025/02/21-22:55:46.305 b68 Moved #12161 to level-2 2129742 bytes OK: files[ 5 7 2 0 0 0 0 ]
-2025/02/21-22:55:46.305 b68 Moved #12162 to level-2 2129137 bytes OK: files[ 5 6 3 0 0 0 0 ]
-2025/02/21-22:55:46.305 b68 Moved #12141 to level-1 2129137 bytes OK: files[ 4 7 3 0 0 0 0 ]
-2025/02/21-22:55:46.305 b68 Moved #12163 to level-2 2134250 bytes OK: files[ 4 6 4 0 0 0 0 ]
-2025/02/21-22:55:46.305 b68 Moved #12164 to level-2 2128609 bytes OK: files[ 4 5 5 0 0 0 0 ]
-2025/02/21-22:55:46.305 b68 Moved #12165 to level-2 2126690 bytes OK: files[ 4 4 6 0 0 0 0 ]
-2025/02/21-22:55:46.305 b68 Moved #12142 to level-1 18416 bytes OK: files[ 3 5 6 0 0 0 0 ]
+2025/03/08-15:06:40.360 1ec8 Recovering log #12234
+2025/03/08-15:06:40.361 1ec8 Level-0 table #12250: started
+2025/03/08-15:06:40.372 1ec8 Level-0 table #12250: 195813 bytes OK
+2025/03/08-15:06:40.377 1ec8 Delete type=0 #12234
+2025/03/08-15:06:40.377 1ec8 Delete type=3 #12232
+2025/03/08-15:06:40.712 d74 Moved #12250 to level-1 195813 bytes OK: files[ 0 4 11 0 0 0 0 ]
+2025/03/08-15:06:49.235 d74 Compacting 1@1 + 6@2 files
+2025/03/08-15:06:49.309 d74 Generated table #12252@1: 530 keys, 2115292 bytes
+2025/03/08-15:06:49.380 d74 Generated table #12253@1: 3681 keys, 2127905 bytes
+2025/03/08-15:06:49.452 d74 Generated table #12254@1: 3907 keys, 2129108 bytes
+2025/03/08-15:06:49.525 d74 Generated table #12255@1: 3888 keys, 2128906 bytes
+2025/03/08-15:06:49.597 d74 Generated table #12256@1: 3620 keys, 2130293 bytes
+2025/03/08-15:06:49.666 d74 Generated table #12257@1: 3328 keys, 2128180 bytes
+2025/03/08-15:06:49.668 d74 Generated table #12258@1: 10 keys, 4086 bytes
+2025/03/08-15:06:49.668 d74 Compacted 1@1 + 6@2 files => 12763770 bytes
+2025/03/08-15:06:49.669 d74 compacted to: files[ 0 3 12 0 0 0 0 ]
+2025/03/08-15:06:49.669 d74 Delete type=2 #12239
+2025/03/08-15:06:49.669 d74 Delete type=2 #12240
+2025/03/08-15:06:49.670 d74 Delete type=2 #12241
+2025/03/08-15:06:49.670 d74 Delete type=2 #12242
+2025/03/08-15:06:49.670 d74 Delete type=2 #12243
+2025/03/08-15:06:49.671 d74 Delete type=2 #12244
+2025/03/08-15:06:49.671 d74 Delete type=2 #12250
