@@ -1,40 +1,39 @@
-2025/03/08-14:40:36.440 de0 Recovering log #12251
-2025/03/08-14:40:36.442 de0 Level-0 table #12260: started
-2025/03/08-14:40:36.449 de0 Level-0 table #12260: 418085 bytes OK
-2025/03/08-14:40:36.462 de0 Delete type=0 #12251
-2025/03/08-14:40:36.463 de0 Delete type=3 #12249
-2025/03/08-14:40:36.660 be8 Compacting 1@0 + 3@1 files
-2025/03/08-14:40:36.670 be8 Generated table #12262@0: 35 keys, 76081 bytes
-2025/03/08-14:40:36.760 be8 Generated table #12263@0: 3902 keys, 2129051 bytes
-2025/03/08-14:40:36.830 be8 Generated table #12264@0: 4478 keys, 2133700 bytes
-2025/03/08-14:40:36.840 be8 Generated table #12265@0: 1343 keys, 303739 bytes
-2025/03/08-14:40:36.840 be8 Compacted 1@0 + 3@1 files => 4642571 bytes
-2025/03/08-14:40:36.842 be8 compacted to: files[ 0 4 12 0 0 0 0 ]
-2025/03/08-14:40:44.682 be8 Compacting 1@1 + 10@2 files
-2025/03/08-14:40:44.745 be8 Generated table #12266@1: 530 keys, 2115141 bytes
-2025/03/08-14:40:44.822 be8 Generated table #12267@1: 3681 keys, 2127905 bytes
-2025/03/08-14:40:44.892 be8 Generated table #12268@1: 3911 keys, 2129815 bytes
-2025/03/08-14:40:44.962 be8 Generated table #12269@1: 3885 keys, 2129425 bytes
-2025/03/08-14:40:45.029 be8 Generated table #12270@1: 3623 keys, 2129655 bytes
-2025/03/08-14:40:45.113 be8 Generated table #12271@1: 3327 keys, 2128105 bytes
-2025/03/08-14:40:45.185 be8 Generated table #12272@1: 3813 keys, 2130700 bytes
-2025/03/08-14:40:45.275 be8 Generated table #12273@1: 3911 keys, 2130830 bytes
-2025/03/08-14:40:45.348 be8 Generated table #12274@1: 3357 keys, 2126788 bytes
-2025/03/08-14:40:45.350 be8 Generated table #12275@1: 16 keys, 7608 bytes
-2025/03/08-14:40:45.350 be8 Compacted 1@1 + 10@2 files => 19155972 bytes
-2025/03/08-14:40:45.351 be8 compacted to: files[ 0 3 12 0 0 0 0 ]
-2025/03/08-14:40:45.351 be8 Delete type=2 #12236
-2025/03/08-14:40:45.352 be8 Delete type=2 #12237
-2025/03/08-14:40:45.352 be8 Delete type=2 #12238
-2025/03/08-14:40:45.352 be8 Delete type=2 #12245
-2025/03/08-14:40:45.353 be8 Delete type=2 #12246
-2025/03/08-14:40:45.353 be8 Delete type=2 #12247
-2025/03/08-14:40:45.353 be8 Delete type=2 #12252
-2025/03/08-14:40:45.354 be8 Delete type=2 #12253
-2025/03/08-14:40:45.354 be8 Delete type=2 #12254
-2025/03/08-14:40:45.355 be8 Delete type=2 #12255
-2025/03/08-14:40:45.355 be8 Delete type=2 #12256
-2025/03/08-14:40:45.355 be8 Delete type=2 #12257
-2025/03/08-14:40:45.356 be8 Delete type=2 #12258
-2025/03/08-14:40:45.356 be8 Delete type=2 #12260
-2025/03/08-14:40:45.356 be8 Delete type=2 #12262
+2025/03/08-14:43:59.846 1828 Delete type=3 #1
+2025/03/08-14:43:59.846 cf4 Compacting 15@0 + 0@1 files
+2025/03/08-14:43:59.890 cf4 Generated table #12279@0: 534 keys, 2113163 bytes
+2025/03/08-14:43:59.950 cf4 Generated table #12280@0: 3652 keys, 2128930 bytes
+2025/03/08-14:44:00.030 cf4 Generated table #12281@0: 3946 keys, 2135598 bytes
+2025/03/08-14:44:00.301 cf4 Generated table #12282@0: 3827 keys, 2129950 bytes
+2025/03/08-14:44:00.385 cf4 Generated table #12283@0: 3673 keys, 2130358 bytes
+2025/03/08-14:44:00.467 cf4 Generated table #12284@0: 3291 keys, 2128465 bytes
+2025/03/08-14:44:00.590 cf4 Generated table #12285@0: 3864 keys, 2129347 bytes
+2025/03/08-14:44:00.683 cf4 Generated table #12286@0: 3844 keys, 2129025 bytes
+2025/03/08-14:44:00.760 cf4 Generated table #12287@0: 3395 keys, 2126720 bytes
+2025/03/08-14:44:00.835 cf4 Generated table #12288@0: 3723 keys, 2129640 bytes
+2025/03/08-14:44:00.933 cf4 Generated table #12289@0: 3919 keys, 2129263 bytes
+2025/03/08-14:44:01.036 cf4 Generated table #12290@0: 4319 keys, 2038314 bytes
+2025/03/08-14:44:01.036 cf4 Compacted 15@0 + 0@1 files => 25448773 bytes
+2025/03/08-14:44:01.036 cf4 compacted to: files[ 1 12 0 0 0 0 0 ]
+2025/03/08-14:44:01.036 cf4 Delete type=2 #12222
+2025/03/08-14:44:01.036 cf4 Delete type=2 #12248
+2025/03/08-14:44:01.036 cf4 Delete type=2 #12263
+2025/03/08-14:44:01.036 cf4 Delete type=2 #12264
+2025/03/08-14:44:01.040 cf4 Delete type=2 #12266
+2025/03/08-14:44:01.040 cf4 Delete type=2 #12267
+2025/03/08-14:44:01.040 cf4 Delete type=2 #12268
+2025/03/08-14:44:01.040 cf4 Delete type=2 #12269
+2025/03/08-14:44:01.040 cf4 Delete type=2 #12270
+2025/03/08-14:44:01.040 cf4 Delete type=2 #12271
+2025/03/08-14:44:01.040 cf4 Delete type=2 #12272
+2025/03/08-14:44:01.040 cf4 Delete type=2 #12273
+2025/03/08-14:44:01.040 cf4 Delete type=2 #12274
+2025/03/08-14:44:01.040 cf4 Delete type=2 #12275
+2025/03/08-14:44:01.040 cf4 Delete type=2 #12276
+2025/03/08-14:44:01.280 cf4 Moved #12279 to level-2 2113163 bytes OK: files[ 1 11 1 0 0 0 0 ]
+2025/03/08-14:44:01.290 cf4 Moved #12280 to level-2 2128930 bytes OK: files[ 1 10 2 0 0 0 0 ]
+2025/03/08-14:44:01.290 cf4 Moved #12281 to level-2 2135598 bytes OK: files[ 1 9 3 0 0 0 0 ]
+2025/03/08-14:44:01.290 cf4 Moved #12282 to level-2 2129950 bytes OK: files[ 1 8 4 0 0 0 0 ]
+2025/03/08-14:44:01.290 cf4 Moved #12283 to level-2 2130358 bytes OK: files[ 1 7 5 0 0 0 0 ]
+2025/03/08-14:44:01.290 cf4 Moved #12284 to level-2 2128465 bytes OK: files[ 1 6 6 0 0 0 0 ]
+2025/03/08-14:44:01.290 cf4 Moved #12285 to level-2 2129347 bytes OK: files[ 1 5 7 0 0 0 0 ]
+2025/03/08-14:44:01.290 cf4 Moved #12286 to level-2 2129025 bytes OK: files[ 1 4 8 0 0 0 0 ]
