@@ -1,20 +1,41 @@
-2025/03/09-12:05:23.284 10fc Delete type=3 #1
-2025/03/09-12:05:23.284 19a0 Compacting 9@0 + 0@1 files
-2025/03/09-12:05:23.332 19a0 Generated table #12588@0: 530 keys, 2113487 bytes
-2025/03/09-12:05:23.403 19a0 Generated table #12589@0: 3631 keys, 2128480 bytes
-2025/03/09-12:05:23.469 19a0 Generated table #12590@0: 3917 keys, 2130983 bytes
-2025/03/09-12:05:23.537 19a0 Generated table #12591@0: 3832 keys, 2130112 bytes
-2025/03/09-12:05:23.606 19a0 Generated table #12592@0: 3663 keys, 2128248 bytes
-2025/03/09-12:05:23.669 19a0 Generated table #12593@0: 3297 keys, 2127356 bytes
-2025/03/09-12:05:23.731 19a0 Generated table #12594@0: 3805 keys, 2131045 bytes
-2025/03/09-12:05:23.800 19a0 Generated table #12595@0: 3924 keys, 2132828 bytes
-2025/03/09-12:05:23.800 19a0 Compacted 9@0 + 0@1 files => 17022539 bytes
-2025/03/09-12:05:23.802 19a0 compacted to: files[ 5 8 0 0 0 0 0 ]
-2025/03/09-12:05:23.803 19a0 Moved #12588 to level-2 2113487 bytes OK: files[ 5 7 1 0 0 0 0 ]
-2025/03/09-12:05:23.804 19a0 Moved #12589 to level-2 2128480 bytes OK: files[ 5 6 2 0 0 0 0 ]
-2025/03/09-12:05:23.805 19a0 Moved #12583 to level-1 2126886 bytes OK: files[ 4 7 2 0 0 0 0 ]
-2025/03/09-12:05:23.806 19a0 Moved #12590 to level-2 2130983 bytes OK: files[ 4 6 3 0 0 0 0 ]
-2025/03/09-12:05:23.807 19a0 Moved #12591 to level-2 2130112 bytes OK: files[ 4 5 4 0 0 0 0 ]
-2025/03/09-12:05:23.807 19a0 Moved #12592 to level-2 2128248 bytes OK: files[ 4 4 5 0 0 0 0 ]
-2025/03/09-12:05:23.808 19a0 Moved #12584 to level-1 2016188 bytes OK: files[ 3 5 5 0 0 0 0 ]
-2025/03/09-12:05:23.809 19a0 Moved #12593 to level-2 2127356 bytes OK: files[ 3 4 6 0 0 0 0 ]
+2025/03/15-05:27:02.218 49c Recovering log #12597
+2025/03/15-05:27:02.233 49c Level-0 table #12599: started
+2025/03/15-05:27:02.259 49c Level-0 table #12599: 1251892 bytes OK
+2025/03/15-05:27:02.264 49c Delete type=0 #12597
+2025/03/15-05:27:02.264 49c Delete type=3 #12596
+2025/03/15-05:27:02.264 1dbc Compacting 4@0 + 4@1 files
+2025/03/15-05:27:02.351 1dbc Generated table #12601@0: 3393 keys, 2128828 bytes
+2025/03/15-05:27:02.431 1dbc Generated table #12602@0: 4246 keys, 2130892 bytes
+2025/03/15-05:27:02.512 1dbc Generated table #12603@0: 3291 keys, 2130635 bytes
+2025/03/15-05:27:02.571 1dbc Generated table #12604@0: 3720 keys, 2128915 bytes
+2025/03/15-05:27:02.646 1dbc Generated table #12605@0: 3833 keys, 2129786 bytes
+2025/03/15-05:27:02.721 1dbc Generated table #12606@0: 4380 keys, 2132305 bytes
+2025/03/15-05:27:02.740 1dbc Generated table #12607@0: 1596 keys, 366403 bytes
+2025/03/15-05:27:02.740 1dbc Compacted 4@0 + 4@1 files => 13147764 bytes
+2025/03/15-05:27:02.741 1dbc compacted to: files[ 0 7 6 0 0 0 0 ]
+2025/03/15-05:27:02.741 1dbc Compacting 1@1 + 6@2 files
+2025/03/15-05:27:02.771 1dbc Generated table #12608@1: 541 keys, 2114102 bytes
+2025/03/15-05:27:02.850 1dbc Generated table #12609@1: 3632 keys, 2128211 bytes
+2025/03/15-05:27:02.930 1dbc Generated table #12610@1: 3911 keys, 2130726 bytes
+2025/03/15-05:27:03.051 1dbc Generated table #12611@1: 3833 keys, 2129762 bytes
+2025/03/15-05:27:03.141 1dbc Generated table #12612@1: 3688 keys, 2128748 bytes
+2025/03/15-05:27:03.231 1dbc Generated table #12613@1: 3275 keys, 2126333 bytes
+2025/03/15-05:27:03.300 1dbc Generated table #12614@1: 3322 keys, 1994378 bytes
+2025/03/15-05:27:03.301 1dbc Compacted 1@1 + 6@2 files => 14752260 bytes
+2025/03/15-05:27:03.301 1dbc compacted to: files[ 0 6 7 0 0 0 0 ]
+2025/03/15-05:27:03.301 1dbc Delete type=2 #12570
+2025/03/15-05:27:03.301 1dbc Delete type=2 #12571
+2025/03/15-05:27:03.301 1dbc Delete type=2 #12572
+2025/03/15-05:27:03.301 1dbc Delete type=2 #12583
+2025/03/15-05:27:03.301 1dbc Delete type=2 #12584
+2025/03/15-05:27:03.301 1dbc Delete type=2 #12588
+2025/03/15-05:27:03.301 1dbc Delete type=2 #12589
+2025/03/15-05:27:03.301 1dbc Delete type=2 #12590
+2025/03/15-05:27:03.301 1dbc Delete type=2 #12591
+2025/03/15-05:27:03.301 1dbc Delete type=2 #12592
+2025/03/15-05:27:03.301 1dbc Delete type=2 #12593
+2025/03/15-05:27:03.301 1dbc Delete type=2 #12594
+2025/03/15-05:27:03.301 1dbc Delete type=2 #12595
+2025/03/15-05:27:03.301 1dbc Delete type=2 #12599
+2025/03/15-05:27:03.301 1dbc Delete type=2 #12601
+2025/03/15-05:27:03.301 1dbc Moved #12602 to level-2 2130892 bytes OK: files[ 0 5 8 0 0 0 0 ]
