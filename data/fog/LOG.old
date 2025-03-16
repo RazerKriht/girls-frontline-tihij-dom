@@ -1,3 +1,6 @@
-2025/03/15-17:55:25.044 2120 Recovering log #3238
-2025/03/15-17:55:25.052 2120 Delete type=0 #3238
-2025/03/15-17:55:25.052 2120 Delete type=3 #3237
+2025/03/16-17:29:39.365 edc Log #3242: 0 ops saved to Table #3243 OK
+2025/03/16-17:29:39.366 edc Archiving C:/Users/SystemX/AppData/Local/FoundryVTT/Data/worlds/girls-frontline-tihij-dom/data/fog/003242.log: OK
+2025/03/16-17:29:39.367 edc Table #1324: 7 entries OK
+2025/03/16-17:29:39.367 edc Table #2597: 19 entries OK
+2025/03/16-17:29:39.371 edc Archiving C:/Users/SystemX/AppData/Local/FoundryVTT/Data/worlds/girls-frontline-tihij-dom/data/fog/MANIFEST-003241: OK
+2025/03/16-17:29:39.371 edc **** Repaired leveldb C:/Users/SystemX/AppData/Local/FoundryVTT/Data/worlds/girls-frontline-tihij-dom/data/fog; recovered 2 files; 375293 bytes. Some data may have been lost. ****

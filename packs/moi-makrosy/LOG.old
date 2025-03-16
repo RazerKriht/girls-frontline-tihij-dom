@@ -1,3 +1,7 @@
-2025/03/15-17:55:25.381 18b0 Recovering log #3055
-2025/03/15-17:55:25.386 18b0 Delete type=0 #3055
-2025/03/15-17:55:25.386 18b0 Delete type=3 #3054
+2025/03/16-17:29:39.730 edc Log #3059: 0 ops saved to Table #3060 OK
+2025/03/16-17:29:39.731 edc Archiving C:\Users\SystemX\AppData\Local\FoundryVTT\Data\worlds\girls-frontline-tihij-dom\packs\moi-makrosy/003059.log: OK
+2025/03/16-17:29:39.732 edc Table #2414: 3 entries OK
+2025/03/16-17:29:39.732 edc Table #3038: 3 entries OK
+2025/03/16-17:29:39.732 edc Table #3041: 1 entries OK
+2025/03/16-17:29:39.733 edc Archiving C:\Users\SystemX\AppData\Local\FoundryVTT\Data\worlds\girls-frontline-tihij-dom\packs\moi-makrosy/MANIFEST-003058: OK
+2025/03/16-17:29:39.733 edc **** Repaired leveldb C:\Users\SystemX\AppData\Local\FoundryVTT\Data\worlds\girls-frontline-tihij-dom\packs\moi-makrosy; recovered 3 files; 10624 bytes. Some data may have been lost. ****
