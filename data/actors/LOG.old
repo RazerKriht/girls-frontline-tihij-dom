@@ -1,19 +1,46 @@
-2025/03/16-17:29:38.751 55c Log #12643: 155 ops saved to Table #12654 OK
-2025/03/16-17:29:38.751 55c Archiving C:/Users/SystemX/AppData/Local/FoundryVTT/Data/worlds/girls-frontline-tihij-dom/data/actors/012643.log: OK
-2025/03/16-17:29:38.761 55c Table #12622: 1645 entries OK
-2025/03/16-17:29:38.771 55c Table #12639: 3693 entries OK
-2025/03/16-17:29:38.783 55c Table #12640: 3939 entries OK
-2025/03/16-17:29:38.783 55c Table #12641: 679 entries OK
-2025/03/16-17:29:38.791 55c Table #12644: 574 entries OK
-2025/03/16-17:29:38.800 55c Table #12645: 3607 entries OK
-2025/03/16-17:29:38.817 55c Table #12646: 3883 entries OK
-2025/03/16-17:29:38.820 55c Table #12647: 3829 entries OK
-2025/03/16-17:29:38.834 55c Table #12648: 3705 entries OK
-2025/03/16-17:29:38.840 55c Table #12649: 3205 entries OK
-2025/03/16-17:29:38.850 55c Table #12650: 3770 entries OK
-2025/03/16-17:29:38.850 55c Table #12651: 3787 entries OK
-2025/03/16-17:29:38.860 55c Table #12652: 3410 entries OK
-2025/03/16-17:29:38.870 55c Table #12653: 3075 entries OK
-2025/03/16-17:29:38.870 55c Table #12654: 155 entries OK
-2025/03/16-17:29:38.870 55c Archiving C:/Users/SystemX/AppData/Local/FoundryVTT/Data/worlds/girls-frontline-tihij-dom/data/actors/MANIFEST-012642: OK
-2025/03/16-17:29:38.870 55c **** Repaired leveldb C:/Users/SystemX/AppData/Local/FoundryVTT/Data/worlds/girls-frontline-tihij-dom/data/actors; recovered 15 files; 26050768 bytes. Some data may have been lost. ****
+2025/03/18-11:55:06.318 20c0 Recovering log #12748
+2025/03/18-11:55:06.320 20c0 Level-0 table #12752: started
+2025/03/18-11:55:06.329 20c0 Level-0 table #12752: 635886 bytes OK
+2025/03/18-11:55:06.333 20c0 Delete type=0 #12748
+2025/03/18-11:55:06.334 20c0 Delete type=3 #12746
+2025/03/18-11:55:06.468 1c80 Compacting 1@0 + 3@1 files
+2025/03/18-11:55:06.472 1c80 Generated table #12754@0: 112 keys, 10001 bytes
+2025/03/18-11:55:06.523 1c80 Generated table #12755@0: 3801 keys, 2129753 bytes
+2025/03/18-11:55:06.547 1c80 Generated table #12756@0: 3140 keys, 959926 bytes
+2025/03/18-11:55:06.547 1c80 Compacted 1@0 + 3@1 files => 3099680 bytes
+2025/03/18-11:55:06.548 1c80 compacted to: files[ 0 3 11 0 0 0 0 ]
+2025/03/18-11:59:19.410 1c80 Compacting 1@1 + 10@2 files
+2025/03/18-11:59:19.440 1c80 Generated table #12757@1: 591 keys, 2116077 bytes
+2025/03/18-11:59:19.488 1c80 Generated table #12758@1: 3598 keys, 2127637 bytes
+2025/03/18-11:59:19.535 1c80 Generated table #12759@1: 3883 keys, 2130832 bytes
+2025/03/18-11:59:19.595 1c80 Generated table #12760@1: 3828 keys, 2129602 bytes
+2025/03/18-11:59:19.657 1c80 Generated table #12761@1: 3712 keys, 2129556 bytes
+2025/03/18-11:59:19.700 1c80 Generated table #12762@1: 3196 keys, 2125964 bytes
+2025/03/18-11:59:19.745 1c80 Generated table #12763@1: 3764 keys, 2129710 bytes
+2025/03/18-11:59:19.795 1c80 Generated table #12764@1: 3775 keys, 2128811 bytes
+2025/03/18-11:59:19.845 1c80 Generated table #12765@1: 3416 keys, 2132616 bytes
+2025/03/18-11:59:19.894 1c80 Generated table #12766@1: 3688 keys, 2128873 bytes
+2025/03/18-11:59:19.894 1c80 Compacted 1@1 + 10@2 files => 21279678 bytes
+2025/03/18-11:59:19.895 1c80 compacted to: files[ 0 2 11 0 0 0 0 ]
+2025/03/18-11:59:19.895 1c80 Delete type=2 #12721
+2025/03/18-11:59:19.895 1c80 Delete type=2 #12722
+2025/03/18-11:59:19.896 1c80 Delete type=2 #12737
+2025/03/18-11:59:19.896 1c80 Delete type=2 #12752
+2025/03/18-11:59:20.505 1c80 Compacting 1@1 + 1@2 files
+2025/03/18-11:59:20.560 1c80 Generated table #12767@1: 3909 keys, 2131717 bytes
+2025/03/18-11:59:20.591 1c80 Generated table #12768@1: 2286 keys, 1292139 bytes
+2025/03/18-11:59:20.591 1c80 Compacted 1@1 + 1@2 files => 3423856 bytes
+2025/03/18-11:59:20.592 1c80 compacted to: files[ 0 1 12 0 0 0 0 ]
+2025/03/18-11:59:20.592 1c80 Delete type=2 #12730
+2025/03/18-11:59:20.592 1c80 Delete type=2 #12731
+2025/03/18-11:59:20.593 1c80 Delete type=2 #12732
+2025/03/18-11:59:20.593 1c80 Delete type=2 #12740
+2025/03/18-11:59:20.593 1c80 Delete type=2 #12741
+2025/03/18-11:59:20.594 1c80 Delete type=2 #12742
+2025/03/18-11:59:20.594 1c80 Delete type=2 #12743
+2025/03/18-11:59:20.594 1c80 Delete type=2 #12744
+2025/03/18-11:59:20.595 1c80 Delete type=2 #12745
+2025/03/18-11:59:20.595 1c80 Delete type=2 #12749
+2025/03/18-11:59:20.595 1c80 Delete type=2 #12750
+2025/03/18-11:59:20.596 1c80 Delete type=2 #12754
+2025/03/18-11:59:20.596 1c80 Delete type=2 #12755
