@@ -1,24 +1,8 @@
-2025/03/18-12:29:33.023 2bb4 Recovering log #12753
-2025/03/18-12:29:33.024 2bb4 Level-0 table #12770: started
-2025/03/18-12:29:33.027 2bb4 Level-0 table #12770: 78975 bytes OK
-2025/03/18-12:29:33.031 2bb4 Delete type=0 #12753
-2025/03/18-12:29:33.031 2bb4 Delete type=3 #12751
-2025/03/18-12:29:33.250 1040 Moved #12770 to level-1 78975 bytes OK: files[ 0 2 12 0 0 0 0 ]
-2025/03/18-12:29:39.063 1040 Compacting 1@1 + 7@2 files
-2025/03/18-12:29:39.089 1040 Generated table #12772@1: 591 keys, 2115593 bytes
-2025/03/18-12:29:39.135 1040 Generated table #12773@1: 3598 keys, 2127637 bytes
-2025/03/18-12:29:39.181 1040 Generated table #12774@1: 3883 keys, 2130832 bytes
-2025/03/18-12:29:39.227 1040 Generated table #12775@1: 3828 keys, 2129602 bytes
-2025/03/18-12:29:39.296 1040 Generated table #12776@1: 3712 keys, 2129556 bytes
-2025/03/18-12:29:39.342 1040 Generated table #12777@1: 3196 keys, 2125972 bytes
-2025/03/18-12:29:39.401 1040 Generated table #12778@1: 3764 keys, 2129709 bytes
-2025/03/18-12:29:39.401 1040 Compacted 1@1 + 7@2 files => 14888901 bytes
-2025/03/18-12:29:39.401 1040 compacted to: files[ 0 1 12 0 0 0 0 ]
-2025/03/18-12:29:39.401 1040 Delete type=2 #12757
-2025/03/18-12:29:39.402 1040 Delete type=2 #12758
-2025/03/18-12:29:39.402 1040 Delete type=2 #12759
-2025/03/18-12:29:39.402 1040 Delete type=2 #12760
-2025/03/18-12:29:39.403 1040 Delete type=2 #12761
-2025/03/18-12:29:39.403 1040 Delete type=2 #12762
-2025/03/18-12:29:39.403 1040 Delete type=2 #12763
-2025/03/18-12:29:39.403 1040 Delete type=2 #12770
+2025/03/18-19:52:18.583 19b0 Recovering log #12814
+2025/03/18-19:52:18.583 19b0 Delete type=0 #12814
+2025/03/18-19:52:18.583 19b0 Delete type=3 #12798
+2025/03/18-19:53:11.492 2a84 Level-0 table #12833: started
+2025/03/18-19:53:11.492 2a84 Level-0 table #12833: 0 bytes OK
+2025/03/18-19:53:11.493 2a84 Delete type=0 #12831
+2025/03/18-19:53:11.493 2a84 Manual compaction at level-0 from '!actors!01AG48wENcfeDTe4' @ 72057594037927935 : 1 .. '!actors.items.effects!zPGhguQ79SPKaIS0.ahzQrXDZxoPkBMRs.CTDjkh6v3bPEa7ZW' @ 0 : 0; will stop at (end)
+2025/03/18-19:53:11.494 2a84 Manual compaction at level-1 from '!actors!01AG48wENcfeDTe4' @ 72057594037927935 : 1 .. '!actors.items.effects!zPGhguQ79SPKaIS0.ahzQrXDZxoPkBMRs.CTDjkh6v3bPEa7ZW' @ 0 : 0; will stop at (end)

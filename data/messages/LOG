@@ -1,5 +1,7 @@
-2025/03/18-12:29:33.397 1874 Recovering log #3794
-2025/03/18-12:29:33.397 1874 Level-0 table #3796: started
-2025/03/18-12:29:33.398 1874 Level-0 table #3796: 1086 bytes OK
-2025/03/18-12:29:33.402 1874 Delete type=0 #3794
-2025/03/18-12:29:33.403 1874 Delete type=3 #3793
+2025/03/18-19:52:18.962 1c98 Recovering log #3803
+2025/03/18-19:52:18.962 1c98 Delete type=0 #3803
+2025/03/18-19:52:18.962 1c98 Delete type=3 #3801
+2025/03/18-19:53:11.491 2a84 Level-0 table #3811: started
+2025/03/18-19:53:11.491 2a84 Level-0 table #3811: 0 bytes OK
+2025/03/18-19:53:11.492 2a84 Delete type=0 #3809
+2025/03/18-19:53:11.493 2a84 Manual compaction at level-0 from '!messages!00pogGpNACd567ZD' @ 72057594037927935 : 1 .. '!messages!zziswLergEF5vYHM' @ 0 : 0; will stop at (end)
