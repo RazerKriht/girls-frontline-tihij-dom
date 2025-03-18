@@ -1,7 +1,5 @@
-2025/03/18-19:52:18.962 1c98 Recovering log #3803
-2025/03/18-19:52:18.962 1c98 Delete type=0 #3803
-2025/03/18-19:52:18.962 1c98 Delete type=3 #3801
-2025/03/18-19:53:11.491 2a84 Level-0 table #3811: started
-2025/03/18-19:53:11.491 2a84 Level-0 table #3811: 0 bytes OK
-2025/03/18-19:53:11.492 2a84 Delete type=0 #3809
-2025/03/18-19:53:11.493 2a84 Manual compaction at level-0 from '!messages!00pogGpNACd567ZD' @ 72057594037927935 : 1 .. '!messages!zziswLergEF5vYHM' @ 0 : 0; will stop at (end)
+2025/03/18-22:19:28.050 1fbc Recovering log #3822
+2025/03/18-22:19:28.050 1fbc Level-0 table #3824: started
+2025/03/18-22:19:28.052 1fbc Level-0 table #3824: 2989 bytes OK
+2025/03/18-22:19:28.056 1fbc Delete type=0 #3822
+2025/03/18-22:19:28.056 1fbc Delete type=3 #3821

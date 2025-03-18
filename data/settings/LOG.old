@@ -1,25 +1,14 @@
-2025/03/18-19:09:16.622 19b0 Recovering log #4965
-2025/03/18-19:09:16.622 19b0 Level-0 table #4967: started
-2025/03/18-19:09:16.624 19b0 Level-0 table #4967: 2016 bytes OK
-2025/03/18-19:09:16.627 19b0 Delete type=0 #4965
-2025/03/18-19:09:16.627 19b0 Delete type=3 #4963
-2025/03/18-19:09:16.627 2a84 Compacting 4@0 + 1@1 files
-2025/03/18-19:09:16.627 2a84 Generated table #4969@0: 67 keys, 27980 bytes
-2025/03/18-19:09:16.627 2a84 Compacted 4@0 + 1@1 files => 27980 bytes
-2025/03/18-19:09:16.627 2a84 compacted to: files[ 0 1 0 0 0 0 0 ]
-2025/03/18-19:09:16.627 2a84 Delete type=2 #4956
-2025/03/18-19:09:16.627 2a84 Delete type=2 #4958
-2025/03/18-19:09:16.627 2a84 Delete type=2 #4961
-2025/03/18-19:09:16.627 2a84 Delete type=2 #4964
-2025/03/18-19:09:16.627 2a84 Delete type=2 #4967
-2025/03/18-19:51:51.910 2a84 Level-0 table #4971: started
-2025/03/18-19:51:51.913 2a84 Level-0 table #4971: 5022 bytes OK
-2025/03/18-19:51:51.915 2a84 Delete type=0 #4968
-2025/03/18-19:51:51.921 2a84 Manual compaction at level-0 from '!settings!0D1cbSYaOUlpiXaq' @ 72057594037927935 : 1 .. '!settings!zVeLu7Z7IsDRNjRR' @ 0 : 0; will stop at '!settings!9Zv4AFVgNVNttgvN' @ 5159 : 1
-2025/03/18-19:51:51.921 2a84 Compacting 1@0 + 1@1 files
-2025/03/18-19:51:51.923 2a84 Generated table #4972@0: 67 keys, 27980 bytes
-2025/03/18-19:51:51.923 2a84 Compacted 1@0 + 1@1 files => 27980 bytes
-2025/03/18-19:51:51.924 2a84 compacted to: files[ 0 1 0 0 0 0 0 ]
-2025/03/18-19:51:51.924 2a84 Delete type=2 #4969
-2025/03/18-19:51:51.925 2a84 Delete type=2 #4971
-2025/03/18-19:51:51.927 2a84 Manual compaction at level-0 from '!settings!9Zv4AFVgNVNttgvN' @ 5159 : 1 .. '!settings!zVeLu7Z7IsDRNjRR' @ 0 : 0; will stop at (end)
+2025/03/18-21:19:59.204 2968 Recovering log #4988
+2025/03/18-21:19:59.204 2968 Level-0 table #4990: started
+2025/03/18-21:19:59.206 2968 Level-0 table #4990: 2020 bytes OK
+2025/03/18-21:19:59.208 2968 Delete type=0 #4988
+2025/03/18-21:19:59.208 2968 Delete type=3 #4986
+2025/03/18-21:19:59.208 2bfc Compacting 4@0 + 1@1 files
+2025/03/18-21:19:59.208 2bfc Generated table #4992@0: 67 keys, 27986 bytes
+2025/03/18-21:19:59.208 2bfc Compacted 4@0 + 1@1 files => 27986 bytes
+2025/03/18-21:19:59.208 2bfc compacted to: files[ 0 1 0 0 0 0 0 ]
+2025/03/18-21:19:59.208 2bfc Delete type=2 #4977
+2025/03/18-21:19:59.208 2bfc Delete type=2 #4981
+2025/03/18-21:19:59.208 2bfc Delete type=2 #4984
+2025/03/18-21:19:59.208 2bfc Delete type=2 #4987
+2025/03/18-21:19:59.208 2bfc Delete type=2 #4990
