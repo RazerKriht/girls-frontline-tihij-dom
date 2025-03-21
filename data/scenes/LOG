@@ -1,3 +1,13 @@
-2025/03/18-22:19:28.201 1fbc Recovering log #3957
-2025/03/18-22:19:28.205 1fbc Delete type=0 #3957
-2025/03/18-22:19:28.205 1fbc Delete type=3 #3955
+2025/03/20-22:42:20.447 1e28 Recovering log #3994
+2025/03/20-22:42:20.449 1e28 Level-0 table #3996: started
+2025/03/20-22:42:20.452 1e28 Level-0 table #3996: 38285 bytes OK
+2025/03/20-22:42:20.457 1e28 Delete type=0 #3994
+2025/03/20-22:42:20.457 1e28 Delete type=3 #3992
+2025/03/20-22:42:26.675 1dbc Expanding@0 1+1 (38285+1882877 bytes) to 2+1 (39707+1882877 bytes)
+2025/03/20-22:42:26.675 1dbc Compacting 2@0 + 1@1 files
+2025/03/20-22:42:26.748 1dbc Generated table #3998@0: 14680 keys, 1717498 bytes
+2025/03/20-22:42:26.748 1dbc Compacted 2@0 + 1@1 files => 1717498 bytes
+2025/03/20-22:42:26.750 1dbc compacted to: files[ 0 1 0 0 0 0 0 ]
+2025/03/20-22:42:26.750 1dbc Delete type=2 #3991
+2025/03/20-22:42:26.752 1dbc Delete type=2 #3993
+2025/03/20-22:42:26.752 1dbc Delete type=2 #3996
