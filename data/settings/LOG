@@ -1,5 +1,5 @@
-2025/03/22-00:26:28.754 1ff4 Recovering log #5057
-2025/03/22-00:26:28.754 1ff4 Level-0 table #5059: started
-2025/03/22-00:26:28.762 1ff4 Level-0 table #5059: 2020 bytes OK
-2025/03/22-00:26:28.767 1ff4 Delete type=0 #5057
-2025/03/22-00:26:28.767 1ff4 Delete type=3 #5055
+2025/03/22-12:56:08.681 1ccc Recovering log #5070
+2025/03/22-12:56:08.681 1ccc Level-0 table #5072: started
+2025/03/22-12:56:08.683 1ccc Level-0 table #5072: 2020 bytes OK
+2025/03/22-12:56:08.688 1ccc Delete type=0 #5070
+2025/03/22-12:56:08.688 1ccc Delete type=3 #5068
