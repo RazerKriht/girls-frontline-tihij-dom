@@ -1,14 +1,13 @@
-2025/03/22-18:16:17.750 1030 Recovering log #5076
-2025/03/22-18:16:17.750 1030 Level-0 table #5078: started
-2025/03/22-18:16:17.752 1030 Level-0 table #5078: 2020 bytes OK
-2025/03/22-18:16:17.752 1030 Delete type=0 #5076
-2025/03/22-18:16:17.752 1030 Delete type=3 #5074
-2025/03/22-18:16:17.752 1bdc Compacting 4@0 + 1@1 files
-2025/03/22-18:16:17.761 1bdc Generated table #5080@0: 67 keys, 29125 bytes
-2025/03/22-18:16:17.761 1bdc Compacted 4@0 + 1@1 files => 29125 bytes
-2025/03/22-18:16:17.763 1bdc compacted to: files[ 0 1 0 0 0 0 0 ]
-2025/03/22-18:16:17.764 1bdc Delete type=2 #5067
-2025/03/22-18:16:17.764 1bdc Delete type=2 #5069
-2025/03/22-18:16:17.764 1bdc Delete type=2 #5072
-2025/03/22-18:16:17.764 1bdc Delete type=2 #5075
-2025/03/22-18:16:17.765 1bdc Delete type=2 #5078
+2025/03/23-17:29:52.267 15dc Recovering log #5086
+2025/03/23-17:29:52.267 15dc Level-0 table #5088: started
+2025/03/23-17:29:52.267 15dc Level-0 table #5088: 2020 bytes OK
+2025/03/23-17:29:52.267 15dc Delete type=0 #5086
+2025/03/23-17:29:52.267 15dc Delete type=3 #5084
+2025/03/23-17:29:52.267 f9c Compacting 4@0 + 0@1 files
+2025/03/23-17:29:52.267 f9c Generated table #5090@0: 67 keys, 27986 bytes
+2025/03/23-17:29:52.267 f9c Compacted 4@0 + 0@1 files => 27986 bytes
+2025/03/23-17:29:52.275 f9c compacted to: files[ 0 1 0 0 0 0 0 ]
+2025/03/23-17:29:52.275 f9c Delete type=2 #5080
+2025/03/23-17:29:52.275 f9c Delete type=2 #5081
+2025/03/23-17:29:52.275 f9c Delete type=2 #5085
+2025/03/23-17:29:52.275 f9c Delete type=2 #5088

@@ -1,5 +1,5 @@
-2025/03/22-18:14:19.719 1b9c Recovering log #5073
-2025/03/22-18:14:19.722 1b9c Level-0 table #5075: started
-2025/03/22-18:14:19.722 1b9c Level-0 table #5075: 2020 bytes OK
-2025/03/22-18:14:19.729 1b9c Delete type=0 #5073
-2025/03/22-18:14:19.730 1b9c Delete type=3 #5071
+2025/03/23-15:20:00.385 c8c Recovering log #5083
+2025/03/23-15:20:00.394 c8c Level-0 table #5085: started
+2025/03/23-15:20:00.394 c8c Level-0 table #5085: 2336 bytes OK
+2025/03/23-15:20:00.399 c8c Delete type=0 #5083
+2025/03/23-15:20:00.399 c8c Delete type=3 #5082
