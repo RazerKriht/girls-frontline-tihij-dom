@@ -1,5 +1,3 @@
-2025/03/28-17:06:41.440 bfc Recovering log #3413
-2025/03/28-17:06:41.440 bfc Level-0 table #3415: started
-2025/03/28-17:06:41.442 bfc Level-0 table #3415: 5146 bytes OK
-2025/03/28-17:06:41.447 bfc Delete type=0 #3413
-2025/03/28-17:06:41.447 bfc Delete type=3 #3412
+2025/03/28-17:31:30.923 1dfc Recovering log #3416
+2025/03/28-17:31:30.926 1dfc Delete type=0 #3416
+2025/03/28-17:31:30.926 1dfc Delete type=3 #3414

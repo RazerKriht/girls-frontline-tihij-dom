@@ -1,9 +1,5 @@
-2025/03/27-19:06:59.607 ed4 Recovering log #3339
-2025/03/27-19:06:59.607 ed4 Delete type=0 #3339
-2025/03/27-19:06:59.607 ed4 Delete type=3 #3338
-2025/03/27-19:09:58.023 1b74 Compacting 2@0 + 0@1 files
-2025/03/27-19:09:58.025 1b74 Generated table #3342@0: 234 keys, 28182 bytes
-2025/03/27-19:09:58.025 1b74 Compacted 2@0 + 0@1 files => 28182 bytes
-2025/03/27-19:09:58.026 1b74 compacted to: files[ 0 1 0 0 0 0 0 ]
-2025/03/27-19:09:58.026 1b74 Delete type=2 #3208
-2025/03/27-19:09:58.026 1b74 Delete type=2 #3288
+2025/03/28-17:06:41.484 bfc Recovering log #3341
+2025/03/28-17:06:41.485 bfc Level-0 table #3344: started
+2025/03/28-17:06:41.487 bfc Level-0 table #3344: 889 bytes OK
+2025/03/28-17:06:41.492 bfc Delete type=0 #3341
+2025/03/28-17:06:41.492 bfc Delete type=3 #3340
