@@ -1,5 +1,5 @@
-2025/03/29-10:33:40.835 219c Recovering log #5194
-2025/03/29-10:33:40.922 219c Level-0 table #5196: started
-2025/03/29-10:33:40.966 219c Level-0 table #5196: 5146 bytes OK
-2025/03/29-10:33:41.062 219c Delete type=0 #5194
-2025/03/29-10:33:41.062 219c Delete type=3 #5192
+2025/03/29-15:20:54.185 1fec Recovering log #5197
+2025/03/29-15:20:54.208 1fec Level-0 table #5199: started
+2025/03/29-15:20:54.297 1fec Level-0 table #5199: 2022 bytes OK
+2025/03/29-15:20:54.375 1fec Delete type=0 #5197
+2025/03/29-15:20:54.380 1fec Delete type=3 #5195
