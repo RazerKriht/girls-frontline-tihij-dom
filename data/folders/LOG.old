@@ -1,5 +1,5 @@
-2025/03/29-21:09:25.956 1d8c Recovering log #3868
-2025/03/29-21:09:25.956 1d8c Level-0 table #3870: started
-2025/03/29-21:09:26.018 1d8c Level-0 table #3870: 1283 bytes OK
-2025/03/29-21:09:26.184 1d8c Delete type=0 #3868
-2025/03/29-21:09:26.184 1d8c Delete type=3 #3866
+2025/03/29-22:15:15.579 2ae8 Recovering log #3871
+2025/03/29-22:15:15.579 2ae8 Level-0 table #3873: started
+2025/03/29-22:15:15.632 2ae8 Level-0 table #3873: 1184 bytes OK
+2025/03/29-22:15:15.959 2ae8 Delete type=0 #3871
+2025/03/29-22:15:15.959 2ae8 Delete type=3 #3869
