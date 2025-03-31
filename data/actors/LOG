@@ -1,38 +1,14 @@
-2025/03/30-21:26:53.910 fe4 Recovering log #14133
-2025/03/30-21:26:53.910 fe4 Level-0 table #14144: started
-2025/03/30-21:26:53.920 fe4 Level-0 table #14144: 179069 bytes OK
-2025/03/30-21:26:53.923 fe4 Delete type=0 #14133
-2025/03/30-21:26:53.923 fe4 Delete type=3 #14131
-2025/03/30-21:26:54.051 e4c Compacting 1@0 + 4@1 files
-2025/03/30-21:26:54.100 e4c Generated table #14146@0: 3497 keys, 2127229 bytes
-2025/03/30-21:26:54.153 e4c Generated table #14147@0: 3748 keys, 2130807 bytes
-2025/03/30-21:26:54.200 e4c Generated table #14148@0: 3713 keys, 2133601 bytes
-2025/03/30-21:26:54.220 e4c Generated table #14149@0: 2733 keys, 803294 bytes
-2025/03/30-21:26:54.220 e4c Compacted 1@0 + 4@1 files => 7194931 bytes
-2025/03/30-21:26:54.220 e4c compacted to: files[ 0 4 8 0 0 0 0 ]
-2025/03/30-21:26:54.220 e4c Delete type=2 #14127
-2025/03/30-21:26:54.220 e4c Delete type=2 #14128
-2025/03/30-21:26:54.220 e4c Delete type=2 #14129
-2025/03/30-21:26:54.220 e4c Delete type=2 #14130
-2025/03/30-21:26:54.220 e4c Delete type=2 #14144
-2025/03/30-21:26:59.461 e4c Compacting 1@1 + 8@2 files
-2025/03/30-21:26:59.496 e4c Generated table #14150@1: 857 keys, 2122026 bytes
-2025/03/30-21:26:59.541 e4c Generated table #14151@1: 3506 keys, 2129845 bytes
-2025/03/30-21:26:59.586 e4c Generated table #14152@1: 3541 keys, 2128156 bytes
-2025/03/30-21:26:59.639 e4c Generated table #14153@1: 3743 keys, 2130872 bytes
-2025/03/30-21:26:59.686 e4c Generated table #14154@1: 3341 keys, 2128377 bytes
-2025/03/30-21:26:59.732 e4c Generated table #14155@1: 3435 keys, 2129726 bytes
-2025/03/30-21:26:59.782 e4c Generated table #14156@1: 3656 keys, 2128121 bytes
-2025/03/30-21:26:59.833 e4c Generated table #14157@1: 3462 keys, 2129505 bytes
-2025/03/30-21:26:59.880 e4c Generated table #14158@1: 3159 keys, 1911047 bytes
-2025/03/30-21:26:59.880 e4c Compacted 1@1 + 8@2 files => 18937675 bytes
-2025/03/30-21:26:59.881 e4c compacted to: files[ 0 3 9 0 0 0 0 ]
-2025/03/30-21:26:59.881 e4c Delete type=2 #14135
-2025/03/30-21:26:59.881 e4c Delete type=2 #14136
-2025/03/30-21:26:59.882 e4c Delete type=2 #14137
-2025/03/30-21:26:59.882 e4c Delete type=2 #14138
-2025/03/30-21:26:59.882 e4c Delete type=2 #14139
-2025/03/30-21:26:59.882 e4c Delete type=2 #14140
-2025/03/30-21:26:59.883 e4c Delete type=2 #14141
-2025/03/30-21:26:59.883 e4c Delete type=2 #14142
-2025/03/30-21:26:59.883 e4c Delete type=2 #14146
+2025/03/31-17:50:23.822 198 Recovering log #14202
+2025/03/31-17:50:23.822 198 Level-0 table #14215: started
+2025/03/31-17:50:23.824 198 Level-0 table #14215: 16197 bytes OK
+2025/03/31-17:50:23.827 198 Delete type=0 #14202
+2025/03/31-17:50:23.827 198 Delete type=3 #14200
+2025/03/31-17:50:33.328 dc8 Moved #14215 to level-1 16197 bytes OK: files[ 0 3 10 0 0 0 0 ]
+2025/03/31-17:50:33.336 dc8 Compacting 1@1 + 2@2 files
+2025/03/31-17:50:33.362 dc8 Generated table #14217@1: 857 keys, 2122869 bytes
+2025/03/31-17:50:33.407 dc8 Generated table #14218@1: 3506 keys, 2129834 bytes
+2025/03/31-17:50:33.407 dc8 Compacted 1@1 + 2@2 files => 4252703 bytes
+2025/03/31-17:50:33.408 dc8 compacted to: files[ 0 2 10 0 0 0 0 ]
+2025/03/31-17:50:33.408 dc8 Delete type=2 #14204
+2025/03/31-17:50:33.408 dc8 Delete type=2 #14205
+2025/03/31-17:50:33.408 dc8 Delete type=2 #14215
