@@ -1,3 +1,37 @@
-2025/03/31-20:51:53.944 1d7c Recovering log #14220
-2025/03/31-20:51:53.947 1d7c Delete type=0 #14220
-2025/03/31-20:51:53.948 1d7c Delete type=3 #14219
+2025/04/01-08:37:14.832 1f34 Recovering log #14225
+2025/04/01-08:37:14.843 1f34 Level-0 table #14239: started
+2025/04/01-08:37:14.858 1f34 Level-0 table #14239: 1204634 bytes OK
+2025/04/01-08:37:14.862 1f34 Delete type=0 #14225
+2025/04/01-08:37:14.862 1f34 Delete type=3 #14223
+2025/04/01-08:37:15.062 a5c Compacting 1@0 + 2@1 files
+2025/04/01-08:37:15.077 a5c Generated table #14241@0: 131 keys, 86416 bytes
+2025/04/01-08:37:15.122 a5c Generated table #14242@0: 3716 keys, 2128483 bytes
+2025/04/01-08:37:15.142 a5c Generated table #14243@0: 2744 keys, 821512 bytes
+2025/04/01-08:37:15.142 a5c Compacted 1@0 + 2@1 files => 3036411 bytes
+2025/04/01-08:37:15.143 a5c compacted to: files[ 0 3 10 0 0 0 0 ]
+2025/04/01-08:37:21.901 a5c Compacting 1@1 + 9@2 files
+2025/04/01-08:37:21.955 a5c Generated table #14244@1: 830 keys, 2115734 bytes
+2025/04/01-08:37:22.002 a5c Generated table #14245@1: 3512 keys, 2129853 bytes
+2025/04/01-08:37:22.048 a5c Generated table #14246@1: 3558 keys, 2129395 bytes
+2025/04/01-08:37:22.096 a5c Generated table #14247@1: 3740 keys, 2130730 bytes
+2025/04/01-08:37:22.151 a5c Generated table #14248@1: 3340 keys, 2128179 bytes
+2025/04/01-08:37:22.197 a5c Generated table #14249@1: 3435 keys, 2129650 bytes
+2025/04/01-08:37:22.244 a5c Generated table #14250@1: 3671 keys, 2128601 bytes
+2025/04/01-08:37:22.288 a5c Generated table #14251@1: 3469 keys, 2129323 bytes
+2025/04/01-08:37:22.332 a5c Generated table #14252@1: 3496 keys, 2128720 bytes
+2025/04/01-08:37:22.336 a5c Generated table #14253@1: 151 keys, 59428 bytes
+2025/04/01-08:37:22.336 a5c Compacted 1@1 + 9@2 files => 19209613 bytes
+2025/04/01-08:37:22.336 a5c compacted to: files[ 0 2 11 0 0 0 0 ]
+2025/04/01-08:37:22.336 a5c Delete type=2 #14190
+2025/04/01-08:37:22.337 a5c Delete type=2 #14227
+2025/04/01-08:37:22.337 a5c Delete type=2 #14228
+2025/04/01-08:37:22.338 a5c Delete type=2 #14229
+2025/04/01-08:37:22.338 a5c Delete type=2 #14230
+2025/04/01-08:37:22.339 a5c Delete type=2 #14231
+2025/04/01-08:37:22.340 a5c Delete type=2 #14232
+2025/04/01-08:37:22.340 a5c Delete type=2 #14233
+2025/04/01-08:37:22.341 a5c Delete type=2 #14234
+2025/04/01-08:37:22.342 a5c Delete type=2 #14235
+2025/04/01-08:37:22.342 a5c Delete type=2 #14236
+2025/04/01-08:37:22.343 a5c Delete type=2 #14239
+2025/04/01-08:37:22.343 a5c Delete type=2 #14241
