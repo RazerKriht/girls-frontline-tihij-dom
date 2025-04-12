@@ -1,3 +1,7 @@
-2025/04/12-13:39:48.558 a58 Recovering log #3870
-2025/04/12-13:39:48.704 a58 Delete type=0 #3870
-2025/04/12-13:39:48.704 a58 Delete type=3 #3868
+2025/04/12-14:59:53.413 1e94 Log #3877: 0 ops saved to Table #3878 OK
+2025/04/12-14:59:53.413 1e94 Archiving C:\Users\DagonAgA\AppData\Local\FoundryVTT\Data\worlds\girls-frontline-tihij-dom\packs\protivniki/003877.log: OK
+2025/04/12-14:59:53.420 1e94 Table #3871: 3876 entries OK
+2025/04/12-14:59:53.423 1e94 Table #3872: 2339 entries OK
+2025/04/12-14:59:53.423 1e94 Table #3876: 6 entries OK
+2025/04/12-14:59:53.462 1e94 Archiving C:\Users\DagonAgA\AppData\Local\FoundryVTT\Data\worlds\girls-frontline-tihij-dom\packs\protivniki/MANIFEST-003875: OK
+2025/04/12-14:59:53.517 1e94 **** Repaired leveldb C:\Users\DagonAgA\AppData\Local\FoundryVTT\Data\worlds\girls-frontline-tihij-dom\packs\protivniki; recovered 3 files; 3191989 bytes. Some data may have been lost. ****

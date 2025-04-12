@@ -1,3 +1,5 @@
-2025/04/12-13:39:47.980 158c Recovering log #3704
-2025/04/12-13:39:48.109 158c Delete type=0 #3704
-2025/04/12-13:39:48.110 158c Delete type=3 #3703
+2025/04/12-14:59:52.851 20d4 Log #3709: 0 ops saved to Table #3711 OK
+2025/04/12-14:59:52.852 20d4 Archiving C:/Users/DagonAgA/AppData/Local/FoundryVTT/Data/worlds/girls-frontline-tihij-dom/data/users/003709.log: OK
+2025/04/12-14:59:52.852 20d4 Table #3710: 3 entries OK
+2025/04/12-14:59:52.934 20d4 Archiving C:/Users/DagonAgA/AppData/Local/FoundryVTT/Data/worlds/girls-frontline-tihij-dom/data/users/MANIFEST-003707: OK
+2025/04/12-14:59:52.986 20d4 **** Repaired leveldb C:/Users/DagonAgA/AppData/Local/FoundryVTT/Data/worlds/girls-frontline-tihij-dom/data/users; recovered 1 files; 1550 bytes. Some data may have been lost. ****
