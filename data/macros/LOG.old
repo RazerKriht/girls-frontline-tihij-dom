@@ -1,6 +1,1 @@
-2025/04/12-17:13:37.228 26ac Log #3701: 0 ops saved to Table #3702 OK
-2025/04/12-17:13:37.252 26ac Archiving C:/Users/DagonAgA/AppData/Local/FoundryVTT/Data/worlds/girls-frontline-tihij-dom/data/macros/003701.log: OK
-2025/04/12-17:13:37.266 26ac Table #2358: 2 entries OK
-2025/04/12-17:13:37.288 26ac Table #3698: 2 entries OK
-2025/04/12-17:13:37.344 26ac Archiving C:/Users/DagonAgA/AppData/Local/FoundryVTT/Data/worlds/girls-frontline-tihij-dom/data/macros/MANIFEST-003700: OK
-2025/04/12-17:13:37.414 26ac **** Repaired leveldb C:/Users/DagonAgA/AppData/Local/FoundryVTT/Data/worlds/girls-frontline-tihij-dom/data/macros; recovered 2 files; 11889 bytes. Some data may have been lost. ****
+2025/04/12-17:13:37.578 26ac Delete type=3 #1

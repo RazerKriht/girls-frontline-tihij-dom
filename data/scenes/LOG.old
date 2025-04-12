@@ -1,5 +1,1 @@
-2025/04/12-17:13:38.414 26ac Log #4487: 0 ops saved to Table #4488 OK
-2025/04/12-17:13:38.439 26ac Archiving C:/Users/DagonAgA/AppData/Local/FoundryVTT/Data/worlds/girls-frontline-tihij-dom/data/scenes/004487.log: OK
-2025/04/12-17:13:38.534 26ac Table #4484: 7198 entries OK
-2025/04/12-17:13:38.648 26ac Archiving C:/Users/DagonAgA/AppData/Local/FoundryVTT/Data/worlds/girls-frontline-tihij-dom/data/scenes/MANIFEST-004486: OK
-2025/04/12-17:13:38.704 26ac **** Repaired leveldb C:/Users/DagonAgA/AppData/Local/FoundryVTT/Data/worlds/girls-frontline-tihij-dom/data/scenes; recovered 1 files; 925644 bytes. Some data may have been lost. ****
+2025/04/12-17:13:38.885 26ac Delete type=3 #1
