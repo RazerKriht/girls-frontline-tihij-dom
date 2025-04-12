@@ -1,3 +1,6 @@
-2025/04/12-21:37:56.971 2468 Recovering log #3497
-2025/04/12-21:37:57.171 2468 Delete type=0 #3497
-2025/04/12-21:37:57.171 2468 Delete type=3 #3496
+2025/04/13-00:29:28.571 1158 Log #3501: 0 ops saved to Table #3502 OK
+2025/04/13-00:29:28.603 1158 Archiving C:\Users\DagonAgA\AppData\Local\FoundryVTT\Data\worlds\girls-frontline-tihij-dom\packs\moi-makrosy/003501.log: OK
+2025/04/13-00:29:28.631 1158 Table #3440: 8 entries OK
+2025/04/13-00:29:28.631 1158 Table #3486: 1 entries OK
+2025/04/13-00:29:28.693 1158 Archiving C:\Users\DagonAgA\AppData\Local\FoundryVTT\Data\worlds\girls-frontline-tihij-dom\packs\moi-makrosy/MANIFEST-003500: OK
+2025/04/13-00:29:28.729 1158 **** Repaired leveldb C:\Users\DagonAgA\AppData\Local\FoundryVTT\Data\worlds\girls-frontline-tihij-dom\packs\moi-makrosy; recovered 2 files; 44036 bytes. Some data may have been lost. ****

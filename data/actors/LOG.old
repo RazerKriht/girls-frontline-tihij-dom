@@ -1,3 +1,16 @@
-2025/04/12-21:37:54.433 13c4 Recovering log #15513
-2025/04/12-21:37:54.581 13c4 Delete type=0 #15513
-2025/04/12-21:37:54.581 13c4 Delete type=3 #15511
+2025/04/13-00:29:17.978 ce8 Log #15529: 85 ops saved to Table #15541 OK
+2025/04/13-00:29:18.009 ce8 Archiving C:/Users/DagonAgA/AppData/Local/FoundryVTT/Data/worlds/girls-frontline-tihij-dom/data/actors/015529.log: OK
+2025/04/13-00:29:18.025 ce8 Table #15390: 4 entries OK
+2025/04/13-00:29:18.158 ce8 Table #15531: 3650 entries OK
+2025/04/13-00:29:18.318 ce8 Table #15532: 4474 entries OK
+2025/04/13-00:29:18.423 ce8 Table #15533: 1098 entries OK
+2025/04/13-00:29:18.579 ce8 Table #15534: 3745 entries OK
+2025/04/13-00:29:18.891 ce8 Table #15535: 3643 entries OK
+2025/04/13-00:29:19.009 ce8 Table #15536: 3319 entries OK
+2025/04/13-00:29:19.141 ce8 Table #15537: 3275 entries OK
+2025/04/13-00:29:19.305 ce8 Table #15538: 3404 entries OK
+2025/04/13-00:29:19.447 ce8 Table #15539: 3518 entries OK
+2025/04/13-00:29:19.579 ce8 Table #15540: 2915 entries OK
+2025/04/13-00:29:19.579 ce8 Table #15541: 85 entries OK
+2025/04/13-00:29:19.712 ce8 Archiving C:/Users/DagonAgA/AppData/Local/FoundryVTT/Data/worlds/girls-frontline-tihij-dom/data/actors/MANIFEST-015527: OK
+2025/04/13-00:29:19.809 ce8 **** Repaired leveldb C:/Users/DagonAgA/AppData/Local/FoundryVTT/Data/worlds/girls-frontline-tihij-dom/data/actors; recovered 12 files; 21121350 bytes. Some data may have been lost. ****
