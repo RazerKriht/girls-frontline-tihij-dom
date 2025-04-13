@@ -1,2 +1,8 @@
-2025/04/13-00:29:22.669 ce8 Delete type=3 #1
-2025/04/13-00:29:24.144 148c Moved #4293 to level-1 2133777 bytes OK: files[ 3 1 0 0 0 0 0 ]
+2025/04/13-11:33:33.184 14e4 Log #4312: 0 ops saved to Table #4313 OK
+2025/04/13-11:33:33.185 14e4 Archiving C:/Users/DagonAgA/AppData/Local/FoundryVTT/Data/worlds/girls-frontline-tihij-dom/data/messages/004312.log: OK
+2025/04/13-11:33:33.196 14e4 Table #4293: 2835 entries OK
+2025/04/13-11:33:33.217 14e4 Table #4294: 2823 entries OK
+2025/04/13-11:33:33.235 14e4 Table #4295: 2868 entries OK
+2025/04/13-11:33:33.236 14e4 Table #4296: 174 entries OK
+2025/04/13-11:33:33.275 14e4 Archiving C:/Users/DagonAgA/AppData/Local/FoundryVTT/Data/worlds/girls-frontline-tihij-dom/data/messages/MANIFEST-004311: OK
+2025/04/13-11:33:33.399 14e4 **** Repaired leveldb C:/Users/DagonAgA/AppData/Local/FoundryVTT/Data/worlds/girls-frontline-tihij-dom/data/messages; recovered 4 files; 6526812 bytes. Some data may have been lost. ****
