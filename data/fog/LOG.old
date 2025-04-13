@@ -1,8 +1,2 @@
-2025/04/13-11:33:34.528 1e4c Log #3701: 0 ops saved to Table #3702 OK
-2025/04/13-11:33:34.530 1e4c Archiving C:/Users/DagonAgA/AppData/Local/FoundryVTT/Data/worlds/girls-frontline-tihij-dom/data/fog/003701.log: OK
-2025/04/13-11:33:34.530 1e4c Table #1324: 7 entries OK
-2025/04/13-11:33:34.530 1e4c Table #3634: 24 entries OK
-2025/04/13-11:33:34.530 1e4c Table #3652: 1 entries OK
-2025/04/13-11:33:34.530 1e4c Table #3663: 1 entries OK
-2025/04/13-11:33:34.586 1e4c Archiving C:/Users/DagonAgA/AppData/Local/FoundryVTT/Data/worlds/girls-frontline-tihij-dom/data/fog/MANIFEST-003700: OK
-2025/04/13-11:33:34.664 1e4c **** Repaired leveldb C:/Users/DagonAgA/AppData/Local/FoundryVTT/Data/worlds/girls-frontline-tihij-dom/data/fog; recovered 4 files; 433546 bytes. Some data may have been lost. ****
+2025/04/13-11:33:34.916 1e4c Delete type=3 #1
+2025/04/13-11:33:35.163 674 Moved #1324 to level-1 139669 bytes OK: files[ 3 1 0 0 0 0 0 ]
