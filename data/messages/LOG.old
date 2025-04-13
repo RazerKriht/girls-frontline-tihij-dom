@@ -1,3 +1,16 @@
-2025/04/13-12:44:24.180 1c24 Recovering log #4315
-2025/04/13-12:44:24.299 1c24 Delete type=0 #4315
-2025/04/13-12:44:24.301 1c24 Delete type=3 #4314
+2025/04/13-18:03:57.310 14a0 Delete type=3 #1
+2025/04/13-18:03:57.613 1b00 Moved #4321 to level-1 2133777 bytes OK: files[ 3 1 0 0 0 0 0 ]
+2025/04/13-18:06:33.301 1b00 Level-0 table #4327: started
+2025/04/13-18:06:33.301 1b00 Level-0 table #4327: 0 bytes OK
+2025/04/13-18:06:33.303 1b00 Delete type=0 #4325
+2025/04/13-18:06:33.305 1b00 Manual compaction at level-0 from '!messages!00gitcjS8pCZMiBS' @ 72057594037927935 : 1 .. '!messages!zziswLergEF5vYHM' @ 0 : 0; will stop at '!messages!zziswLergEF5vYHM' @ 3632 : 1
+2025/04/13-18:06:33.305 1b00 Compacting 3@0 + 0@1 files
+2025/04/13-18:06:33.353 1b00 Generated table #4328@0: 2823 keys, 2134957 bytes
+2025/04/13-18:06:33.400 1b00 Generated table #4329@0: 2868 keys, 2134361 bytes
+2025/04/13-18:06:33.404 1b00 Generated table #4330@0: 174 keys, 123717 bytes
+2025/04/13-18:06:33.404 1b00 Compacted 3@0 + 0@1 files => 4393035 bytes
+2025/04/13-18:06:33.405 1b00 compacted to: files[ 0 4 0 0 0 0 0 ]
+2025/04/13-18:06:33.405 1b00 Delete type=2 #4295
+2025/04/13-18:06:33.405 1b00 Delete type=2 #4296
+2025/04/13-18:06:33.405 1b00 Delete type=2 #4322
+2025/04/13-18:06:33.458 1b00 Manual compaction at level-0 from '!messages!zziswLergEF5vYHM' @ 3632 : 1 .. '!messages!zziswLergEF5vYHM' @ 0 : 0; will stop at (end)
