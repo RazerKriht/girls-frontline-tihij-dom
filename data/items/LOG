@@ -1,13 +1,5 @@
-2025/04/14-00:24:26.052 1950 Recovering log #4024
-2025/04/14-00:24:26.052 1950 Level-0 table #4026: started
-2025/04/14-00:24:26.054 1950 Level-0 table #4026: 4553 bytes OK
-2025/04/14-00:24:26.054 1950 Delete type=0 #4024
-2025/04/14-00:24:26.054 1950 Delete type=3 #4022
-2025/04/14-00:24:26.054 1bac Compacting 4@0 + 0@1 files
-2025/04/14-00:24:26.082 1bac Generated table #4028@0: 843 keys, 767921 bytes
-2025/04/14-00:24:26.082 1bac Compacted 4@0 + 0@1 files => 767921 bytes
-2025/04/14-00:24:26.084 1bac compacted to: files[ 0 1 0 0 0 0 0 ]
-2025/04/14-00:24:26.084 1bac Delete type=2 #4011
-2025/04/14-00:24:26.085 1bac Delete type=2 #4020
-2025/04/14-00:24:26.085 1bac Delete type=2 #4023
-2025/04/14-00:24:26.085 1bac Delete type=2 #4026
+2025/04/14-08:31:07.378 18ac Recovering log #4027
+2025/04/14-08:31:07.378 18ac Level-0 table #4030: started
+2025/04/14-08:31:07.378 18ac Level-0 table #4030: 3654 bytes OK
+2025/04/14-08:31:07.378 18ac Delete type=0 #4027
+2025/04/14-08:31:07.378 18ac Delete type=3 #4025

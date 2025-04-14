@@ -1,36 +1,3 @@
-2025/04/14-00:24:25.521 1954 Recovering log #15672
-2025/04/14-00:24:25.536 1954 Level-0 table #15686: started
-2025/04/14-00:24:25.551 1954 Level-0 table #15686: 985921 bytes OK
-2025/04/14-00:24:25.553 1954 Delete type=0 #15672
-2025/04/14-00:24:25.553 1954 Delete type=3 #15670
-2025/04/14-00:24:25.766 1bac Compacting 1@0 + 2@1 files
-2025/04/14-00:24:25.816 1bac Generated table #15688@0: 3454 keys, 2128244 bytes
-2025/04/14-00:24:25.833 1bac Generated table #15689@0: 2018 keys, 557703 bytes
-2025/04/14-00:24:25.833 1bac Compacted 1@0 + 2@1 files => 2685947 bytes
-2025/04/14-00:24:25.833 1bac compacted to: files[ 0 2 9 0 0 0 0 ]
-2025/04/14-00:24:37.037 1bac Compacting 1@1 + 9@2 files
-2025/04/14-00:24:37.083 1bac Generated table #15690@1: 1078 keys, 2120594 bytes
-2025/04/14-00:24:37.137 1bac Generated table #15691@1: 3736 keys, 2129797 bytes
-2025/04/14-00:24:37.168 1bac Generated table #15692@1: 3622 keys, 2128672 bytes
-2025/04/14-00:24:37.222 1bac Generated table #15693@1: 3224 keys, 2132329 bytes
-2025/04/14-00:24:37.288 1bac Generated table #15694@1: 3188 keys, 2128935 bytes
-2025/04/14-00:24:37.338 1bac Generated table #15695@1: 3421 keys, 2128918 bytes
-2025/04/14-00:24:37.384 1bac Generated table #15696@1: 3603 keys, 2129579 bytes
-2025/04/14-00:24:37.438 1bac Generated table #15697@1: 3289 keys, 2127527 bytes
-2025/04/14-00:24:37.485 1bac Generated table #15698@1: 3646 keys, 2129611 bytes
-2025/04/14-00:24:37.523 1bac Generated table #15699@1: 2852 keys, 1696913 bytes
-2025/04/14-00:24:37.523 1bac Compacted 1@1 + 9@2 files => 20852875 bytes
-2025/04/14-00:24:37.523 1bac compacted to: files[ 0 1 10 0 0 0 0 ]
-2025/04/14-00:24:37.523 1bac Delete type=2 #15674
-2025/04/14-00:24:37.523 1bac Delete type=2 #15675
-2025/04/14-00:24:37.523 1bac Delete type=2 #15676
-2025/04/14-00:24:37.523 1bac Delete type=2 #15677
-2025/04/14-00:24:37.523 1bac Delete type=2 #15678
-2025/04/14-00:24:37.523 1bac Delete type=2 #15679
-2025/04/14-00:24:37.523 1bac Delete type=2 #15680
-2025/04/14-00:24:37.523 1bac Delete type=2 #15681
-2025/04/14-00:24:37.523 1bac Delete type=2 #15682
-2025/04/14-00:24:37.523 1bac Delete type=2 #15683
-2025/04/14-00:24:37.523 1bac Delete type=2 #15684
-2025/04/14-00:24:37.523 1bac Delete type=2 #15686
-2025/04/14-00:24:37.523 1bac Delete type=2 #15688
+2025/04/14-08:31:07.023 18fc Recovering log #15687
+2025/04/14-08:31:07.025 18fc Delete type=0 #15687
+2025/04/14-08:31:07.025 18fc Delete type=3 #15685
