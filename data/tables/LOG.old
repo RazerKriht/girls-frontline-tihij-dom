@@ -1,3 +1,11 @@
-2025/04/14-21:22:39.675 1aa4 Recovering log #3670
-2025/04/14-21:22:39.685 1aa4 Delete type=0 #3670
-2025/04/14-21:22:39.685 1aa4 Delete type=3 #3669
+2025/04/15-09:38:02.849 f60 Recovering log #3672
+2025/04/15-09:38:02.849 f60 Level-0 table #3674: started
+2025/04/15-09:38:02.852 f60 Level-0 table #3674: 7325 bytes OK
+2025/04/15-09:38:02.855 f60 Delete type=0 #3672
+2025/04/15-09:38:02.855 f60 Delete type=3 #3671
+2025/04/15-09:38:10.674 1ea0 Compacting 2@0 + 0@1 files
+2025/04/15-09:38:10.677 1ea0 Generated table #3676@0: 330 keys, 43363 bytes
+2025/04/15-09:38:10.677 1ea0 Compacted 2@0 + 0@1 files => 43363 bytes
+2025/04/15-09:38:10.678 1ea0 compacted to: files[ 0 1 0 0 0 0 0 ]
+2025/04/15-09:38:10.679 1ea0 Delete type=2 #3649
+2025/04/15-09:38:10.679 1ea0 Delete type=2 #3674

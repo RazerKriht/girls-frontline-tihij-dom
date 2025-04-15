@@ -1,13 +1,13 @@
-2025/04/15-09:38:02.984 f60 Recovering log #3956
-2025/04/15-09:38:02.993 f60 Level-0 table #3960: started
-2025/04/15-09:38:03.008 f60 Level-0 table #3960: 674228 bytes OK
-2025/04/15-09:38:03.013 f60 Delete type=0 #3956
-2025/04/15-09:38:03.013 f60 Delete type=3 #3955
-2025/04/15-09:39:36.118 1ea0 Compacting 1@0 + 2@1 files
-2025/04/15-09:39:36.167 1ea0 Generated table #3962@0: 3753 keys, 2128037 bytes
-2025/04/15-09:39:36.194 1ea0 Generated table #3963@0: 2752 keys, 1184903 bytes
-2025/04/15-09:39:36.194 1ea0 Compacted 1@0 + 2@1 files => 3312940 bytes
-2025/04/15-09:39:36.195 1ea0 compacted to: files[ 0 2 0 0 0 0 0 ]
-2025/04/15-09:39:36.195 1ea0 Delete type=2 #3957
-2025/04/15-09:39:36.195 1ea0 Delete type=2 #3958
-2025/04/15-09:39:36.195 1ea0 Delete type=2 #3960
+2025/04/15-12:10:08.401 1ae0 Recovering log #3961
+2025/04/15-12:10:08.405 1ae0 Level-0 table #3965: started
+2025/04/15-12:10:08.419 1ae0 Level-0 table #3965: 864751 bytes OK
+2025/04/15-12:10:08.424 1ae0 Delete type=0 #3961
+2025/04/15-12:10:08.424 1ae0 Delete type=3 #3959
+2025/04/15-12:23:34.894 1cb8 Compacting 1@0 + 2@1 files
+2025/04/15-12:23:34.942 1cb8 Generated table #3967@0: 3774 keys, 2128108 bytes
+2025/04/15-12:23:34.967 1cb8 Generated table #3968@0: 2740 keys, 1197539 bytes
+2025/04/15-12:23:34.967 1cb8 Compacted 1@0 + 2@1 files => 3325647 bytes
+2025/04/15-12:23:34.967 1cb8 compacted to: files[ 0 2 0 0 0 0 0 ]
+2025/04/15-12:23:34.968 1cb8 Delete type=2 #3962
+2025/04/15-12:23:34.968 1cb8 Delete type=2 #3963
+2025/04/15-12:23:34.968 1cb8 Delete type=2 #3965
