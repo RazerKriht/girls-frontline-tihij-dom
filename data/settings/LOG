@@ -1,5 +1,5 @@
-2025/04/16-18:04:24.842 db4 Recovering log #5705
-2025/04/16-18:04:24.842 db4 Level-0 table #5708: started
-2025/04/16-18:04:24.842 db4 Level-0 table #5708: 2040 bytes OK
-2025/04/16-18:04:24.851 db4 Delete type=0 #5705
-2025/04/16-18:04:24.851 db4 Delete type=3 #5703
+2025/04/17-09:07:40.467 1f6c Recovering log #5722
+2025/04/17-09:07:40.467 1f6c Level-0 table #5724: started
+2025/04/17-09:07:40.468 1f6c Level-0 table #5724: 2040 bytes OK
+2025/04/17-09:07:40.471 1f6c Delete type=0 #5722
+2025/04/17-09:07:40.471 1f6c Delete type=3 #5720
