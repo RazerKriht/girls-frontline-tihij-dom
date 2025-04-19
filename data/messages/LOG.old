@@ -1,11 +1,7 @@
-2025/04/17-18:29:33.366 162c Recovering log #4409
-2025/04/17-18:29:33.366 162c Level-0 table #4411: started
-2025/04/17-18:29:33.368 162c Level-0 table #4411: 2844 bytes OK
-2025/04/17-18:29:33.376 162c Delete type=0 #4409
-2025/04/17-18:29:33.376 162c Delete type=3 #4408
-2025/04/17-18:29:33.376 129c Compacting 2@0 + 0@1 files
-2025/04/17-18:29:33.431 129c Generated table #4413@0: 2868 keys, 2134361 bytes
-2025/04/17-18:29:33.431 129c Compacted 2@0 + 0@1 files => 2134361 bytes
-2025/04/17-18:29:33.433 129c compacted to: files[ 2 3 0 0 0 0 0 ]
-2025/04/17-18:29:33.433 129c Delete type=2 #4380
-2025/04/17-18:29:33.434 129c Delete type=2 #4395
+2025/04/19-16:32:58.514 1bcc Recovering log #4434
+2025/04/19-16:32:58.680 1bcc Delete type=0 #4434
+2025/04/19-16:32:58.684 1bcc Delete type=3 #4433
+2025/04/19-16:53:56.680 1e8 Level-0 table #4438: started
+2025/04/19-16:53:56.680 1e8 Level-0 table #4438: 0 bytes OK
+2025/04/19-16:53:56.720 1e8 Delete type=0 #4436
+2025/04/19-16:53:56.722 1e8 Manual compaction at level-0 from '!messages!00gitcjS8pCZMiBS' @ 72057594037927935 : 1 .. '!messages!zziswLergEF5vYHM' @ 0 : 0; will stop at (end)
