@@ -1,7 +1,3 @@
-2025/04/19-16:32:59.276 4f4 Recovering log #3834
-2025/04/19-16:32:59.448 4f4 Delete type=0 #3834
-2025/04/19-16:32:59.448 4f4 Delete type=3 #3833
-2025/04/19-16:53:56.592 1e8 Level-0 table #3838: started
-2025/04/19-16:53:56.592 1e8 Level-0 table #3838: 0 bytes OK
-2025/04/19-16:53:56.627 1e8 Delete type=0 #3836
-2025/04/19-16:53:56.722 1e8 Manual compaction at level-0 from '!combats!2O1n0yjj1aFf9ScZ' @ 72057594037927935 : 1 .. '!combats.combatants!nRqz6ztYPMIAqz7I.xW7O1wPJOvvML9li' @ 0 : 0; will stop at (end)
+2025/04/19-16:54:06.953 17c0 Recovering log #3837
+2025/04/19-16:54:07.103 17c0 Delete type=0 #3837
+2025/04/19-16:54:07.103 17c0 Delete type=3 #3835

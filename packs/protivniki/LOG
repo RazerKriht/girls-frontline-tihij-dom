@@ -1,3 +1,13 @@
-2025/04/19-16:54:08.919 ed0 Recovering log #4045
-2025/04/19-16:54:08.987 ed0 Delete type=0 #4045
-2025/04/19-16:54:08.987 ed0 Delete type=3 #4043
+2025/04/19-18:38:00.463 1bec Recovering log #4048
+2025/04/19-18:38:00.655 1bec Level-0 table #4050: started
+2025/04/19-18:38:00.835 1bec Level-0 table #4050: 464812 bytes OK
+2025/04/19-18:38:00.990 1bec Delete type=0 #4048
+2025/04/19-18:38:00.991 1bec Delete type=3 #4047
+2025/04/19-18:41:13.354 12d8 Compacting 1@0 + 2@1 files
+2025/04/19-18:41:13.716 12d8 Generated table #4052@0: 3802 keys, 2128843 bytes
+2025/04/19-18:41:13.962 12d8 Generated table #4053@0: 2792 keys, 1229572 bytes
+2025/04/19-18:41:13.962 12d8 Compacted 1@0 + 2@1 files => 3358415 bytes
+2025/04/19-18:41:14.009 12d8 compacted to: files[ 0 2 0 0 0 0 0 ]
+2025/04/19-18:41:14.009 12d8 Delete type=2 #4039
+2025/04/19-18:41:14.010 12d8 Delete type=2 #4040
+2025/04/19-18:41:14.011 12d8 Delete type=2 #4050
