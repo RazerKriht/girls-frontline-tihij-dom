@@ -1,65 +1,17 @@
-2025/04/19-20:34:00.540 1e7c Recovering log #16130
-2025/04/19-20:34:00.585 1e7c Level-0 table #16141: started
-2025/04/19-20:34:00.705 1e7c Level-0 table #16141: 348819 bytes OK
-2025/04/19-20:34:00.825 1e7c Delete type=0 #16130
-2025/04/19-20:34:00.825 1e7c Delete type=3 #16128
-2025/04/19-20:34:05.789 10c0 Moved #16141 to level-1 348819 bytes OK: files[ 0 2 12 0 0 0 0 ]
-2025/04/19-20:34:53.548 10c0 Compacting 1@1 + 6@2 files
-2025/04/19-20:34:54.079 10c0 Generated table #16143@1: 1017 keys, 2120136 bytes
-2025/04/19-20:34:55.064 10c0 Generated table #16144@1: 3521 keys, 2129748 bytes
-2025/04/19-20:34:55.548 10c0 Generated table #16145@1: 3570 keys, 2128396 bytes
-2025/04/19-20:34:56.313 10c0 Generated table #16146@1: 3361 keys, 2128498 bytes
-2025/04/19-20:34:56.719 10c0 Generated table #16147@1: 3199 keys, 2127775 bytes
-2025/04/19-20:34:58.141 10c0 Generated table #16148@1: 3336 keys, 2131710 bytes
-2025/04/19-20:34:58.735 10c0 Generated table #16149@1: 11 keys, 7581 bytes
-2025/04/19-20:34:58.735 10c0 Compacted 1@1 + 6@2 files => 12773844 bytes
-2025/04/19-20:34:58.844 10c0 compacted to: files[ 0 1 13 0 0 0 0 ]
-2025/04/19-20:34:58.844 10c0 Delete type=2 #16133
-2025/04/19-20:34:58.844 10c0 Delete type=2 #16134
-2025/04/19-20:34:58.844 10c0 Delete type=2 #16135
-2025/04/19-20:34:58.844 10c0 Delete type=2 #16136
-2025/04/19-20:34:58.844 10c0 Delete type=2 #16137
-2025/04/19-20:34:58.844 10c0 Delete type=2 #16138
-2025/04/19-20:34:58.844 10c0 Delete type=2 #16141
-2025/04/19-21:09:48.939 10c0 Level-0 table #16151: started
-2025/04/19-21:09:49.163 10c0 Level-0 table #16151: 2414754 bytes OK
-2025/04/19-21:09:49.197 10c0 Delete type=0 #16142
-2025/04/19-21:10:11.525 10c0 Compacting 1@0 + 1@1 files
-2025/04/19-21:10:11.643 10c0 Generated table #16152@0: 455 keys, 130274 bytes
-2025/04/19-21:10:11.680 10c0 Generated table #16153@0: 31 keys, 1869 bytes
-2025/04/19-21:10:11.681 10c0 Compacted 1@0 + 1@1 files => 132143 bytes
-2025/04/19-21:10:11.702 10c0 compacted to: files[ 0 2 13 0 0 0 0 ]
-2025/04/19-21:10:11.704 10c0 Delete type=2 #16132
-2025/04/19-21:10:11.707 10c0 Delete type=2 #16151
-2025/04/19-21:10:19.365 10c0 Compacting 1@1 + 12@2 files
-2025/04/19-21:10:19.637 10c0 Generated table #16154@1: 1018 keys, 2123504 bytes
-2025/04/19-21:10:19.851 10c0 Generated table #16155@1: 3521 keys, 2129748 bytes
-2025/04/19-21:10:20.128 10c0 Generated table #16156@1: 3570 keys, 2128396 bytes
-2025/04/19-21:10:20.380 10c0 Generated table #16157@1: 3418 keys, 2133080 bytes
-2025/04/19-21:10:20.657 10c0 Generated table #16158@1: 3210 keys, 2128993 bytes
-2025/04/19-21:10:20.868 10c0 Generated table #16159@1: 3324 keys, 2127539 bytes
-2025/04/19-21:10:21.105 10c0 Generated table #16160@1: 3714 keys, 2132809 bytes
-2025/04/19-21:10:21.324 10c0 Generated table #16161@1: 3185 keys, 2129180 bytes
-2025/04/19-21:10:21.542 10c0 Generated table #16162@1: 3647 keys, 2130612 bytes
-2025/04/19-21:10:21.740 10c0 Generated table #16163@1: 3421 keys, 2018381 bytes
-2025/04/19-21:10:21.740 10c0 Compacted 1@1 + 12@2 files => 21182242 bytes
-2025/04/19-21:10:21.778 10c0 compacted to: files[ 0 1 11 0 0 0 0 ]
-2025/04/19-21:10:21.780 10c0 Delete type=2 #16104
-2025/04/19-21:10:21.782 10c0 Delete type=2 #16105
-2025/04/19-21:10:21.786 10c0 Delete type=2 #16106
-2025/04/19-21:10:21.788 10c0 Delete type=2 #16107
-2025/04/19-21:10:21.790 10c0 Delete type=2 #16139
-2025/04/19-21:10:21.793 10c0 Delete type=2 #16143
-2025/04/19-21:10:21.794 10c0 Delete type=2 #16144
-2025/04/19-21:10:21.795 10c0 Delete type=2 #16145
-2025/04/19-21:10:21.796 10c0 Delete type=2 #16146
-2025/04/19-21:10:21.797 10c0 Delete type=2 #16147
-2025/04/19-21:10:21.798 10c0 Delete type=2 #16148
-2025/04/19-21:10:21.798 10c0 Delete type=2 #16149
-2025/04/19-21:10:21.799 10c0 Delete type=2 #16152
-2025/04/19-21:14:52.249 10c0 Compacting 1@1 + 1@2 files
-2025/04/19-21:14:52.444 10c0 Generated table #16164@1: 3191 keys, 1201844 bytes
-2025/04/19-21:14:52.444 10c0 Compacted 1@1 + 1@2 files => 1201844 bytes
-2025/04/19-21:14:52.471 10c0 compacted to: files[ 0 0 11 0 0 0 0 ]
-2025/04/19-21:14:52.472 10c0 Delete type=2 #16123
-2025/04/19-21:14:52.472 10c0 Delete type=2 #16153
+2025/04/20-10:55:26.446 224 Log #16167: 461 ops saved to Table #16180 OK
+2025/04/20-10:55:26.446 224 Archiving C:/Users/DagonAgA/AppData/Local/FoundryVTT/Data/worlds/girls-frontline-tihij-dom/data/actors/016167.log: OK
+2025/04/20-10:55:26.460 224 Table #16164: 3191 entries OK
+2025/04/20-10:55:26.460 224 Table #16169: 7 entries OK
+2025/04/20-10:55:26.468 224 Table #16170: 1017 entries OK
+2025/04/20-10:55:26.479 224 Table #16171: 3521 entries OK
+2025/04/20-10:55:26.485 224 Table #16172: 3570 entries OK
+2025/04/20-10:55:26.500 224 Table #16173: 3418 entries OK
+2025/04/20-10:55:26.506 224 Table #16174: 3210 entries OK
+2025/04/20-10:55:26.515 224 Table #16175: 3273 entries OK
+2025/04/20-10:55:26.520 224 Table #16176: 3706 entries OK
+2025/04/20-10:55:26.535 224 Table #16177: 3180 entries OK
+2025/04/20-10:55:26.540 224 Table #16178: 3716 entries OK
+2025/04/20-10:55:26.550 224 Table #16179: 3332 entries OK
+2025/04/20-10:55:26.550 224 Table #16180: 461 entries OK
+2025/04/20-10:55:26.580 224 Archiving C:/Users/DagonAgA/AppData/Local/FoundryVTT/Data/worlds/girls-frontline-tihij-dom/data/actors/MANIFEST-016165: OK
+2025/04/20-10:55:26.621 224 **** Repaired leveldb C:/Users/DagonAgA/AppData/Local/FoundryVTT/Data/worlds/girls-frontline-tihij-dom/data/actors; recovered 13 files; 22623359 bytes. Some data may have been lost. ****

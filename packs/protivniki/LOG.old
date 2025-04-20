@@ -1,13 +1,7 @@
-2025/04/19-20:34:16.065 1e8c Recovering log #4051
-2025/04/19-20:34:16.160 1e8c Level-0 table #4055: started
-2025/04/19-20:34:16.234 1e8c Level-0 table #4055: 184438 bytes OK
-2025/04/19-20:34:16.338 1e8c Delete type=0 #4051
-2025/04/19-20:34:16.338 1e8c Delete type=3 #4049
-2025/04/19-20:35:45.980 10c0 Compacting 1@0 + 2@1 files
-2025/04/19-20:35:46.383 10c0 Generated table #4057@0: 3802 keys, 2128580 bytes
-2025/04/19-20:35:46.587 10c0 Generated table #4058@0: 2792 keys, 1228055 bytes
-2025/04/19-20:35:46.587 10c0 Compacted 1@0 + 2@1 files => 3356635 bytes
-2025/04/19-20:35:46.619 10c0 compacted to: files[ 0 2 0 0 0 0 0 ]
-2025/04/19-20:35:46.619 10c0 Delete type=2 #4052
-2025/04/19-20:35:46.620 10c0 Delete type=2 #4053
-2025/04/19-20:35:46.620 10c0 Delete type=2 #4055
+2025/04/20-10:55:33.820 224 Log #4061: 71 ops saved to Table #4064 OK
+2025/04/20-10:55:33.820 224 Archiving C:\Users\DagonAgA\AppData\Local\FoundryVTT\Data\worlds\girls-frontline-tihij-dom\packs\protivniki/004061.log: OK
+2025/04/20-10:55:33.840 224 Table #4062: 3750 entries OK
+2025/04/20-10:55:33.846 224 Table #4063: 2955 entries OK
+2025/04/20-10:55:33.847 224 Table #4064: 71 entries OK
+2025/04/20-10:55:33.881 224 Archiving C:\Users\DagonAgA\AppData\Local\FoundryVTT\Data\worlds\girls-frontline-tihij-dom\packs\protivniki/MANIFEST-004059: OK
+2025/04/20-10:55:33.920 224 **** Repaired leveldb C:\Users\DagonAgA\AppData\Local\FoundryVTT\Data\worlds\girls-frontline-tihij-dom\packs\protivniki; recovered 3 files; 3667461 bytes. Some data may have been lost. ****

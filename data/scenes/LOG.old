@@ -1,11 +1,5 @@
-2025/04/19-20:34:13.994 1e7c Recovering log #4640
-2025/04/19-20:34:14.028 1e7c Level-0 table #4642: started
-2025/04/19-20:34:14.099 1e7c Level-0 table #4642: 2603 bytes OK
-2025/04/19-20:34:14.255 1e7c Delete type=0 #4640
-2025/04/19-20:34:14.265 1e7c Delete type=3 #4639
-2025/04/19-20:34:52.752 10c0 Compacting 1@0 + 1@1 files
-2025/04/19-20:34:53.330 10c0 Generated table #4644@0: 7220 keys, 947092 bytes
-2025/04/19-20:34:53.330 10c0 Compacted 1@0 + 1@1 files => 947092 bytes
-2025/04/19-20:34:53.533 10c0 compacted to: files[ 0 1 0 0 0 0 0 ]
-2025/04/19-20:34:53.533 10c0 Delete type=2 #4626
-2025/04/19-20:34:53.533 10c0 Delete type=2 #4642
+2025/04/20-10:55:32.612 1708 Log #4647: 0 ops saved to Table #4649 OK
+2025/04/20-10:55:32.616 1708 Archiving C:/Users/DagonAgA/AppData/Local/FoundryVTT/Data/worlds/girls-frontline-tihij-dom/data/scenes/004647.log: OK
+2025/04/20-10:55:32.628 1708 Table #4648: 7220 entries OK
+2025/04/20-10:55:32.660 1708 Archiving C:/Users/DagonAgA/AppData/Local/FoundryVTT/Data/worlds/girls-frontline-tihij-dom/data/scenes/MANIFEST-004645: OK
+2025/04/20-10:55:32.730 1708 **** Repaired leveldb C:/Users/DagonAgA/AppData/Local/FoundryVTT/Data/worlds/girls-frontline-tihij-dom/data/scenes; recovered 1 files; 947082 bytes. Some data may have been lost. ****
