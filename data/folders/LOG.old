@@ -1,8 +1,9 @@
-2025/04/20-10:55:30.024 224 Log #4328: 1 ops saved to Table #4329 OK
-2025/04/20-10:55:30.027 224 Archiving C:/Users/DagonAgA/AppData/Local/FoundryVTT/Data/worlds/girls-frontline-tihij-dom/data/folders/004328.log: OK
-2025/04/20-10:55:30.028 224 Table #4318: 195 entries OK
-2025/04/20-10:55:30.028 224 Table #4322: 1 entries OK
-2025/04/20-10:55:30.028 224 Table #4327: 1 entries OK
-2025/04/20-10:55:30.028 224 Table #4329: 1 entries OK
-2025/04/20-10:55:30.140 224 Archiving C:/Users/DagonAgA/AppData/Local/FoundryVTT/Data/worlds/girls-frontline-tihij-dom/data/folders/MANIFEST-004326: OK
-2025/04/20-10:55:30.280 224 **** Repaired leveldb C:/Users/DagonAgA/AppData/Local/FoundryVTT/Data/worlds/girls-frontline-tihij-dom/data/folders; recovered 4 files; 30653 bytes. Some data may have been lost. ****
+2025/04/20-10:55:30.660 224 Delete type=3 #1
+2025/04/20-10:55:31.770 194c Compacting 4@0 + 0@1 files
+2025/04/20-10:55:31.819 194c Generated table #4332@0: 195 keys, 29055 bytes
+2025/04/20-10:55:31.820 194c Compacted 4@0 + 0@1 files => 29055 bytes
+2025/04/20-10:55:31.900 194c compacted to: files[ 0 1 0 0 0 0 0 ]
+2025/04/20-10:55:31.900 194c Delete type=2 #4318
+2025/04/20-10:55:31.903 194c Delete type=2 #4322
+2025/04/20-10:55:31.906 194c Delete type=2 #4327
+2025/04/20-10:55:31.907 194c Delete type=2 #4329

@@ -1,9 +1,10 @@
-2025/04/20-10:55:32.960 224 Log #5787: 2 ops saved to Table #5788 OK
-2025/04/20-10:55:32.960 224 Archiving C:/Users/DagonAgA/AppData/Local/FoundryVTT/Data/worlds/girls-frontline-tihij-dom/data/settings/005787.log: OK
-2025/04/20-10:55:32.960 224 Table #5776: 67 entries OK
-2025/04/20-10:55:32.960 224 Table #5780: 2 entries OK
-2025/04/20-10:55:32.960 224 Table #5783: 2 entries OK
-2025/04/20-10:55:32.960 224 Table #5786: 2 entries OK
-2025/04/20-10:55:32.960 224 Table #5788: 2 entries OK
-2025/04/20-10:55:32.992 224 Archiving C:/Users/DagonAgA/AppData/Local/FoundryVTT/Data/worlds/girls-frontline-tihij-dom/data/settings/MANIFEST-005785: OK
-2025/04/20-10:55:33.044 224 **** Repaired leveldb C:/Users/DagonAgA/AppData/Local/FoundryVTT/Data/worlds/girls-frontline-tihij-dom/data/settings; recovered 5 files; 36102 bytes. Some data may have been lost. ****
+2025/04/20-10:55:33.139 224 Delete type=3 #1
+2025/04/20-10:55:33.139 194c Compacting 5@0 + 0@1 files
+2025/04/20-10:55:33.194 194c Generated table #5791@0: 67 keys, 28005 bytes
+2025/04/20-10:55:33.194 194c Compacted 5@0 + 0@1 files => 28005 bytes
+2025/04/20-10:55:33.260 194c compacted to: files[ 0 1 0 0 0 0 0 ]
+2025/04/20-10:55:33.260 194c Delete type=2 #5776
+2025/04/20-10:55:33.260 194c Delete type=2 #5780
+2025/04/20-10:55:33.260 194c Delete type=2 #5783
+2025/04/20-10:55:33.260 194c Delete type=2 #5786
+2025/04/20-10:55:33.267 194c Delete type=2 #5788
