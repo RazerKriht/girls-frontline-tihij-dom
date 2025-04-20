@@ -1,3 +1,5 @@
-2025/04/20-15:15:56.128 1ebc Recovering log #4466
-2025/04/20-15:15:56.234 1ebc Delete type=0 #4466
-2025/04/20-15:15:56.234 1ebc Delete type=3 #4465
+2025/04/20-20:01:33.555 1ee8 Recovering log #4471
+2025/04/20-20:01:33.555 1ee8 Level-0 table #4476: started
+2025/04/20-20:01:33.555 1ee8 Level-0 table #4476: 18449 bytes OK
+2025/04/20-20:01:33.555 1ee8 Delete type=0 #4471
+2025/04/20-20:01:33.555 1ee8 Delete type=3 #4470

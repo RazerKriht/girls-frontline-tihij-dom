@@ -1,5 +1,5 @@
-2025/04/20-15:15:57.898 1ebc Recovering log #5807
-2025/04/20-15:15:57.903 1ebc Level-0 table #5809: started
-2025/04/20-15:15:57.933 1ebc Level-0 table #5809: 2040 bytes OK
-2025/04/20-15:15:58.013 1ebc Delete type=0 #5807
-2025/04/20-15:15:58.013 1ebc Delete type=3 #5805
+2025/04/20-20:01:33.754 f38 Recovering log #5813
+2025/04/20-20:01:33.754 f38 Level-0 table #5816: started
+2025/04/20-20:01:33.754 f38 Level-0 table #5816: 2040 bytes OK
+2025/04/20-20:01:33.754 f38 Delete type=0 #5813
+2025/04/20-20:01:33.754 f38 Delete type=3 #5812

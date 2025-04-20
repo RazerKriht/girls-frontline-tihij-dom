@@ -1,3 +1,61 @@
-2025/04/20-14:08:51.440 a4c Recovering log #16241
-2025/04/20-14:08:51.742 a4c Delete type=0 #16241
-2025/04/20-14:08:51.742 a4c Delete type=3 #16239
+2025/04/20-18:14:25.914 730 Delete type=3 #1
+2025/04/20-18:14:25.914 1d5c Compacting 8@0 + 0@1 files
+2025/04/20-18:14:25.958 1d5c Generated table #16272@0: 1009 keys, 2116327 bytes
+2025/04/20-18:14:25.998 1d5c Generated table #16273@0: 3482 keys, 2127959 bytes
+2025/04/20-18:14:26.044 1d5c Generated table #16274@0: 3488 keys, 2129836 bytes
+2025/04/20-18:14:26.109 1d5c Generated table #16275@0: 3520 keys, 2128543 bytes
+2025/04/20-18:14:26.154 1d5c Generated table #16276@0: 3231 keys, 2127094 bytes
+2025/04/20-18:14:26.219 1d5c Generated table #16277@0: 3260 keys, 2127287 bytes
+2025/04/20-18:14:26.266 1d5c Generated table #16278@0: 3613 keys, 2131050 bytes
+2025/04/20-18:14:26.266 1d5c Compacted 8@0 + 0@1 files => 14888096 bytes
+2025/04/20-18:14:26.267 1d5c compacted to: files[ 5 7 0 0 0 0 0 ]
+2025/04/20-18:14:26.267 1d5c Delete type=2 #16261
+2025/04/20-18:14:26.267 1d5c Delete type=2 #16262
+2025/04/20-18:14:26.267 1d5c Delete type=2 #16263
+2025/04/20-18:14:26.267 1d5c Delete type=2 #16264
+2025/04/20-18:14:26.267 1d5c Delete type=2 #16265
+2025/04/20-18:14:26.267 1d5c Delete type=2 #16266
+2025/04/20-18:14:26.267 1d5c Delete type=2 #16267
+2025/04/20-18:14:26.267 1d5c Delete type=2 #16269
+2025/04/20-18:14:26.267 1d5c Moved #16272 to level-2 2116327 bytes OK: files[ 5 6 1 0 0 0 0 ]
+2025/04/20-18:14:26.267 1d5c Moved #16268 to level-1 112992 bytes OK: files[ 4 7 1 0 0 0 0 ]
+2025/04/20-18:14:26.267 1d5c Moved #16273 to level-2 2127959 bytes OK: files[ 4 6 2 0 0 0 0 ]
+2025/04/20-18:14:26.267 1d5c Moved #16274 to level-2 2129836 bytes OK: files[ 4 5 3 0 0 0 0 ]
+2025/04/20-18:14:26.267 1d5c Moved #16251 to level-1 2128707 bytes OK: files[ 3 6 3 0 0 0 0 ]
+2025/04/20-18:14:26.267 1d5c Moved #16275 to level-2 2128543 bytes OK: files[ 3 5 4 0 0 0 0 ]
+2025/04/20-19:46:10.537 1d5c Level-0 table #16280: started
+2025/04/20-19:46:10.582 1d5c Level-0 table #16280: 2572526 bytes OK
+2025/04/20-19:46:10.584 1d5c Delete type=0 #16271
+2025/04/20-19:46:10.585 1d5c Compacting 4@0 + 5@1 files
+2025/04/20-19:46:10.632 1d5c Generated table #16281@0: 3656 keys, 2133474 bytes
+2025/04/20-19:46:10.685 1d5c Generated table #16282@0: 3297 keys, 2127973 bytes
+2025/04/20-19:46:10.736 1d5c Generated table #16283@0: 3523 keys, 2128127 bytes
+2025/04/20-19:46:10.788 1d5c Generated table #16284@0: 3325 keys, 2128176 bytes
+2025/04/20-19:46:10.842 1d5c Generated table #16285@0: 3470 keys, 2127468 bytes
+2025/04/20-19:46:10.903 1d5c Generated table #16286@0: 3609 keys, 2128093 bytes
+2025/04/20-19:46:10.933 1d5c Generated table #16287@0: 3662 keys, 1412606 bytes
+2025/04/20-19:46:10.933 1d5c Compacted 4@0 + 5@1 files => 14185917 bytes
+2025/04/20-19:46:10.934 1d5c compacted to: files[ 0 7 4 0 0 0 0 ]
+2025/04/20-19:46:10.934 1d5c Delete type=2 #16251
+2025/04/20-19:46:10.934 1d5c Delete type=2 #16252
+2025/04/20-19:46:10.935 1d5c Delete type=2 #16253
+2025/04/20-19:46:10.935 1d5c Delete type=2 #16260
+2025/04/20-19:46:10.935 1d5c Delete type=2 #16268
+2025/04/20-19:46:10.935 1d5c Delete type=2 #16276
+2025/04/20-19:46:10.936 1d5c Delete type=2 #16277
+2025/04/20-19:46:10.936 1d5c Delete type=2 #16278
+2025/04/20-19:46:10.936 1d5c Delete type=2 #16280
+2025/04/20-19:46:10.936 1d5c Compacting 1@1 + 4@2 files
+2025/04/20-19:46:10.966 1d5c Generated table #16288@1: 1004 keys, 2116664 bytes
+2025/04/20-19:46:11.013 1d5c Generated table #16289@1: 3499 keys, 2128443 bytes
+2025/04/20-19:46:11.056 1d5c Generated table #16290@1: 3516 keys, 2128339 bytes
+2025/04/20-19:46:11.116 1d5c Generated table #16291@1: 3468 keys, 2128205 bytes
+2025/04/20-19:46:11.165 1d5c Generated table #16292@1: 2972 keys, 1972981 bytes
+2025/04/20-19:46:11.165 1d5c Compacted 1@1 + 4@2 files => 10474632 bytes
+2025/04/20-19:46:11.166 1d5c compacted to: files[ 0 6 5 0 0 0 0 ]
+2025/04/20-19:46:11.166 1d5c Delete type=2 #16272
+2025/04/20-19:46:11.166 1d5c Delete type=2 #16273
+2025/04/20-19:46:11.167 1d5c Delete type=2 #16274
+2025/04/20-19:46:11.167 1d5c Delete type=2 #16275
+2025/04/20-19:46:11.167 1d5c Delete type=2 #16281
+2025/04/20-19:46:11.169 1d5c Moved #16282 to level-2 2127973 bytes OK: files[ 0 5 6 0 0 0 0 ]
