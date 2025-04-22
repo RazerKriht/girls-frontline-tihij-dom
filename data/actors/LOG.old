@@ -1,36 +1,16 @@
-2025/04/22-11:13:18.395 1514 Recovering log #16367
-2025/04/22-11:13:18.398 1514 Level-0 table #16381: started
-2025/04/22-11:13:18.409 1514 Level-0 table #16381: 914294 bytes OK
-2025/04/22-11:13:18.412 1514 Delete type=0 #16367
-2025/04/22-11:13:18.412 1514 Delete type=3 #16365
-2025/04/22-11:13:18.536 1150 Compacting 1@0 + 3@1 files
-2025/04/22-11:13:18.596 1150 Generated table #16383@0: 3395 keys, 2128542 bytes
-2025/04/22-11:13:18.653 1150 Generated table #16384@0: 3599 keys, 2128104 bytes
-2025/04/22-11:13:18.690 1150 Generated table #16385@0: 3678 keys, 1435498 bytes
-2025/04/22-11:13:18.690 1150 Compacted 1@0 + 3@1 files => 5692144 bytes
-2025/04/22-11:13:18.691 1150 compacted to: files[ 0 3 8 0 0 0 0 ]
-2025/04/22-11:13:18.691 1150 Delete type=2 #16369
-2025/04/22-11:13:18.691 1150 Delete type=2 #16370
-2025/04/22-11:13:18.692 1150 Delete type=2 #16371
-2025/04/22-11:13:18.692 1150 Delete type=2 #16381
-2025/04/22-11:13:27.961 1150 Compacting 1@1 + 8@2 files
-2025/04/22-11:13:28.008 1150 Generated table #16386@1: 1010 keys, 2116677 bytes
-2025/04/22-11:13:28.055 1150 Generated table #16387@1: 3469 keys, 2128108 bytes
-2025/04/22-11:13:28.103 1150 Generated table #16388@1: 3526 keys, 2128268 bytes
-2025/04/22-11:13:28.148 1150 Generated table #16389@1: 3461 keys, 2127235 bytes
-2025/04/22-11:13:28.205 1150 Generated table #16390@1: 3211 keys, 2133607 bytes
-2025/04/22-11:13:28.256 1150 Generated table #16391@1: 3302 keys, 2127131 bytes
-2025/04/22-11:13:28.303 1150 Generated table #16392@1: 3602 keys, 2128126 bytes
-2025/04/22-11:13:28.349 1150 Generated table #16393@1: 3271 keys, 2127336 bytes
-2025/04/22-11:13:28.389 1150 Generated table #16394@1: 3023 keys, 1813051 bytes
-2025/04/22-11:13:28.389 1150 Compacted 1@1 + 8@2 files => 18829539 bytes
-2025/04/22-11:13:28.390 1150 compacted to: files[ 0 2 9 0 0 0 0 ]
-2025/04/22-11:13:28.390 1150 Delete type=2 #16372
-2025/04/22-11:13:28.390 1150 Delete type=2 #16373
-2025/04/22-11:13:28.391 1150 Delete type=2 #16374
-2025/04/22-11:13:28.391 1150 Delete type=2 #16375
-2025/04/22-11:13:28.391 1150 Delete type=2 #16376
-2025/04/22-11:13:28.391 1150 Delete type=2 #16377
-2025/04/22-11:13:28.392 1150 Delete type=2 #16378
-2025/04/22-11:13:28.392 1150 Delete type=2 #16379
-2025/04/22-11:13:28.392 1150 Delete type=2 #16383
+2025/04/22-16:56:23.932 11a4 Log #16397: 78 ops saved to Table #16410 OK
+2025/04/22-16:56:23.932 11a4 Archiving C:/Users/SystemX/AppData/Local/FoundryVTT/Data/worlds/girls-frontline-tihij-dom/data/actors/016397.log: OK
+2025/04/22-16:56:23.933 11a4 Table #16399: 3777 entries OK
+2025/04/22-16:56:23.943 11a4 Table #16400: 1010 entries OK
+2025/04/22-16:56:23.953 11a4 Table #16401: 3469 entries OK
+2025/04/22-16:56:23.953 11a4 Table #16402: 3526 entries OK
+2025/04/22-16:56:23.967 11a4 Table #16403: 3461 entries OK
+2025/04/22-16:56:23.972 11a4 Table #16404: 3211 entries OK
+2025/04/22-16:56:23.984 11a4 Table #16405: 3302 entries OK
+2025/04/22-16:56:23.992 11a4 Table #16406: 3600 entries OK
+2025/04/22-16:56:24.000 11a4 Table #16407: 3272 entries OK
+2025/04/22-16:56:24.004 11a4 Table #16408: 3680 entries OK
+2025/04/22-16:56:24.014 11a4 Table #16409: 2846 entries OK
+2025/04/22-16:56:24.014 11a4 Table #16410: 78 entries OK
+2025/04/22-16:56:24.016 11a4 Archiving C:/Users/SystemX/AppData/Local/FoundryVTT/Data/worlds/girls-frontline-tihij-dom/data/actors/MANIFEST-016395: OK
+2025/04/22-16:56:24.018 11a4 **** Repaired leveldb C:/Users/SystemX/AppData/Local/FoundryVTT/Data/worlds/girls-frontline-tihij-dom/data/actors; recovered 12 files; 22628035 bytes. Some data may have been lost. ****
