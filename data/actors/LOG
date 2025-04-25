@@ -1,16 +1,3 @@
-2025/04/25-15:47:22.682 1cec Recovering log #16721
-2025/04/25-15:47:22.684 1cec Level-0 table #16737: started
-2025/04/25-15:47:22.696 1cec Level-0 table #16737: 742500 bytes OK
-2025/04/25-15:47:22.700 1cec Delete type=0 #16721
-2025/04/25-15:47:22.701 1cec Delete type=3 #16719
-2025/04/25-15:47:22.840 2060 Compacting 1@0 + 0@1 files
-2025/04/25-15:47:22.840 2060 Generated table #16739@0: 127 keys, 3210 bytes
-2025/04/25-15:47:22.846 2060 Generated table #16740@0: 6 keys, 468 bytes
-2025/04/25-15:47:22.846 2060 Compacted 1@0 + 0@1 files => 3678 bytes
-2025/04/25-15:47:22.846 2060 compacted to: files[ 0 2 12 0 0 0 0 ]
-2025/04/25-15:47:31.519 2060 Compacting 1@1 + 2@2 files
-2025/04/25-15:47:31.534 2060 Generated table #16741@1: 995 keys, 2116498 bytes
-2025/04/25-15:47:31.588 2060 Generated table #16742@1: 3575 keys, 2132531 bytes
-2025/04/25-15:47:31.588 2060 Compacted 1@1 + 2@2 files => 4249029 bytes
-2025/04/25-15:47:31.588 2060 compacted to: files[ 0 1 12 0 0 0 0 ]
-2025/04/25-15:47:31.588 2060 Delete type=2 #16737
+2025/04/26-01:43:41.748 dbc Recovering log #16761
+2025/04/26-01:43:41.847 dbc Delete type=0 #16761
+2025/04/26-01:43:41.847 dbc Delete type=3 #16759

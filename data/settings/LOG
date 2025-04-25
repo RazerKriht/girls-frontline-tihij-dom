@@ -1,5 +1,5 @@
-2025/04/25-15:47:23.200 1cec Recovering log #5927
-2025/04/25-15:47:23.200 1cec Level-0 table #5930: started
-2025/04/25-15:47:23.200 1cec Level-0 table #5930: 2040 bytes OK
-2025/04/25-15:47:23.200 1cec Delete type=0 #5927
-2025/04/25-15:47:23.200 1cec Delete type=3 #5925
+2025/04/26-01:43:48.583 a04 Recovering log #5941
+2025/04/26-01:43:48.608 a04 Level-0 table #5943: started
+2025/04/26-01:43:48.649 a04 Level-0 table #5943: 2040 bytes OK
+2025/04/26-01:43:48.737 a04 Delete type=0 #5941
+2025/04/26-01:43:48.741 a04 Delete type=3 #5939
