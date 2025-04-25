@@ -1,3 +1,14 @@
-2025/04/24-12:00:09.108 5c0 Recovering log #4418
-2025/04/24-12:00:09.112 5c0 Delete type=0 #4418
-2025/04/24-12:00:09.112 5c0 Delete type=3 #4417
+2025/04/25-08:33:54.484 1104 Recovering log #4422
+2025/04/25-08:33:54.484 1104 Level-0 table #4424: started
+2025/04/25-08:33:54.484 1104 Level-0 table #4424: 753 bytes OK
+2025/04/25-08:33:54.489 1104 Delete type=0 #4422
+2025/04/25-08:33:54.489 1104 Delete type=3 #4421
+2025/04/25-08:33:54.719 aac Compacting 4@0 + 1@1 files
+2025/04/25-08:33:54.734 aac Generated table #4426@0: 199 keys, 29860 bytes
+2025/04/25-08:33:54.734 aac Compacted 4@0 + 1@1 files => 29860 bytes
+2025/04/25-08:33:54.739 aac compacted to: files[ 0 1 0 0 0 0 0 ]
+2025/04/25-08:33:54.739 aac Delete type=2 #4393
+2025/04/25-08:33:54.739 aac Delete type=2 #4395
+2025/04/25-08:33:54.739 aac Delete type=2 #4400
+2025/04/25-08:33:54.739 aac Delete type=2 #4409
+2025/04/25-08:33:54.739 aac Delete type=2 #4424
