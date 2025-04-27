@@ -1,3 +1,6 @@
-2025/04/27-01:23:49.595 76c Recovering log #4610
-2025/04/27-01:23:49.705 76c Delete type=0 #4610
-2025/04/27-01:23:49.706 76c Delete type=3 #4609
+2025/04/27-18:15:27.597 b5c Recovering log #4617
+2025/04/27-18:15:27.597 b5c Level-0 table #4620: started
+2025/04/27-18:15:27.600 b5c Level-0 table #4620: 227 bytes OK
+2025/04/27-18:15:27.602 b5c Delete type=0 #4617
+2025/04/27-18:15:27.602 b5c Delete type=3 #4616
+2025/04/27-18:15:27.657 6b4 Moved #4522 to level-1 3971 bytes OK: files[ 3 4 0 0 0 0 0 ]
