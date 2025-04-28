@@ -1,36 +1,35 @@
-2025/04/28-09:14:09.737 1e68 Recovering log #16982
-2025/04/28-09:14:09.738 1e68 Level-0 table #16996: started
-2025/04/28-09:14:09.752 1e68 Level-0 table #16996: 83757 bytes OK
-2025/04/28-09:14:09.755 1e68 Delete type=0 #16982
-2025/04/28-09:14:09.755 1e68 Delete type=3 #16980
-2025/04/28-09:14:09.973 1fbc Compacting 1@0 + 3@1 files
-2025/04/28-09:14:10.053 1fbc Generated table #16998@0: 3426 keys, 2127174 bytes
-2025/04/28-09:14:10.177 1fbc Generated table #16999@0: 3681 keys, 2129796 bytes
-2025/04/28-09:14:10.274 1fbc Generated table #17000@0: 4009 keys, 1610176 bytes
-2025/04/28-09:14:10.274 1fbc Compacted 1@0 + 3@1 files => 5867146 bytes
-2025/04/28-09:14:10.274 1fbc compacted to: files[ 0 3 8 0 0 0 0 ]
-2025/04/28-09:14:10.274 1fbc Delete type=2 #16984
-2025/04/28-09:14:10.274 1fbc Delete type=2 #16985
-2025/04/28-09:14:10.274 1fbc Delete type=2 #16986
-2025/04/28-09:14:10.274 1fbc Delete type=2 #16996
-2025/04/28-09:14:17.823 1fbc Compacting 1@1 + 8@2 files
-2025/04/28-09:14:17.892 1fbc Generated table #17001@1: 939 keys, 2118524 bytes
-2025/04/28-09:14:17.977 1fbc Generated table #17002@1: 3515 keys, 2130562 bytes
-2025/04/28-09:14:18.077 1fbc Generated table #17003@1: 3578 keys, 2130264 bytes
-2025/04/28-09:14:18.178 1fbc Generated table #17004@1: 3714 keys, 2128785 bytes
-2025/04/28-09:14:18.294 1fbc Generated table #17005@1: 3020 keys, 2125887 bytes
-2025/04/28-09:14:18.372 1fbc Generated table #17006@1: 3244 keys, 2127392 bytes
-2025/04/28-09:14:18.472 1fbc Generated table #17007@1: 3609 keys, 2130044 bytes
-2025/04/28-09:14:18.579 1fbc Generated table #17008@1: 3352 keys, 2128360 bytes
-2025/04/28-09:14:18.641 1fbc Generated table #17009@1: 3278 keys, 1992555 bytes
-2025/04/28-09:14:18.641 1fbc Compacted 1@1 + 8@2 files => 19012373 bytes
-2025/04/28-09:14:18.657 1fbc compacted to: files[ 0 2 9 0 0 0 0 ]
-2025/04/28-09:14:18.657 1fbc Delete type=2 #16987
-2025/04/28-09:14:18.657 1fbc Delete type=2 #16988
-2025/04/28-09:14:18.657 1fbc Delete type=2 #16989
-2025/04/28-09:14:18.657 1fbc Delete type=2 #16990
-2025/04/28-09:14:18.657 1fbc Delete type=2 #16991
-2025/04/28-09:14:18.657 1fbc Delete type=2 #16992
-2025/04/28-09:14:18.657 1fbc Delete type=2 #16993
-2025/04/28-09:14:18.657 1fbc Delete type=2 #16994
-2025/04/28-09:14:18.657 1fbc Delete type=2 #16998
+2025/04/28-19:59:27.910 1c04 Recovering log #17067
+2025/04/28-19:59:27.912 1c04 Level-0 table #17081: started
+2025/04/28-19:59:27.919 1c04 Level-0 table #17081: 428087 bytes OK
+2025/04/28-19:59:27.922 1c04 Delete type=0 #17067
+2025/04/28-19:59:27.922 1c04 Delete type=3 #17065
+2025/04/28-19:59:28.050 3dc Compacting 1@0 + 1@1 files
+2025/04/28-19:59:28.055 3dc Generated table #17083@0: 37 keys, 87595 bytes
+2025/04/28-19:59:28.102 3dc Generated table #17084@0: 4329 keys, 1812519 bytes
+2025/04/28-19:59:28.102 3dc Compacted 1@0 + 1@1 files => 1900114 bytes
+2025/04/28-19:59:28.103 3dc compacted to: files[ 0 2 10 0 0 0 0 ]
+2025/04/28-19:59:36.933 3dc Compacting 1@1 + 9@2 files
+2025/04/28-19:59:36.958 3dc Generated table #17085@1: 935 keys, 2115246 bytes
+2025/04/28-19:59:37.007 3dc Generated table #17086@1: 3517 keys, 2133562 bytes
+2025/04/28-19:59:37.069 3dc Generated table #17087@1: 3579 keys, 2131425 bytes
+2025/04/28-19:59:37.116 3dc Generated table #17088@1: 3723 keys, 2130548 bytes
+2025/04/28-19:59:37.165 3dc Generated table #17089@1: 3013 keys, 2128553 bytes
+2025/04/28-19:59:37.218 3dc Generated table #17090@1: 3252 keys, 2128302 bytes
+2025/04/28-19:59:37.274 3dc Generated table #17091@1: 3634 keys, 2128276 bytes
+2025/04/28-19:59:37.325 3dc Generated table #17092@1: 3327 keys, 2126923 bytes
+2025/04/28-19:59:37.375 3dc Generated table #17093@1: 3589 keys, 2128569 bytes
+2025/04/28-19:59:37.376 3dc Generated table #17094@1: 1 keys, 6822 bytes
+2025/04/28-19:59:37.376 3dc Compacted 1@1 + 9@2 files => 19158226 bytes
+2025/04/28-19:59:37.377 3dc compacted to: files[ 0 1 11 0 0 0 0 ]
+2025/04/28-19:59:37.377 3dc Delete type=2 #17069
+2025/04/28-19:59:37.377 3dc Delete type=2 #17070
+2025/04/28-19:59:37.377 3dc Delete type=2 #17071
+2025/04/28-19:59:37.378 3dc Delete type=2 #17072
+2025/04/28-19:59:37.378 3dc Delete type=2 #17073
+2025/04/28-19:59:37.378 3dc Delete type=2 #17074
+2025/04/28-19:59:37.379 3dc Delete type=2 #17075
+2025/04/28-19:59:37.379 3dc Delete type=2 #17076
+2025/04/28-19:59:37.379 3dc Delete type=2 #17077
+2025/04/28-19:59:37.380 3dc Delete type=2 #17078
+2025/04/28-19:59:37.380 3dc Delete type=2 #17081
+2025/04/28-19:59:37.380 3dc Delete type=2 #17083
