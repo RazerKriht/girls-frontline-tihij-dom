@@ -1,5 +1,5 @@
-2025/04/30-11:38:06.330 e08 Recovering log #17193
-2025/04/30-11:38:06.330 e08 Level-0 table #17205: started
-2025/04/30-11:38:06.332 e08 Level-0 table #17205: 16201 bytes OK
-2025/04/30-11:38:06.335 e08 Delete type=0 #17193
-2025/04/30-11:38:06.335 e08 Delete type=3 #17191
+2025/04/30-18:13:35.924 1aac Recovering log #17257
+2025/04/30-18:13:35.925 1aac Level-0 table #17259: started
+2025/04/30-18:13:35.928 1aac Level-0 table #17259: 49005 bytes OK
+2025/04/30-18:13:35.931 1aac Delete type=0 #17257
+2025/04/30-18:13:35.931 1aac Delete type=3 #17255
