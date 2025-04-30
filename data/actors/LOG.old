@@ -1,24 +1,5 @@
-2025/04/29-15:56:30.708 bec Recovering log #17132
-2025/04/29-15:56:30.708 bec Level-0 table #17144: started
-2025/04/29-15:56:30.708 bec Level-0 table #17144: 202714 bytes OK
-2025/04/29-15:56:30.717 bec Delete type=0 #17132
-2025/04/29-15:56:30.717 bec Delete type=3 #17130
-2025/04/29-15:56:30.848 11dc Compacting 1@0 + 1@1 files
-2025/04/29-15:56:30.850 11dc Generated table #17146@0: 155 keys, 48195 bytes
-2025/04/29-15:56:30.897 11dc Generated table #17147@0: 4437 keys, 1885077 bytes
-2025/04/29-15:56:30.897 11dc Compacted 1@0 + 1@1 files => 1933272 bytes
-2025/04/29-15:56:30.897 11dc compacted to: files[ 0 2 10 0 0 0 0 ]
-2025/04/29-15:56:37.890 11dc Compacting 1@1 + 9@2 files
-2025/04/29-15:56:37.922 11dc Generated table #17148@1: 929 keys, 2117991 bytes
-2025/04/29-15:56:37.974 11dc Generated table #17149@1: 3522 keys, 2130875 bytes
-2025/04/29-15:56:38.030 11dc Generated table #17150@1: 3570 keys, 2131888 bytes
-2025/04/29-15:56:38.092 11dc Generated table #17151@1: 3722 keys, 2130551 bytes
-2025/04/29-15:56:38.137 11dc Generated table #17152@1: 3020 keys, 2126257 bytes
-2025/04/29-15:56:38.184 11dc Generated table #17153@1: 3245 keys, 2128203 bytes
-2025/04/29-15:56:38.235 11dc Generated table #17154@1: 3780 keys, 2130927 bytes
-2025/04/29-15:56:38.286 11dc Generated table #17155@1: 3216 keys, 2127924 bytes
-2025/04/29-15:56:38.344 11dc Generated table #17156@1: 3389 keys, 1992377 bytes
-2025/04/29-15:56:38.344 11dc Compacted 1@1 + 9@2 files => 19016993 bytes
-2025/04/29-15:56:38.345 11dc compacted to: files[ 0 1 10 0 0 0 0 ]
-2025/04/29-15:56:38.345 11dc Delete type=2 #17134
-2025/04/29-15:56:38.345 11dc Delete type=2 #17144
+2025/04/30-11:38:06.330 e08 Recovering log #17193
+2025/04/30-11:38:06.330 e08 Level-0 table #17205: started
+2025/04/30-11:38:06.332 e08 Level-0 table #17205: 16201 bytes OK
+2025/04/30-11:38:06.335 e08 Delete type=0 #17193
+2025/04/30-11:38:06.335 e08 Delete type=3 #17191
