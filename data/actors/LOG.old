@@ -1,5 +1,85 @@
-2025/04/30-18:13:35.924 1aac Recovering log #17257
-2025/04/30-18:13:35.925 1aac Level-0 table #17259: started
-2025/04/30-18:13:35.928 1aac Level-0 table #17259: 49005 bytes OK
-2025/04/30-18:13:35.931 1aac Delete type=0 #17257
-2025/04/30-18:13:35.931 1aac Delete type=3 #17255
+2025/05/01-10:34:58.189 1d40 Recovering log #17344
+2025/05/01-10:34:58.198 1d40 Level-0 table #17346: started
+2025/05/01-10:34:58.269 1d40 Level-0 table #17346: 1680121 bytes OK
+2025/05/01-10:34:58.269 1d40 Delete type=0 #17344
+2025/05/01-10:34:58.269 1d40 Delete type=3 #17342
+2025/05/01-10:34:58.389 bbc Compacting 3@0 + 0@1 files
+2025/05/01-10:34:58.409 bbc Generated table #17348@0: 23 keys, 66197 bytes
+2025/05/01-10:34:58.420 bbc Generated table #17349@0: 180 keys, 130636 bytes
+2025/05/01-10:34:58.421 bbc Compacted 3@0 + 0@1 files => 196833 bytes
+2025/05/01-10:34:58.422 bbc compacted to: files[ 0 2 13 0 0 0 0 ]
+2025/05/01-10:35:05.278 bbc Compacting 1@1 + 8@2 files
+2025/05/01-10:35:05.369 bbc Generated table #17350@1: 823 keys, 2120924 bytes
+2025/05/01-10:35:05.450 bbc Generated table #17351@1: 3432 keys, 2128225 bytes
+2025/05/01-10:35:05.537 bbc Generated table #17352@1: 3532 keys, 2128672 bytes
+2025/05/01-10:35:05.621 bbc Generated table #17353@1: 3897 keys, 2130906 bytes
+2025/05/01-10:35:05.688 bbc Generated table #17354@1: 3165 keys, 2126218 bytes
+2025/05/01-10:35:05.766 bbc Generated table #17355@1: 3130 keys, 2126016 bytes
+2025/05/01-10:35:05.837 bbc Generated table #17356@1: 3580 keys, 2128431 bytes
+2025/05/01-10:35:06.004 bbc Generated table #17357@1: 3594 keys, 2130705 bytes
+2025/05/01-10:35:06.019 bbc Generated table #17358@1: 29 keys, 12148 bytes
+2025/05/01-10:35:06.019 bbc Compacted 1@1 + 8@2 files => 17032245 bytes
+2025/05/01-10:35:06.019 bbc compacted to: files[ 0 1 14 0 0 0 0 ]
+2025/05/01-10:35:06.019 bbc Delete type=2 #17328
+2025/05/01-10:35:06.019 bbc Delete type=2 #17329
+2025/05/01-10:35:06.019 bbc Delete type=2 #17330
+2025/05/01-10:35:06.019 bbc Delete type=2 #17331
+2025/05/01-10:35:06.019 bbc Delete type=2 #17332
+2025/05/01-10:35:06.019 bbc Delete type=2 #17333
+2025/05/01-10:35:06.019 bbc Delete type=2 #17334
+2025/05/01-10:35:06.019 bbc Delete type=2 #17335
+2025/05/01-10:35:06.019 bbc Delete type=2 #17340
+2025/05/01-10:35:06.019 bbc Delete type=2 #17343
+2025/05/01-10:35:06.019 bbc Delete type=2 #17346
+2025/05/01-10:35:06.019 bbc Delete type=2 #17348
+2025/05/01-10:35:06.050 bbc Compacting 1@1 + 2@2 files
+2025/05/01-10:35:06.164 bbc Generated table #17359@1: 3745 keys, 2129715 bytes
+2025/05/01-10:35:06.186 bbc Generated table #17360@1: 2557 keys, 804620 bytes
+2025/05/01-10:35:06.186 bbc Compacted 1@1 + 2@2 files => 2934335 bytes
+2025/05/01-10:35:06.186 bbc compacted to: files[ 0 0 14 0 0 0 0 ]
+2025/05/01-10:35:06.186 bbc Delete type=2 #17337
+2025/05/01-10:35:06.186 bbc Delete type=2 #17338
+2025/05/01-10:35:06.186 bbc Delete type=2 #17349
+2025/05/01-11:20:00.546 bbc Level-0 table #17362: started
+2025/05/01-11:20:00.594 bbc Level-0 table #17362: 2073532 bytes OK
+2025/05/01-11:20:00.595 bbc Delete type=0 #17347
+2025/05/01-11:21:29.302 bbc Compacting 1@0 + 0@1 files
+2025/05/01-11:21:29.314 bbc Generated table #17363@0: 896 keys, 374194 bytes
+2025/05/01-11:21:29.316 bbc Generated table #17364@0: 103 keys, 13161 bytes
+2025/05/01-11:21:29.316 bbc Compacted 1@0 + 0@1 files => 387355 bytes
+2025/05/01-11:21:29.316 bbc compacted to: files[ 0 2 14 0 0 0 0 ]
+2025/05/01-11:21:29.317 bbc Delete type=2 #17362
+2025/05/01-11:21:32.818 bbc Compacting 1@1 + 11@2 files
+2025/05/01-11:21:32.845 bbc Generated table #17365@1: 844 keys, 2114983 bytes
+2025/05/01-11:21:32.900 bbc Generated table #17366@1: 3357 keys, 2127716 bytes
+2025/05/01-11:21:32.946 bbc Generated table #17367@1: 3541 keys, 2129617 bytes
+2025/05/01-11:21:33.000 bbc Generated table #17368@1: 3916 keys, 2130797 bytes
+2025/05/01-11:21:33.054 bbc Generated table #17369@1: 3219 keys, 2126297 bytes
+2025/05/01-11:21:33.105 bbc Generated table #17370@1: 3046 keys, 2125338 bytes
+2025/05/01-11:21:33.157 bbc Generated table #17371@1: 3637 keys, 2129893 bytes
+2025/05/01-11:21:33.200 bbc Generated table #17372@1: 3721 keys, 2129400 bytes
+2025/05/01-11:21:33.241 bbc Generated table #17373@1: 3541 keys, 2128547 bytes
+2025/05/01-11:21:33.285 bbc Generated table #17374@1: 3672 keys, 2128760 bytes
+2025/05/01-11:21:33.287 bbc Generated table #17375@1: 61 keys, 34207 bytes
+2025/05/01-11:21:33.287 bbc Compacted 1@1 + 11@2 files => 21305555 bytes
+2025/05/01-11:21:33.288 bbc compacted to: files[ 0 1 14 0 0 0 0 ]
+2025/05/01-11:21:33.288 bbc Delete type=2 #17319
+2025/05/01-11:21:33.288 bbc Delete type=2 #17336
+2025/05/01-11:21:33.288 bbc Delete type=2 #17350
+2025/05/01-11:21:33.289 bbc Delete type=2 #17351
+2025/05/01-11:21:33.289 bbc Delete type=2 #17352
+2025/05/01-11:21:33.289 bbc Delete type=2 #17353
+2025/05/01-11:21:33.290 bbc Delete type=2 #17354
+2025/05/01-11:21:33.290 bbc Delete type=2 #17355
+2025/05/01-11:21:33.290 bbc Delete type=2 #17356
+2025/05/01-11:21:33.290 bbc Delete type=2 #17357
+2025/05/01-11:21:33.291 bbc Delete type=2 #17358
+2025/05/01-11:21:33.291 bbc Delete type=2 #17363
+2025/05/01-11:35:34.411 bbc Compacting 1@1 + 2@2 files
+2025/05/01-11:35:34.452 bbc Generated table #17376@1: 3744 keys, 2129258 bytes
+2025/05/01-11:35:34.468 bbc Generated table #17377@1: 2591 keys, 813619 bytes
+2025/05/01-11:35:34.468 bbc Compacted 1@1 + 2@2 files => 2942877 bytes
+2025/05/01-11:35:34.469 bbc compacted to: files[ 0 0 14 0 0 0 0 ]
+2025/05/01-11:35:34.469 bbc Delete type=2 #17359
+2025/05/01-11:35:34.470 bbc Delete type=2 #17360
+2025/05/01-11:35:34.470 bbc Delete type=2 #17364

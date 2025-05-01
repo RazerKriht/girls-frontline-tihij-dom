@@ -1,3 +1,43 @@
-2025/04/30-18:14:20.100 8fc Recovering log #17260
-2025/04/30-18:14:20.103 8fc Delete type=0 #17260
-2025/04/30-18:14:20.103 8fc Delete type=3 #17258
+2025/05/01-12:19:10.387 d58 Recovering log #17361
+2025/05/01-12:19:10.399 d58 Level-0 table #17379: started
+2025/05/01-12:19:10.417 d58 Level-0 table #17379: 889441 bytes OK
+2025/05/01-12:19:10.417 d58 Delete type=0 #17361
+2025/05/01-12:19:10.417 d58 Delete type=3 #17345
+2025/05/01-12:19:10.616 1bec Compacting 1@0 + 0@1 files
+2025/05/01-12:19:10.624 1bec Generated table #17381@0: 277 keys, 110569 bytes
+2025/05/01-12:19:10.626 1bec Generated table #17382@0: 10 keys, 2250 bytes
+2025/05/01-12:19:10.626 1bec Compacted 1@0 + 0@1 files => 112819 bytes
+2025/05/01-12:19:10.628 1bec compacted to: files[ 0 2 14 0 0 0 0 ]
+2025/05/01-12:19:10.764 1bec Compacting 1@1 + 10@2 files
+2025/05/01-12:19:10.797 1bec Generated table #17383@1: 846 keys, 2115922 bytes
+2025/05/01-12:19:10.849 1bec Generated table #17384@1: 3360 keys, 2127688 bytes
+2025/05/01-12:19:10.913 1bec Generated table #17385@1: 3541 keys, 2129789 bytes
+2025/05/01-12:19:10.982 1bec Generated table #17386@1: 3915 keys, 2131016 bytes
+2025/05/01-12:19:11.031 1bec Generated table #17387@1: 3232 keys, 2127901 bytes
+2025/05/01-12:19:11.078 1bec Generated table #17388@1: 3043 keys, 2125920 bytes
+2025/05/01-12:19:11.127 1bec Generated table #17389@1: 3629 keys, 2132568 bytes
+2025/05/01-12:19:11.178 1bec Generated table #17390@1: 3724 keys, 2128216 bytes
+2025/05/01-12:19:11.229 1bec Generated table #17391@1: 3557 keys, 2129449 bytes
+2025/05/01-12:19:11.298 1bec Generated table #17392@1: 3646 keys, 2119995 bytes
+2025/05/01-12:19:11.298 1bec Compacted 1@1 + 10@2 files => 21268464 bytes
+2025/05/01-12:19:11.298 1bec compacted to: files[ 0 1 14 0 0 0 0 ]
+2025/05/01-12:19:11.298 1bec Delete type=2 #17365
+2025/05/01-12:19:11.298 1bec Delete type=2 #17366
+2025/05/01-12:19:11.298 1bec Delete type=2 #17367
+2025/05/01-12:19:11.298 1bec Delete type=2 #17368
+2025/05/01-12:19:11.298 1bec Delete type=2 #17369
+2025/05/01-12:19:11.307 1bec Delete type=2 #17370
+2025/05/01-12:19:11.307 1bec Delete type=2 #17371
+2025/05/01-12:19:11.307 1bec Delete type=2 #17372
+2025/05/01-12:19:11.307 1bec Delete type=2 #17373
+2025/05/01-12:19:11.307 1bec Delete type=2 #17374
+2025/05/01-12:19:11.307 1bec Delete type=2 #17379
+2025/05/01-12:19:11.307 1bec Delete type=2 #17381
+2025/05/01-12:19:18.507 1bec Compacting 1@1 + 2@2 files
+2025/05/01-12:19:18.538 1bec Generated table #17393@1: 3744 keys, 2129260 bytes
+2025/05/01-12:19:18.560 1bec Generated table #17394@1: 2591 keys, 813663 bytes
+2025/05/01-12:19:18.560 1bec Compacted 1@1 + 2@2 files => 2942923 bytes
+2025/05/01-12:19:18.560 1bec compacted to: files[ 0 0 14 0 0 0 0 ]
+2025/05/01-12:19:18.560 1bec Delete type=2 #17376
+2025/05/01-12:19:18.560 1bec Delete type=2 #17377
+2025/05/01-12:19:18.560 1bec Delete type=2 #17382
