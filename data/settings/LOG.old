@@ -1,14 +1,5 @@
-2025/05/01-10:34:58.855 1d40 Recovering log #6113
-2025/05/01-10:34:58.856 1d40 Level-0 table #6115: started
-2025/05/01-10:34:58.856 1d40 Level-0 table #6115: 2129 bytes OK
-2025/05/01-10:34:58.859 1d40 Delete type=0 #6113
-2025/05/01-10:34:58.859 1d40 Delete type=3 #6111
-2025/05/01-10:34:58.859 bbc Compacting 4@0 + 1@1 files
-2025/05/01-10:34:58.859 bbc Generated table #6117@0: 67 keys, 28098 bytes
-2025/05/01-10:34:58.859 bbc Compacted 4@0 + 1@1 files => 28098 bytes
-2025/05/01-10:34:58.859 bbc compacted to: files[ 0 1 0 0 0 0 0 ]
-2025/05/01-10:34:58.859 bbc Delete type=2 #6104
-2025/05/01-10:34:58.859 bbc Delete type=2 #6106
-2025/05/01-10:34:58.859 bbc Delete type=2 #6109
-2025/05/01-10:34:58.859 bbc Delete type=2 #6112
-2025/05/01-10:34:58.859 bbc Delete type=2 #6115
+2025/05/01-18:33:17.985 18d0 Recovering log #6123
+2025/05/01-18:33:17.985 18d0 Level-0 table #6125: started
+2025/05/01-18:33:17.987 18d0 Level-0 table #6125: 2129 bytes OK
+2025/05/01-18:33:17.991 18d0 Delete type=0 #6123
+2025/05/01-18:33:17.991 18d0 Delete type=3 #6121
