@@ -1,19 +1,36 @@
-2025/05/02-20:56:03.846 16ac Log #17520: 240 ops saved to Table #17530 OK
-2025/05/02-20:56:03.855 16ac Archiving C:/Users/DagonAgA/AppData/Local/FoundryVTT/Data/worlds/girls-frontline-tihij-dom/data/actors/017520.log: OK
-2025/05/02-20:56:03.898 16ac Table #17486: 2061 entries OK
-2025/05/02-20:56:03.943 16ac Table #17501: 88 entries OK
-2025/05/02-20:56:03.995 16ac Table #17514: 3320 entries OK
-2025/05/02-20:56:04.042 16ac Table #17515: 3526 entries OK
-2025/05/02-20:56:04.105 16ac Table #17516: 3584 entries OK
-2025/05/02-20:56:04.146 16ac Table #17517: 2247 entries OK
-2025/05/02-20:56:04.156 16ac Table #17522: 3 entries OK
-2025/05/02-20:56:04.207 16ac Table #17523: 919 entries OK
-2025/05/02-20:56:04.245 16ac Table #17524: 3517 entries OK
-2025/05/02-20:56:04.293 16ac Table #17525: 3436 entries OK
-2025/05/02-20:56:04.339 16ac Table #17526: 3687 entries OK
-2025/05/02-20:56:04.365 16ac Table #17527: 3144 entries OK
-2025/05/02-20:56:04.466 16ac Table #17528: 3226 entries OK
-2025/05/02-20:56:04.516 16ac Table #17529: 3647 entries OK
-2025/05/02-20:56:04.526 16ac Table #17530: 240 entries OK
-2025/05/02-20:56:04.564 16ac Archiving C:/Users/DagonAgA/AppData/Local/FoundryVTT/Data/worlds/girls-frontline-tihij-dom/data/actors/MANIFEST-017518: OK
-2025/05/02-20:56:04.666 16ac **** Repaired leveldb C:/Users/DagonAgA/AppData/Local/FoundryVTT/Data/worlds/girls-frontline-tihij-dom/data/actors; recovered 15 files; 23315229 bytes. Some data may have been lost. ****
+2025/05/02-20:56:04.745 16ac Delete type=3 #1
+2025/05/02-20:56:04.745 1578 Compacting 15@0 + 0@1 files
+2025/05/02-20:56:04.976 1578 Generated table #17533@0: 919 keys, 2116079 bytes
+2025/05/02-20:56:05.356 1578 Generated table #17534@0: 3517 keys, 2128215 bytes
+2025/05/02-20:56:05.636 1578 Generated table #17535@0: 3436 keys, 2128830 bytes
+2025/05/02-20:56:05.984 1578 Generated table #17536@0: 3687 keys, 2128444 bytes
+2025/05/02-20:56:06.206 1578 Generated table #17537@0: 3144 keys, 2128035 bytes
+2025/05/02-20:56:06.347 1578 Generated table #17538@0: 3226 keys, 2126501 bytes
+2025/05/02-20:56:06.666 1578 Generated table #17539@0: 3647 keys, 2129953 bytes
+2025/05/02-20:56:06.887 1578 Generated table #17540@0: 3320 keys, 2128051 bytes
+2025/05/02-20:56:07.273 1578 Generated table #17541@0: 3526 keys, 2128907 bytes
+2025/05/02-20:56:07.563 1578 Generated table #17542@0: 3672 keys, 2127879 bytes
+2025/05/02-20:56:07.800 1578 Generated table #17543@0: 4307 keys, 1802098 bytes
+2025/05/02-20:56:07.800 1578 Compacted 15@0 + 0@1 files => 23072992 bytes
+2025/05/02-20:56:07.836 1578 compacted to: files[ 0 11 0 0 0 0 0 ]
+2025/05/02-20:56:07.836 1578 Delete type=2 #17486
+2025/05/02-20:56:07.836 1578 Delete type=2 #17501
+2025/05/02-20:56:07.839 1578 Delete type=2 #17514
+2025/05/02-20:56:07.842 1578 Delete type=2 #17515
+2025/05/02-20:56:07.844 1578 Delete type=2 #17516
+2025/05/02-20:56:07.846 1578 Delete type=2 #17517
+2025/05/02-20:56:07.849 1578 Delete type=2 #17522
+2025/05/02-20:56:07.850 1578 Delete type=2 #17523
+2025/05/02-20:56:07.851 1578 Delete type=2 #17524
+2025/05/02-20:56:07.851 1578 Delete type=2 #17525
+2025/05/02-20:56:07.857 1578 Delete type=2 #17526
+2025/05/02-20:56:07.861 1578 Delete type=2 #17527
+2025/05/02-20:56:07.863 1578 Delete type=2 #17528
+2025/05/02-20:56:07.865 1578 Delete type=2 #17529
+2025/05/02-20:56:07.868 1578 Delete type=2 #17530
+2025/05/02-20:56:09.245 1578 Moved #17533 to level-2 2116079 bytes OK: files[ 0 10 1 0 0 0 0 ]
+2025/05/02-20:56:09.336 1578 Moved #17534 to level-2 2128215 bytes OK: files[ 0 9 2 0 0 0 0 ]
+2025/05/02-20:56:09.395 1578 Moved #17535 to level-2 2128830 bytes OK: files[ 0 8 3 0 0 0 0 ]
+2025/05/02-20:56:09.436 1578 Moved #17536 to level-2 2128444 bytes OK: files[ 0 7 4 0 0 0 0 ]
+2025/05/02-20:56:09.486 1578 Moved #17537 to level-2 2128035 bytes OK: files[ 0 6 5 0 0 0 0 ]
+2025/05/02-20:56:09.541 1578 Moved #17538 to level-2 2126501 bytes OK: files[ 0 5 6 0 0 0 0 ]

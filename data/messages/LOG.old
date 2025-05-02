@@ -1,11 +1,15 @@
-2025/05/02-20:56:05.973 2444 Log #4731: 0 ops saved to Table #4732 OK
-2025/05/02-20:56:05.991 2444 Archiving C:/Users/DagonAgA/AppData/Local/FoundryVTT/Data/worlds/girls-frontline-tihij-dom/data/messages/004731.log: OK
-2025/05/02-20:56:06.052 2444 Table #4703: 2835 entries OK
-2025/05/02-20:56:06.110 2444 Table #4704: 2823 entries OK
-2025/05/02-20:56:06.225 2444 Table #4705: 2868 entries OK
-2025/05/02-20:56:06.347 2444 Table #4706: 174 entries OK
-2025/05/02-20:56:06.365 2444 Table #4720: 293 entries OK
-2025/05/02-20:56:06.365 2444 Table #4723: 2 entries OK
-2025/05/02-20:56:06.375 2444 Table #4728: 3 entries OK
-2025/05/02-20:56:06.516 2444 Archiving C:/Users/DagonAgA/AppData/Local/FoundryVTT/Data/worlds/girls-frontline-tihij-dom/data/messages/MANIFEST-004730: OK
-2025/05/02-20:56:06.746 2444 **** Repaired leveldb C:/Users/DagonAgA/AppData/Local/FoundryVTT/Data/worlds/girls-frontline-tihij-dom/data/messages; recovered 7 files; 6757997 bytes. Some data may have been lost. ****
+2025/05/02-20:56:07.086 2444 Delete type=3 #1
+2025/05/02-20:56:07.868 1578 Compacting 7@0 + 0@1 files
+2025/05/02-20:56:08.292 1578 Generated table #4735@0: 2826 keys, 2135067 bytes
+2025/05/02-20:56:08.596 1578 Generated table #4736@0: 2826 keys, 2133925 bytes
+2025/05/02-20:56:08.966 1578 Generated table #4737@0: 2870 keys, 2134564 bytes
+2025/05/02-20:56:09.099 1578 Generated table #4738@0: 469 keys, 351240 bytes
+2025/05/02-20:56:09.099 1578 Compacted 7@0 + 0@1 files => 6754796 bytes
+2025/05/02-20:56:09.146 1578 compacted to: files[ 0 4 0 0 0 0 0 ]
+2025/05/02-20:56:09.147 1578 Delete type=2 #4703
+2025/05/02-20:56:09.149 1578 Delete type=2 #4704
+2025/05/02-20:56:09.149 1578 Delete type=2 #4705
+2025/05/02-20:56:09.156 1578 Delete type=2 #4706
+2025/05/02-20:56:09.167 1578 Delete type=2 #4720
+2025/05/02-20:56:09.167 1578 Delete type=2 #4723
+2025/05/02-20:56:09.167 1578 Delete type=2 #4728

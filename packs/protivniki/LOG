@@ -1,1 +1,11 @@
-2025/05/02-20:56:13.276 16ac Delete type=3 #1
+2025/05/03-00:34:02.055 b6c Recovering log #4374
+2025/05/03-00:34:02.195 b6c Delete type=0 #4374
+2025/05/03-00:34:02.195 b6c Delete type=3 #4373
+2025/05/03-00:37:29.683 20dc Compacting 3@0 + 0@1 files
+2025/05/03-00:37:30.073 20dc Generated table #4377@0: 3695 keys, 2128840 bytes
+2025/05/03-00:37:30.454 20dc Generated table #4378@0: 3227 keys, 1477422 bytes
+2025/05/03-00:37:30.454 20dc Compacted 3@0 + 0@1 files => 3606262 bytes
+2025/05/03-00:37:30.487 20dc compacted to: files[ 0 2 0 0 0 0 0 ]
+2025/05/03-00:37:30.487 20dc Delete type=2 #4370
+2025/05/03-00:37:30.514 20dc Delete type=2 #4371
+2025/05/03-00:37:30.521 20dc Delete type=2 #4372
