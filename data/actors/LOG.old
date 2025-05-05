@@ -1,36 +1,27 @@
-2025/05/04-21:32:59.495 1d5c Recovering log #17769
-2025/05/04-21:32:59.501 1d5c Level-0 table #17783: started
-2025/05/04-21:32:59.522 1d5c Level-0 table #17783: 1663879 bytes OK
-2025/05/04-21:32:59.525 1d5c Delete type=0 #17769
-2025/05/04-21:32:59.525 1d5c Delete type=3 #17767
-2025/05/04-21:32:59.634 5d4 Compacting 1@0 + 4@1 files
-2025/05/04-21:32:59.682 5d4 Generated table #17785@0: 2912 keys, 2125602 bytes
-2025/05/04-21:32:59.732 5d4 Generated table #17786@0: 3470 keys, 2129688 bytes
-2025/05/04-21:32:59.795 5d4 Generated table #17787@0: 3367 keys, 2128252 bytes
-2025/05/04-21:32:59.836 5d4 Generated table #17788@0: 4087 keys, 1672001 bytes
-2025/05/04-21:32:59.836 5d4 Compacted 1@0 + 4@1 files => 8055543 bytes
-2025/05/04-21:32:59.837 5d4 compacted to: files[ 0 4 7 0 0 0 0 ]
-2025/05/04-21:32:59.837 5d4 Delete type=2 #17771
-2025/05/04-21:32:59.837 5d4 Delete type=2 #17772
-2025/05/04-21:32:59.837 5d4 Delete type=2 #17773
-2025/05/04-21:32:59.838 5d4 Delete type=2 #17774
-2025/05/04-21:32:59.838 5d4 Delete type=2 #17783
-2025/05/04-21:32:59.852 5d4 Compacting 1@1 + 7@2 files
-2025/05/04-21:32:59.880 5d4 Generated table #17789@1: 1102 keys, 2116691 bytes
-2025/05/04-21:32:59.923 5d4 Generated table #17790@1: 3371 keys, 2127761 bytes
-2025/05/04-21:32:59.966 5d4 Generated table #17791@1: 3382 keys, 2128514 bytes
-2025/05/04-21:33:00.010 5d4 Generated table #17792@1: 3256 keys, 2128186 bytes
-2025/05/04-21:33:00.056 5d4 Generated table #17793@1: 2814 keys, 2123965 bytes
-2025/05/04-21:33:00.109 5d4 Generated table #17794@1: 3291 keys, 2127617 bytes
-2025/05/04-21:33:00.165 5d4 Generated table #17795@1: 3627 keys, 2132349 bytes
-2025/05/04-21:33:00.211 5d4 Generated table #17796@1: 2683 keys, 1822519 bytes
-2025/05/04-21:33:00.211 5d4 Compacted 1@1 + 7@2 files => 16707602 bytes
-2025/05/04-21:33:00.212 5d4 compacted to: files[ 0 3 8 0 0 0 0 ]
-2025/05/04-21:33:00.212 5d4 Delete type=2 #17775
-2025/05/04-21:33:00.213 5d4 Delete type=2 #17776
-2025/05/04-21:33:00.213 5d4 Delete type=2 #17777
-2025/05/04-21:33:00.213 5d4 Delete type=2 #17778
-2025/05/04-21:33:00.213 5d4 Delete type=2 #17779
-2025/05/04-21:33:00.214 5d4 Delete type=2 #17780
-2025/05/04-21:33:00.214 5d4 Delete type=2 #17781
-2025/05/04-21:33:00.214 5d4 Delete type=2 #17785
+2025/05/05-07:24:59.309 19c0 Recovering log #17784
+2025/05/05-07:24:59.309 19c0 Level-0 table #17798: started
+2025/05/05-07:24:59.314 19c0 Level-0 table #17798: 51389 bytes OK
+2025/05/05-07:24:59.314 19c0 Delete type=0 #17784
+2025/05/05-07:24:59.314 19c0 Delete type=3 #17782
+2025/05/05-07:24:59.542 ec8 Compacting 1@0 + 3@1 files
+2025/05/05-07:24:59.584 ec8 Generated table #17800@0: 4784 keys, 2130287 bytes
+2025/05/05-07:24:59.624 ec8 Generated table #17801@0: 3438 keys, 2129868 bytes
+2025/05/05-07:24:59.655 ec8 Generated table #17802@0: 3420 keys, 1368098 bytes
+2025/05/05-07:24:59.655 ec8 Compacted 1@0 + 3@1 files => 5628253 bytes
+2025/05/05-07:24:59.655 ec8 compacted to: files[ 0 3 8 0 0 0 0 ]
+2025/05/05-07:24:59.655 ec8 Delete type=2 #17786
+2025/05/05-07:24:59.655 ec8 Delete type=2 #17787
+2025/05/05-07:24:59.655 ec8 Delete type=2 #17788
+2025/05/05-07:24:59.655 ec8 Delete type=2 #17798
+2025/05/05-07:25:07.645 ec8 Compacting 1@1 + 8@2 files
+2025/05/05-07:25:07.683 ec8 Generated table #17803@1: 1047 keys, 2116910 bytes
+2025/05/05-07:25:07.745 ec8 Generated table #17804@1: 3359 keys, 2128818 bytes
+2025/05/05-07:25:07.783 ec8 Generated table #17805@1: 3459 keys, 2127885 bytes
+2025/05/05-07:25:07.830 ec8 Generated table #17806@1: 3048 keys, 2128284 bytes
+2025/05/05-07:25:07.883 ec8 Generated table #17807@1: 2788 keys, 2124772 bytes
+2025/05/05-07:25:07.930 ec8 Generated table #17808@1: 3300 keys, 2127875 bytes
+2025/05/05-07:25:07.983 ec8 Generated table #17809@1: 3441 keys, 2130566 bytes
+2025/05/05-07:25:08.131 ec8 Generated table #17810@1: 3381 keys, 2127349 bytes
+2025/05/05-07:25:08.162 ec8 Generated table #17811@1: 1681 keys, 1119320 bytes
+2025/05/05-07:25:08.162 ec8 Compacted 1@1 + 8@2 files => 18131779 bytes
+2025/05/05-07:25:08.162 ec8 compacted to: files[ 0 2 9 0 0 0 0 ]

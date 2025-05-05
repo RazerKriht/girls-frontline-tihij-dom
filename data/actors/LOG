@@ -1,27 +1,35 @@
-2025/05/05-07:24:59.309 19c0 Recovering log #17784
-2025/05/05-07:24:59.309 19c0 Level-0 table #17798: started
-2025/05/05-07:24:59.314 19c0 Level-0 table #17798: 51389 bytes OK
-2025/05/05-07:24:59.314 19c0 Delete type=0 #17784
-2025/05/05-07:24:59.314 19c0 Delete type=3 #17782
-2025/05/05-07:24:59.542 ec8 Compacting 1@0 + 3@1 files
-2025/05/05-07:24:59.584 ec8 Generated table #17800@0: 4784 keys, 2130287 bytes
-2025/05/05-07:24:59.624 ec8 Generated table #17801@0: 3438 keys, 2129868 bytes
-2025/05/05-07:24:59.655 ec8 Generated table #17802@0: 3420 keys, 1368098 bytes
-2025/05/05-07:24:59.655 ec8 Compacted 1@0 + 3@1 files => 5628253 bytes
-2025/05/05-07:24:59.655 ec8 compacted to: files[ 0 3 8 0 0 0 0 ]
-2025/05/05-07:24:59.655 ec8 Delete type=2 #17786
-2025/05/05-07:24:59.655 ec8 Delete type=2 #17787
-2025/05/05-07:24:59.655 ec8 Delete type=2 #17788
-2025/05/05-07:24:59.655 ec8 Delete type=2 #17798
-2025/05/05-07:25:07.645 ec8 Compacting 1@1 + 8@2 files
-2025/05/05-07:25:07.683 ec8 Generated table #17803@1: 1047 keys, 2116910 bytes
-2025/05/05-07:25:07.745 ec8 Generated table #17804@1: 3359 keys, 2128818 bytes
-2025/05/05-07:25:07.783 ec8 Generated table #17805@1: 3459 keys, 2127885 bytes
-2025/05/05-07:25:07.830 ec8 Generated table #17806@1: 3048 keys, 2128284 bytes
-2025/05/05-07:25:07.883 ec8 Generated table #17807@1: 2788 keys, 2124772 bytes
-2025/05/05-07:25:07.930 ec8 Generated table #17808@1: 3300 keys, 2127875 bytes
-2025/05/05-07:25:07.983 ec8 Generated table #17809@1: 3441 keys, 2130566 bytes
-2025/05/05-07:25:08.131 ec8 Generated table #17810@1: 3381 keys, 2127349 bytes
-2025/05/05-07:25:08.162 ec8 Generated table #17811@1: 1681 keys, 1119320 bytes
-2025/05/05-07:25:08.162 ec8 Compacted 1@1 + 8@2 files => 18131779 bytes
-2025/05/05-07:25:08.162 ec8 compacted to: files[ 0 2 9 0 0 0 0 ]
+2025/05/05-10:10:18.501 21d4 Recovering log #17799
+2025/05/05-10:10:18.502 21d4 Level-0 table #17813: started
+2025/05/05-10:10:18.502 21d4 Level-0 table #17813: 649953 bytes OK
+2025/05/05-10:10:18.516 21d4 Delete type=2 #17789
+2025/05/05-10:10:18.517 21d4 Delete type=2 #17790
+2025/05/05-10:10:18.518 21d4 Delete type=2 #17791
+2025/05/05-10:10:18.518 21d4 Delete type=2 #17792
+2025/05/05-10:10:18.518 21d4 Delete type=2 #17793
+2025/05/05-10:10:18.518 21d4 Delete type=2 #17794
+2025/05/05-10:10:18.518 21d4 Delete type=2 #17795
+2025/05/05-10:10:18.518 21d4 Delete type=2 #17796
+2025/05/05-10:10:18.518 21d4 Delete type=0 #17799
+2025/05/05-10:10:18.521 21d4 Delete type=2 #17800
+2025/05/05-10:10:18.521 21d4 Delete type=3 #17797
+2025/05/05-10:10:18.651 1a1c Compacting 1@0 + 2@1 files
+2025/05/05-10:10:18.701 1a1c Generated table #17815@0: 3231 keys, 2127335 bytes
+2025/05/05-10:10:18.747 1a1c Generated table #17816@0: 3682 keys, 1478764 bytes
+2025/05/05-10:10:18.747 1a1c Compacted 1@0 + 2@1 files => 3606099 bytes
+2025/05/05-10:10:18.748 1a1c compacted to: files[ 0 2 9 0 0 0 0 ]
+2025/05/05-10:10:29.666 1a1c Compacting 1@1 + 9@2 files
+2025/05/05-10:10:29.698 1a1c Generated table #17817@1: 1045 keys, 2115895 bytes
+2025/05/05-10:10:29.742 1a1c Generated table #17818@1: 3364 keys, 2128818 bytes
+2025/05/05-10:10:29.787 1a1c Generated table #17819@1: 3456 keys, 2128889 bytes
+2025/05/05-10:10:29.832 1a1c Generated table #17820@1: 3045 keys, 2125525 bytes
+2025/05/05-10:10:29.880 1a1c Generated table #17821@1: 2788 keys, 2124771 bytes
+2025/05/05-10:10:29.929 1a1c Generated table #17822@1: 3300 keys, 2127875 bytes
+2025/05/05-10:10:29.998 1a1c Generated table #17823@1: 3442 keys, 2131772 bytes
+2025/05/05-10:10:30.058 1a1c Generated table #17824@1: 3380 keys, 2127249 bytes
+2025/05/05-10:10:30.112 1a1c Generated table #17825@1: 3268 keys, 2127643 bytes
+2025/05/05-10:10:30.139 1a1c Generated table #17826@1: 1592 keys, 1008527 bytes
+2025/05/05-10:10:30.139 1a1c Compacted 1@1 + 9@2 files => 20146964 bytes
+2025/05/05-10:10:30.139 1a1c compacted to: files[ 0 1 10 0 0 0 0 ]
+2025/05/05-10:10:30.140 1a1c Delete type=2 #17801
+2025/05/05-10:10:30.140 1a1c Delete type=2 #17802
+2025/05/05-10:10:30.140 1a1c Delete type=2 #17813
