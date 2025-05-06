@@ -1,18 +1,10 @@
-2025/05/06-13:25:38.841 964 Recovering log #18009
-2025/05/06-13:25:38.842 964 Level-0 table #18024: started
-2025/05/06-13:25:38.846 964 Level-0 table #18024: 365814 bytes OK
-2025/05/06-13:25:38.849 964 Delete type=0 #18009
-2025/05/06-13:25:38.849 964 Delete type=3 #18007
-2025/05/06-13:25:38.976 1fcc Compacting 1@0 + 0@1 files
-2025/05/06-13:25:38.978 1fcc Generated table #18026@0: 21 keys, 20566 bytes
-2025/05/06-13:25:38.980 1fcc Generated table #18027@0: 1 keys, 709 bytes
-2025/05/06-13:25:38.980 1fcc Compacted 1@0 + 0@1 files => 21275 bytes
-2025/05/06-13:25:38.981 1fcc compacted to: files[ 0 2 11 0 0 0 0 ]
-2025/05/06-13:25:46.016 1fcc Compacting 1@1 + 1@2 files
-2025/05/06-13:25:46.053 1fcc Generated table #18028@1: 984 keys, 2116464 bytes
-2025/05/06-13:25:46.054 1fcc Generated table #18029@1: 4 keys, 2992 bytes
-2025/05/06-13:25:46.054 1fcc Compacted 1@1 + 1@2 files => 2119456 bytes
-2025/05/06-13:25:46.055 1fcc compacted to: files[ 0 1 12 0 0 0 0 ]
-2025/05/06-13:25:46.055 1fcc Delete type=2 #18012
-2025/05/06-13:25:46.055 1fcc Delete type=2 #18024
-2025/05/06-13:25:46.056 1fcc Delete type=2 #18026
+2025/05/06-19:57:20.185 14c Recovering log #18032
+2025/05/06-19:57:20.197 14c Level-0 table #18040: started
+2025/05/06-19:57:20.213 14c Level-0 table #18040: 1203163 bytes OK
+2025/05/06-19:57:20.217 14c Delete type=0 #18032
+2025/05/06-19:57:20.217 14c Delete type=3 #18030
+2025/05/06-19:57:20.406 1a04 Compacting 1@0 + 0@1 files
+2025/05/06-19:57:20.412 1a04 Generated table #18042@0: 73 keys, 189016 bytes
+2025/05/06-19:57:20.413 1a04 Generated table #18043@0: 4 keys, 1319 bytes
+2025/05/06-19:57:20.413 1a04 Compacted 1@0 + 0@1 files => 190335 bytes
+2025/05/06-19:57:20.414 1a04 compacted to: files[ 0 2 11 0 0 0 0 ]
