@@ -1,1 +1,5 @@
-2025/05/07-17:51:37.204 4dc Delete type=3 #1
+2025/05/07-18:26:47.845 4cc Recovering log #4459
+2025/05/07-18:26:47.845 4cc Level-0 table #4461: started
+2025/05/07-18:26:47.848 4cc Level-0 table #4461: 55597 bytes OK
+2025/05/07-18:26:47.850 4cc Delete type=0 #4459
+2025/05/07-18:26:47.850 4cc Delete type=3 #4458

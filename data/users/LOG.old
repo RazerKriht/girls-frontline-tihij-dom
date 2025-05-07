@@ -1,8 +1,9 @@
-2025/05/07-17:51:37.390 570 Log #4146: 1 ops saved to Table #4147 OK
-2025/05/07-17:51:37.390 570 Archiving C:/Users/SystemX/AppData/Local/FoundryVTT/Data/worlds/girls-frontline-tihij-dom/data/users/004146.log: OK
-2025/05/07-17:51:37.391 570 Table #4085: 3 entries OK
-2025/05/07-17:51:37.391 570 Table #4107: 5 entries OK
-2025/05/07-17:51:37.391 570 Table #4114: 1 entries OK
-2025/05/07-17:51:37.391 570 Table #4147: 1 entries OK
-2025/05/07-17:51:37.391 570 Archiving C:/Users/SystemX/AppData/Local/FoundryVTT/Data/worlds/girls-frontline-tihij-dom/data/users/MANIFEST-004145: OK
-2025/05/07-17:51:37.391 570 **** Repaired leveldb C:/Users/SystemX/AppData/Local/FoundryVTT/Data/worlds/girls-frontline-tihij-dom/data/users; recovered 4 files; 4351 bytes. Some data may have been lost. ****
+2025/05/07-17:51:37.399 570 Delete type=3 #1
+2025/05/07-17:51:37.399 115c Compacting 4@0 + 0@1 files
+2025/05/07-17:51:37.402 115c Generated table #4150@0: 3 keys, 1561 bytes
+2025/05/07-17:51:37.402 115c Compacted 4@0 + 0@1 files => 1561 bytes
+2025/05/07-17:51:37.405 115c compacted to: files[ 0 1 0 0 0 0 0 ]
+2025/05/07-17:51:37.405 115c Delete type=2 #4085
+2025/05/07-17:51:37.405 115c Delete type=2 #4107
+2025/05/07-17:51:37.405 115c Delete type=2 #4114
+2025/05/07-17:51:37.405 115c Delete type=2 #4147
