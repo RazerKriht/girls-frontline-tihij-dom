@@ -1,13 +1,7 @@
-2025/05/07-11:07:52.377 1d68 Recovering log #6247
-2025/05/07-11:07:52.377 1d68 Level-0 table #6249: started
-2025/05/07-11:07:52.377 1d68 Level-0 table #6249: 2129 bytes OK
-2025/05/07-11:07:52.377 1d68 Delete type=0 #6247
-2025/05/07-11:07:52.377 1d68 Delete type=3 #6245
-2025/05/07-11:07:52.377 fd8 Compacting 4@0 + 0@1 files
-2025/05/07-11:07:52.377 fd8 Generated table #6251@0: 67 keys, 28105 bytes
-2025/05/07-11:07:52.377 fd8 Compacted 4@0 + 0@1 files => 28105 bytes
-2025/05/07-11:07:52.387 fd8 compacted to: files[ 0 1 0 0 0 0 0 ]
-2025/05/07-11:07:52.388 fd8 Delete type=2 #6241
-2025/05/07-11:07:52.388 fd8 Delete type=2 #6242
-2025/05/07-11:07:52.388 fd8 Delete type=2 #6246
-2025/05/07-11:07:52.388 fd8 Delete type=2 #6249
+2025/05/07-17:51:37.368 1b04 Log #6254: 3 ops saved to Table #6255 OK
+2025/05/07-17:51:37.368 1b04 Archiving C:/Users/SystemX/AppData/Local/FoundryVTT/Data/worlds/girls-frontline-tihij-dom/data/settings/006254.log: OK
+2025/05/07-17:51:37.369 1b04 Table #6251: 67 entries OK
+2025/05/07-17:51:37.369 1b04 Table #6253: 2 entries OK
+2025/05/07-17:51:37.369 1b04 Table #6255: 3 entries OK
+2025/05/07-17:51:37.371 1b04 Archiving C:/Users/SystemX/AppData/Local/FoundryVTT/Data/worlds/girls-frontline-tihij-dom/data/settings/MANIFEST-006252: OK
+2025/05/07-17:51:37.371 1b04 **** Repaired leveldb C:/Users/SystemX/AppData/Local/FoundryVTT/Data/worlds/girls-frontline-tihij-dom/data/settings; recovered 3 files; 32667 bytes. Some data may have been lost. ****

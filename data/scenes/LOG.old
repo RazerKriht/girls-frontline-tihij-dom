@@ -1,3 +1,6 @@
-2025/05/07-11:07:52.327 f34 Recovering log #5034
-2025/05/07-11:07:52.327 f34 Delete type=0 #5034
-2025/05/07-11:07:52.327 f34 Delete type=3 #5032
+2025/05/07-17:51:37.289 570 Log #5039: 98 ops saved to Table #5040 OK
+2025/05/07-17:51:37.289 570 Archiving C:/Users/SystemX/AppData/Local/FoundryVTT/Data/worlds/girls-frontline-tihij-dom/data/scenes/005039.log: OK
+2025/05/07-17:51:37.303 570 Table #5035: 7408 entries OK
+2025/05/07-17:51:37.303 570 Table #5040: 98 entries OK
+2025/05/07-17:51:37.304 570 Archiving C:/Users/SystemX/AppData/Local/FoundryVTT/Data/worlds/girls-frontline-tihij-dom/data/scenes/MANIFEST-005038: OK
+2025/05/07-17:51:37.304 570 **** Repaired leveldb C:/Users/SystemX/AppData/Local/FoundryVTT/Data/worlds/girls-frontline-tihij-dom/data/scenes; recovered 2 files; 1054005 bytes. Some data may have been lost. ****

@@ -1,3 +1,5 @@
-2025/05/07-11:07:52.305 f34 Recovering log #4227
-2025/05/07-11:07:52.308 f34 Delete type=0 #4227
-2025/05/07-11:07:52.308 f34 Delete type=3 #4226
+2025/05/07-17:51:37.254 4dc Log #4231: 0 ops saved to Table #4232 OK
+2025/05/07-17:51:37.254 4dc Archiving C:/Users/SystemX/AppData/Local/FoundryVTT/Data/worlds/girls-frontline-tihij-dom/data/playlists/004231.log: OK
+2025/05/07-17:51:37.254 4dc Table #4202: 104 entries OK
+2025/05/07-17:51:37.254 4dc Archiving C:/Users/SystemX/AppData/Local/FoundryVTT/Data/worlds/girls-frontline-tihij-dom/data/playlists/MANIFEST-004230: OK
+2025/05/07-17:51:37.260 4dc **** Repaired leveldb C:/Users/SystemX/AppData/Local/FoundryVTT/Data/worlds/girls-frontline-tihij-dom/data/playlists; recovered 1 files; 12969 bytes. Some data may have been lost. ****

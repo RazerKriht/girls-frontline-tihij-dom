@@ -1,24 +1,16 @@
-2025/05/07-11:07:51.873 1e60 Recovering log #18060
-2025/05/07-11:07:51.873 1e60 Level-0 table #18074: started
-2025/05/07-11:07:51.886 1e60 Level-0 table #18074: 288921 bytes OK
-2025/05/07-11:07:51.890 1e60 Delete type=0 #18060
-2025/05/07-11:07:51.890 1e60 Delete type=3 #18058
-2025/05/07-11:07:52.052 fd8 Moved #18074 to level-1 288921 bytes OK: files[ 0 5 7 0 0 0 0 ]
-2025/05/07-11:07:58.484 fd8 Compacting 1@1 + 7@2 files
-2025/05/07-11:07:58.514 fd8 Generated table #18076@1: 995 keys, 2115381 bytes
-2025/05/07-11:07:58.561 fd8 Generated table #18077@1: 3305 keys, 2127035 bytes
-2025/05/07-11:07:58.609 fd8 Generated table #18078@1: 3364 keys, 2128980 bytes
-2025/05/07-11:07:58.657 fd8 Generated table #18079@1: 3165 keys, 2127700 bytes
-2025/05/07-11:07:58.729 fd8 Generated table #18080@1: 3031 keys, 2126308 bytes
-2025/05/07-11:07:58.783 fd8 Generated table #18081@1: 3147 keys, 2127335 bytes
-2025/05/07-11:07:58.834 fd8 Generated table #18082@1: 3544 keys, 2112231 bytes
-2025/05/07-11:07:58.834 fd8 Compacted 1@1 + 7@2 files => 14864970 bytes
-2025/05/07-11:07:58.835 fd8 compacted to: files[ 0 4 7 0 0 0 0 ]
-2025/05/07-11:07:58.835 fd8 Delete type=2 #18066
-2025/05/07-11:07:58.835 fd8 Delete type=2 #18067
-2025/05/07-11:07:58.835 fd8 Delete type=2 #18068
-2025/05/07-11:07:58.836 fd8 Delete type=2 #18069
-2025/05/07-11:07:58.836 fd8 Delete type=2 #18070
-2025/05/07-11:07:58.836 fd8 Delete type=2 #18071
-2025/05/07-11:07:58.836 fd8 Delete type=2 #18072
-2025/05/07-11:07:58.837 fd8 Delete type=2 #18074
+2025/05/07-17:51:36.490 1b54 Log #18085: 534 ops saved to Table #18098 OK
+2025/05/07-17:51:36.490 1b54 Archiving C:/Users/SystemX/AppData/Local/FoundryVTT/Data/worlds/girls-frontline-tihij-dom/data/actors/018085.log: OK
+2025/05/07-17:51:36.504 1b54 Table #18087: 3472 entries OK
+2025/05/07-17:51:36.510 1b54 Table #18088: 3487 entries OK
+2025/05/07-17:51:36.519 1b54 Table #18089: 3512 entries OK
+2025/05/07-17:51:36.523 1b54 Table #18090: 995 entries OK
+2025/05/07-17:51:36.530 1b54 Table #18091: 3305 entries OK
+2025/05/07-17:51:36.538 1b54 Table #18092: 3364 entries OK
+2025/05/07-17:51:36.545 1b54 Table #18093: 3180 entries OK
+2025/05/07-17:51:36.552 1b54 Table #18094: 3031 entries OK
+2025/05/07-17:51:36.552 1b54 Table #18095: 3148 entries OK
+2025/05/07-17:51:36.560 1b54 Table #18096: 3633 entries OK
+2025/05/07-17:51:36.570 1b54 Table #18097: 3011 entries OK
+2025/05/07-17:51:36.570 1b54 Table #18098: 534 entries OK
+2025/05/07-17:51:36.570 1b54 Archiving C:/Users/SystemX/AppData/Local/FoundryVTT/Data/worlds/girls-frontline-tihij-dom/data/actors/MANIFEST-018083: OK
+2025/05/07-17:51:36.580 1b54 **** Repaired leveldb C:/Users/SystemX/AppData/Local/FoundryVTT/Data/worlds/girls-frontline-tihij-dom/data/actors; recovered 12 files; 23666171 bytes. Some data may have been lost. ****
