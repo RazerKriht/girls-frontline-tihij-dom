@@ -1,10 +1,37 @@
-2025/05/15-16:30:06.177 2588 Recovering log #19006
-2025/05/15-16:30:06.177 2588 Level-0 table #19015: started
-2025/05/15-16:30:06.180 2588 Level-0 table #19015: 30190 bytes OK
-2025/05/15-16:30:06.181 2588 Delete type=0 #19006
-2025/05/15-16:30:06.181 2588 Delete type=3 #19004
-2025/05/15-16:30:06.306 22f4 Compacting 1@0 + 0@1 files
-2025/05/15-16:30:06.310 22f4 Generated table #19017@0: 1 keys, 4831 bytes
-2025/05/15-16:30:06.311 22f4 Generated table #19018@0: 2 keys, 821 bytes
-2025/05/15-16:30:06.311 22f4 Compacted 1@0 + 0@1 files => 5652 bytes
-2025/05/15-16:30:06.312 22f4 compacted to: files[ 0 3 14 0 0 0 0 ]
+2025/05/15-17:20:14.660 224c Recovering log #19036
+2025/05/15-17:20:14.660 224c Level-0 table #19038: started
+2025/05/15-17:20:14.675 224c Level-0 table #19038: 339551 bytes OK
+2025/05/15-17:20:14.676 224c Delete type=0 #19036
+2025/05/15-17:20:14.680 224c Delete type=3 #19035
+2025/05/15-17:20:14.799 df4 Compacting 1@0 + 0@1 files
+2025/05/15-17:20:14.802 df4 Generated table #19040@0: 124 keys, 3125 bytes
+2025/05/15-17:20:14.803 df4 Generated table #19041@0: 6 keys, 451 bytes
+2025/05/15-17:20:14.804 df4 Compacted 1@0 + 0@1 files => 3576 bytes
+2025/05/15-17:20:14.804 df4 compacted to: files[ 0 2 14 0 0 0 0 ]
+2025/05/15-17:20:19.967 df4 Compacting 1@1 + 6@2 files
+2025/05/15-17:20:20.011 df4 Generated table #19042@1: 969 keys, 2116151 bytes
+2025/05/15-17:20:20.054 df4 Generated table #19043@1: 3226 keys, 2127361 bytes
+2025/05/15-17:20:20.099 df4 Generated table #19044@1: 3219 keys, 2127770 bytes
+2025/05/15-17:20:20.153 df4 Generated table #19045@1: 3481 keys, 2127792 bytes
+2025/05/15-17:20:20.199 df4 Generated table #19046@1: 3024 keys, 2126496 bytes
+2025/05/15-17:20:20.267 df4 Generated table #19047@1: 2922 keys, 2126766 bytes
+2025/05/15-17:20:20.267 df4 Compacted 1@1 + 6@2 files => 12752336 bytes
+2025/05/15-17:20:20.272 df4 compacted to: files[ 0 1 14 0 0 0 0 ]
+2025/05/15-17:20:20.272 df4 Delete type=2 #19024
+2025/05/15-17:20:20.272 df4 Delete type=2 #19025
+2025/05/15-17:20:20.273 df4 Delete type=2 #19026
+2025/05/15-17:20:20.273 df4 Delete type=2 #19027
+2025/05/15-17:20:20.273 df4 Delete type=2 #19028
+2025/05/15-17:20:20.273 df4 Delete type=2 #19029
+2025/05/15-17:20:20.274 df4 Delete type=2 #19038
+2025/05/15-17:20:20.274 df4 Delete type=2 #19040
+2025/05/15-17:31:38.436 df4 Level-0 table #19049: started
+2025/05/15-17:31:38.462 df4 Level-0 table #19049: 1726256 bytes OK
+2025/05/15-17:31:38.463 df4 Delete type=0 #19039
+2025/05/15-17:42:00.222 df4 Compacting 1@0 + 1@1 files
+2025/05/15-17:42:00.231 df4 Generated table #19050@0: 621 keys, 226820 bytes
+2025/05/15-17:42:00.233 df4 Generated table #19051@0: 290 keys, 11025 bytes
+2025/05/15-17:42:00.233 df4 Compacted 1@0 + 1@1 files => 237845 bytes
+2025/05/15-17:42:00.234 df4 compacted to: files[ 0 2 14 0 0 0 0 ]
+2025/05/15-17:42:00.234 df4 Delete type=2 #19041
+2025/05/15-17:42:00.235 df4 Delete type=2 #19049
