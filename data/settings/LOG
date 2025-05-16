@@ -1,5 +1,5 @@
-2025/05/15-18:36:04.369 1fb8 Recovering log #6498
-2025/05/15-18:36:04.370 1fb8 Level-0 table #6500: started
-2025/05/15-18:36:04.371 1fb8 Level-0 table #6500: 2131 bytes OK
-2025/05/15-18:36:04.375 1fb8 Delete type=0 #6498
-2025/05/15-18:36:04.375 1fb8 Delete type=3 #6496
+2025/05/16-14:08:15.692 11dc Recovering log #6504
+2025/05/16-14:08:15.693 11dc Level-0 table #6507: started
+2025/05/16-14:08:15.693 11dc Level-0 table #6507: 5071 bytes OK
+2025/05/16-14:08:15.693 11dc Delete type=0 #6504
+2025/05/16-14:08:15.693 11dc Delete type=3 #6502
