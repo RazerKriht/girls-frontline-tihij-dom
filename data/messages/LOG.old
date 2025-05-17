@@ -1,3 +1,14 @@
-2025/05/16-16:02:36.024 16fc Recovering log #5047
-2025/05/16-16:02:36.032 16fc Delete type=0 #5047
-2025/05/16-16:02:36.033 16fc Delete type=3 #5046
+2025/05/17-15:59:22.038 2388 Delete type=3 #1
+2025/05/17-15:59:22.039 22fc Compacting 6@0 + 0@1 files
+2025/05/17-15:59:23.086 22fc Generated table #5055@0: 2812 keys, 2134808 bytes
+2025/05/17-15:59:23.568 22fc Generated table #5056@0: 2813 keys, 2135216 bytes
+2025/05/17-15:59:24.115 22fc Generated table #5057@0: 2864 keys, 2136470 bytes
+2025/05/17-15:59:24.370 22fc Generated table #5058@0: 1100 keys, 837886 bytes
+2025/05/17-15:59:24.370 22fc Compacted 6@0 + 0@1 files => 7244380 bytes
+2025/05/17-15:59:24.433 22fc compacted to: files[ 0 4 0 0 0 0 0 ]
+2025/05/17-15:59:24.435 22fc Delete type=2 #5036
+2025/05/17-15:59:24.437 22fc Delete type=2 #5037
+2025/05/17-15:59:24.437 22fc Delete type=2 #5038
+2025/05/17-15:59:24.437 22fc Delete type=2 #5039
+2025/05/17-15:59:24.475 22fc Delete type=2 #5041
+2025/05/17-15:59:24.475 22fc Delete type=2 #5044

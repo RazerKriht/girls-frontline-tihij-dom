@@ -1,23 +1,13 @@
-2025/05/16-16:02:35.593 904 Recovering log #19162
-2025/05/16-16:02:35.595 904 Level-0 table #19164: started
-2025/05/16-16:02:35.600 904 Level-0 table #19164: 322985 bytes OK
-2025/05/16-16:02:35.603 904 Delete type=0 #19162
-2025/05/16-16:02:35.604 904 Delete type=3 #19161
-2025/05/16-16:02:35.731 8a0 Compacting 1@0 + 0@1 files
-2025/05/16-16:02:35.733 8a0 Generated table #19166@0: 125 keys, 3182 bytes
-2025/05/16-16:02:35.735 8a0 Generated table #19167@0: 6 keys, 451 bytes
-2025/05/16-16:02:35.735 8a0 Compacted 1@0 + 0@1 files => 3633 bytes
-2025/05/16-16:02:35.735 8a0 compacted to: files[ 0 2 12 0 0 0 0 ]
-2025/05/16-16:02:35.893 8a0 Compacting 1@1 + 4@2 files
-2025/05/16-16:02:35.924 8a0 Generated table #19168@1: 1037 keys, 2116641 bytes
-2025/05/16-16:02:35.981 8a0 Generated table #19169@1: 3279 keys, 2127037 bytes
-2025/05/16-16:02:36.033 8a0 Generated table #19170@1: 3227 keys, 2127805 bytes
-2025/05/16-16:02:36.081 8a0 Generated table #19171@1: 3259 keys, 2095026 bytes
-2025/05/16-16:02:36.081 8a0 Compacted 1@1 + 4@2 files => 8466509 bytes
-2025/05/16-16:02:36.082 8a0 compacted to: files[ 0 1 12 0 0 0 0 ]
-2025/05/16-16:02:36.082 8a0 Delete type=2 #19149
-2025/05/16-16:02:36.083 8a0 Delete type=2 #19150
-2025/05/16-16:02:36.083 8a0 Delete type=2 #19151
-2025/05/16-16:02:36.083 8a0 Delete type=2 #19152
-2025/05/16-16:02:36.084 8a0 Delete type=2 #19164
-2025/05/16-16:02:36.084 8a0 Delete type=2 #19166
+2025/05/17-15:59:20.573 134c Delete type=3 #1
+2025/05/17-15:59:20.607 22fc Moved #19177 to level-1 2116888 bytes OK: files[ 10 1 0 0 0 0 0 ]
+2025/05/17-15:59:20.614 22fc Moved #19178 to level-1 2127479 bytes OK: files[ 9 2 0 0 0 0 0 ]
+2025/05/17-15:59:20.655 22fc Moved #19179 to level-1 2127273 bytes OK: files[ 8 3 0 0 0 0 0 ]
+2025/05/17-15:59:20.673 22fc Moved #19180 to level-1 2128806 bytes OK: files[ 7 4 0 0 0 0 0 ]
+2025/05/17-15:59:20.696 22fc Moved #19181 to level-1 2126191 bytes OK: files[ 6 5 0 0 0 0 0 ]
+2025/05/17-15:59:20.716 22fc Moved #19182 to level-1 2126730 bytes OK: files[ 5 6 0 0 0 0 0 ]
+2025/05/17-15:59:20.736 22fc Moved #19183 to level-1 2127268 bytes OK: files[ 4 7 0 0 0 0 0 ]
+2025/05/17-15:59:20.761 22fc Moved #19177 to level-2 2116888 bytes OK: files[ 4 6 1 0 0 0 0 ]
+2025/05/17-15:59:20.787 22fc Moved #19178 to level-2 2127479 bytes OK: files[ 4 5 2 0 0 0 0 ]
+2025/05/17-15:59:20.796 22fc Moved #19179 to level-2 2127273 bytes OK: files[ 4 4 3 0 0 0 0 ]
+2025/05/17-15:59:20.826 22fc Moved #19184 to level-1 2126677 bytes OK: files[ 3 5 3 0 0 0 0 ]
+2025/05/17-15:59:20.846 22fc Moved #19180 to level-2 2128806 bytes OK: files[ 3 4 4 0 0 0 0 ]
