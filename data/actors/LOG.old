@@ -1,13 +1,3 @@
-2025/05/17-15:59:20.573 134c Delete type=3 #1
-2025/05/17-15:59:20.607 22fc Moved #19177 to level-1 2116888 bytes OK: files[ 10 1 0 0 0 0 0 ]
-2025/05/17-15:59:20.614 22fc Moved #19178 to level-1 2127479 bytes OK: files[ 9 2 0 0 0 0 0 ]
-2025/05/17-15:59:20.655 22fc Moved #19179 to level-1 2127273 bytes OK: files[ 8 3 0 0 0 0 0 ]
-2025/05/17-15:59:20.673 22fc Moved #19180 to level-1 2128806 bytes OK: files[ 7 4 0 0 0 0 0 ]
-2025/05/17-15:59:20.696 22fc Moved #19181 to level-1 2126191 bytes OK: files[ 6 5 0 0 0 0 0 ]
-2025/05/17-15:59:20.716 22fc Moved #19182 to level-1 2126730 bytes OK: files[ 5 6 0 0 0 0 0 ]
-2025/05/17-15:59:20.736 22fc Moved #19183 to level-1 2127268 bytes OK: files[ 4 7 0 0 0 0 0 ]
-2025/05/17-15:59:20.761 22fc Moved #19177 to level-2 2116888 bytes OK: files[ 4 6 1 0 0 0 0 ]
-2025/05/17-15:59:20.787 22fc Moved #19178 to level-2 2127479 bytes OK: files[ 4 5 2 0 0 0 0 ]
-2025/05/17-15:59:20.796 22fc Moved #19179 to level-2 2127273 bytes OK: files[ 4 4 3 0 0 0 0 ]
-2025/05/17-15:59:20.826 22fc Moved #19184 to level-1 2126677 bytes OK: files[ 3 5 3 0 0 0 0 ]
-2025/05/17-15:59:20.846 22fc Moved #19180 to level-2 2128806 bytes OK: files[ 3 4 4 0 0 0 0 ]
+2025/05/17-21:38:24.556 fdc Recovering log #19225
+2025/05/17-21:38:24.682 fdc Delete type=0 #19225
+2025/05/17-21:38:24.682 fdc Delete type=3 #19223
