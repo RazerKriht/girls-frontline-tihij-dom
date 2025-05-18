@@ -1,5 +1,9 @@
-2025/05/18-13:35:33.149 afc Recovering log #4727
-2025/05/18-13:35:33.339 afc Level-0 table #4731: started
-2025/05/18-13:35:33.429 afc Level-0 table #4731: 289536 bytes OK
-2025/05/18-13:35:33.598 afc Delete type=0 #4727
-2025/05/18-13:35:33.598 afc Delete type=3 #4725
+2025/05/18-19:24:37.018 1270 Delete type=3 #1
+2025/05/18-19:47:17.642 18c0 Compacting 3@0 + 0@1 files
+2025/05/18-19:47:17.699 18c0 Generated table #4738@0: 3555 keys, 2129287 bytes
+2025/05/18-19:47:17.735 18c0 Generated table #4739@0: 3513 keys, 1616735 bytes
+2025/05/18-19:47:17.735 18c0 Compacted 3@0 + 0@1 files => 3746022 bytes
+2025/05/18-19:47:17.736 18c0 compacted to: files[ 0 2 0 0 0 0 0 ]
+2025/05/18-19:47:17.736 18c0 Delete type=2 #4728
+2025/05/18-19:47:17.736 18c0 Delete type=2 #4729
+2025/05/18-19:47:17.736 18c0 Delete type=2 #4731
