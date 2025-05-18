@@ -1,5 +1,5 @@
-2025/05/17-21:38:26.788 1fc4 Recovering log #6531
-2025/05/17-21:38:26.788 1fc4 Level-0 table #6533: started
-2025/05/17-21:38:26.852 1fc4 Level-0 table #6533: 2131 bytes OK
-2025/05/17-21:38:27.075 1fc4 Delete type=0 #6531
-2025/05/17-21:38:27.075 1fc4 Delete type=3 #6529
+2025/05/18-13:35:31.839 afc Recovering log #6540
+2025/05/18-13:35:31.869 afc Level-0 table #6543: started
+2025/05/18-13:35:32.033 afc Level-0 table #6543: 2131 bytes OK
+2025/05/18-13:35:32.310 afc Delete type=0 #6540
+2025/05/18-13:35:32.310 afc Delete type=3 #6538

@@ -1,3 +1,33 @@
-2025/05/17-21:38:24.556 fdc Recovering log #19225
-2025/05/17-21:38:24.682 fdc Delete type=0 #19225
-2025/05/17-21:38:24.682 fdc Delete type=3 #19223
+2025/05/18-13:35:20.743 afc Recovering log #19273
+2025/05/18-13:35:20.794 afc Level-0 table #19289: started
+2025/05/18-13:35:20.887 afc Level-0 table #19289: 99048 bytes OK
+2025/05/18-13:35:20.968 afc Delete type=0 #19273
+2025/05/18-13:35:20.968 afc Delete type=3 #19257
+2025/05/18-13:35:25.468 1c3c Compacting 1@0 + 0@1 files
+2025/05/18-13:35:25.588 1c3c Generated table #19291@0: 22 keys, 18524 bytes
+2025/05/18-13:35:25.665 1c3c Generated table #19292@0: 1 keys, 1529 bytes
+2025/05/18-13:35:25.665 1c3c Compacted 1@0 + 0@1 files => 20053 bytes
+2025/05/18-13:35:25.699 1c3c compacted to: files[ 0 3 11 0 0 0 0 ]
+2025/05/18-13:35:25.699 1c3c Delete type=2 #19289
+2025/05/18-13:36:10.858 1c3c Compacting 1@1 + 9@2 files
+2025/05/18-13:36:10.996 1c3c Generated table #19293@1: 955 keys, 2117151 bytes
+2025/05/18-13:36:11.165 1c3c Generated table #19294@1: 3200 keys, 2126867 bytes
+2025/05/18-13:36:11.382 1c3c Generated table #19295@1: 3217 keys, 2127438 bytes
+2025/05/18-13:36:11.582 1c3c Generated table #19296@1: 3455 keys, 2128450 bytes
+2025/05/18-13:36:11.767 1c3c Generated table #19297@1: 2982 keys, 2124980 bytes
+2025/05/18-13:36:11.914 1c3c Generated table #19298@1: 2970 keys, 2128892 bytes
+2025/05/18-13:36:12.030 1c3c Generated table #19299@1: 3331 keys, 2128294 bytes
+2025/05/18-13:36:12.230 1c3c Generated table #19300@1: 3442 keys, 2131703 bytes
+2025/05/18-13:36:12.400 1c3c Generated table #19301@1: 3287 keys, 2107702 bytes
+2025/05/18-13:36:12.400 1c3c Compacted 1@1 + 9@2 files => 19121477 bytes
+2025/05/18-13:36:12.431 1c3c compacted to: files[ 0 2 11 0 0 0 0 ]
+2025/05/18-13:36:12.431 1c3c Delete type=2 #19277
+2025/05/18-13:36:12.431 1c3c Delete type=2 #19278
+2025/05/18-13:36:12.431 1c3c Delete type=2 #19279
+2025/05/18-13:36:12.431 1c3c Delete type=2 #19280
+2025/05/18-13:36:12.431 1c3c Delete type=2 #19281
+2025/05/18-13:36:12.431 1c3c Delete type=2 #19282
+2025/05/18-13:36:12.447 1c3c Delete type=2 #19283
+2025/05/18-13:36:12.447 1c3c Delete type=2 #19284
+2025/05/18-13:36:12.447 1c3c Delete type=2 #19285
+2025/05/18-13:36:12.447 1c3c Delete type=2 #19291
