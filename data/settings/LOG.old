@@ -1,5 +1,5 @@
-2025/05/21-17:24:31.639 810 Recovering log #6661
-2025/05/21-17:24:31.639 810 Level-0 table #6663: started
-2025/05/21-17:24:31.640 810 Level-0 table #6663: 2131 bytes OK
-2025/05/21-17:24:31.644 810 Delete type=0 #6661
-2025/05/21-17:24:31.644 810 Delete type=3 #6659
+2025/05/21-22:28:35.834 dac Recovering log #6671
+2025/05/21-22:28:35.834 dac Level-0 table #6673: started
+2025/05/21-22:28:35.838 dac Level-0 table #6673: 2131 bytes OK
+2025/05/21-22:28:35.841 dac Delete type=0 #6671
+2025/05/21-22:28:35.841 dac Delete type=3 #6669

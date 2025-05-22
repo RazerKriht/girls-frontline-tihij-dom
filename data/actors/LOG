@@ -1,5 +1,20 @@
-2025/05/21-17:33:51.822 19ac Recovering log #19674
-2025/05/21-17:33:51.822 19ac Level-0 table #19690: started
-2025/05/21-17:33:51.823 19ac Level-0 table #19690: 11067 bytes OK
-2025/05/21-17:33:51.826 19ac Delete type=0 #19674
-2025/05/21-17:33:51.826 19ac Delete type=3 #19672
+2025/05/22-09:14:33.220 e90 Recovering log #19701
+2025/05/22-09:14:33.220 e90 Level-0 table #19709: started
+2025/05/22-09:14:33.229 e90 Level-0 table #19709: 317841 bytes OK
+2025/05/22-09:14:33.230 e90 Delete type=0 #19701
+2025/05/22-09:14:33.230 e90 Delete type=3 #19699
+2025/05/22-09:14:33.439 10f4 Compacting 1@0 + 0@1 files
+2025/05/22-09:14:33.444 10f4 Generated table #19711@0: 12 keys, 53010 bytes
+2025/05/22-09:14:33.445 10f4 Generated table #19712@0: 1 keys, 800 bytes
+2025/05/22-09:14:33.445 10f4 Compacted 1@0 + 0@1 files => 53810 bytes
+2025/05/22-09:14:33.445 10f4 compacted to: files[ 0 2 14 0 0 0 0 ]
+2025/05/22-09:14:40.741 10f4 Compacting 1@1 + 5@2 files
+2025/05/22-09:14:40.785 10f4 Generated table #19713@1: 988 keys, 2117092 bytes
+2025/05/22-09:14:40.830 10f4 Generated table #19714@1: 3136 keys, 2125654 bytes
+2025/05/22-09:14:40.876 10f4 Generated table #19715@1: 3222 keys, 2130880 bytes
+2025/05/22-09:14:40.919 10f4 Generated table #19716@1: 3422 keys, 2128010 bytes
+2025/05/22-09:14:40.966 10f4 Generated table #19717@1: 2922 keys, 2124819 bytes
+2025/05/22-09:14:40.982 10f4 Generated table #19718@1: 18 keys, 9907 bytes
+2025/05/22-09:14:40.982 10f4 Compacted 1@1 + 5@2 files => 10636362 bytes
+2025/05/22-09:14:40.982 10f4 compacted to: files[ 0 1 15 0 0 0 0 ]
+2025/05/22-09:14:40.982 10f4 Delete type=2 #19709
