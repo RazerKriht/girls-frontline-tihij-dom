@@ -1,3 +1,6 @@
-2025/05/23-15:47:02.912 ec Recovering log #4405
-2025/05/23-15:47:02.912 ec Delete type=0 #4405
-2025/05/23-15:47:02.912 ec Delete type=3 #4404
+2025/05/24-19:09:16.733 ff8 Recovering log #4420
+2025/05/24-19:09:16.734 ff8 Level-0 table #4422: started
+2025/05/24-19:09:16.782 ff8 Level-0 table #4422: 195 bytes OK
+2025/05/24-19:09:16.873 ff8 Delete type=0 #4420
+2025/05/24-19:09:16.873 ff8 Delete type=3 #4419
+2025/05/24-19:09:16.913 1f4c Moved #4040 to level-1 1802 bytes OK: files[ 3 2 0 0 0 0 0 ]
