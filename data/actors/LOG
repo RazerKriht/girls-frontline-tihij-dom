@@ -1,38 +1,28 @@
-2025/05/25-12:23:19.535 1ca8 Recovering log #20009
-2025/05/25-12:23:19.699 1ca8 Level-0 table #20013: started
-2025/05/25-12:23:19.950 1ca8 Level-0 table #20013: 531642 bytes OK
-2025/05/25-12:23:20.051 1ca8 Delete type=2 #19949
-2025/05/25-12:23:20.051 1ca8 Delete type=2 #19971
-2025/05/25-12:23:20.082 1ca8 Delete type=2 #19997
-2025/05/25-12:23:20.097 1ca8 Delete type=0 #20009
-2025/05/25-12:23:20.097 1ca8 Delete type=3 #20008
-2025/05/25-12:23:23.005 fb8 Compacting 1@0 + 0@1 files
-2025/05/25-12:23:23.135 fb8 Generated table #20015@0: 44 keys, 86234 bytes
-2025/05/25-12:23:23.202 fb8 Generated table #20016@0: 5 keys, 5080 bytes
-2025/05/25-12:23:23.202 fb8 Compacted 1@0 + 0@1 files => 91314 bytes
-2025/05/25-12:23:23.238 fb8 compacted to: files[ 0 2 13 0 0 0 0 ]
-2025/05/25-12:23:23.239 fb8 Delete type=2 #20013
-2025/05/25-12:23:54.707 fb8 Compacting 1@1 + 10@2 files
-2025/05/25-12:23:54.923 fb8 Generated table #20017@1: 967 keys, 2118358 bytes
-2025/05/25-12:23:55.192 fb8 Generated table #20018@1: 3167 keys, 2128217 bytes
-2025/05/25-12:23:55.424 fb8 Generated table #20019@1: 3212 keys, 2129179 bytes
-2025/05/25-12:23:55.640 fb8 Generated table #20020@1: 3376 keys, 2127344 bytes
-2025/05/25-12:23:55.894 fb8 Generated table #20021@1: 2979 keys, 2126279 bytes
-2025/05/25-12:23:56.141 fb8 Generated table #20022@1: 2961 keys, 2125415 bytes
-2025/05/25-12:23:56.357 fb8 Generated table #20023@1: 3295 keys, 2128913 bytes
-2025/05/25-12:23:56.627 fb8 Generated table #20024@1: 3365 keys, 2128789 bytes
-2025/05/25-12:23:56.884 fb8 Generated table #20025@1: 3325 keys, 2129424 bytes
-2025/05/25-12:23:57.137 fb8 Generated table #20026@1: 3210 keys, 2106690 bytes
-2025/05/25-12:23:57.137 fb8 Compacted 1@1 + 10@2 files => 21248608 bytes
-2025/05/25-12:23:57.177 fb8 compacted to: files[ 0 1 13 0 0 0 0 ]
-2025/05/25-12:23:57.177 fb8 Delete type=2 #19998
-2025/05/25-12:23:57.177 fb8 Delete type=2 #19999
-2025/05/25-12:23:57.177 fb8 Delete type=2 #20000
-2025/05/25-12:23:57.198 fb8 Delete type=2 #20001
-2025/05/25-12:23:57.218 fb8 Delete type=2 #20002
-2025/05/25-12:23:57.218 fb8 Delete type=2 #20003
-2025/05/25-12:23:57.238 fb8 Delete type=2 #20004
-2025/05/25-12:23:57.238 fb8 Delete type=2 #20005
-2025/05/25-12:23:57.238 fb8 Delete type=2 #20006
-2025/05/25-12:23:57.238 fb8 Delete type=2 #20007
-2025/05/25-12:23:57.258 fb8 Delete type=2 #20015
+2025/05/26-11:48:39.636 106c Recovering log #20034
+2025/05/26-11:48:39.636 106c Level-0 table #20051: started
+2025/05/26-11:48:39.805 106c Level-0 table #20051: 55644 bytes OK
+2025/05/26-11:48:40.217 106c Delete type=0 #20034
+2025/05/26-11:48:40.217 106c Delete type=3 #20032
+2025/05/26-11:48:40.412 c2c Compacting 1@0 + 0@1 files
+2025/05/26-11:48:40.692 c2c Generated table #20053@0: 11 keys, 55127 bytes
+2025/05/26-11:48:41.349 c2c Generated table #20054@0: 1 keys, 2240 bytes
+2025/05/26-11:48:41.349 c2c Compacted 1@0 + 0@1 files => 57367 bytes
+2025/05/26-11:48:41.474 c2c compacted to: files[ 0 2 14 0 0 0 0 ]
+2025/05/26-11:48:41.482 c2c Delete type=2 #20051
+2025/05/26-11:49:07.964 c2c Compacting 1@1 + 6@2 files
+2025/05/26-11:49:08.218 c2c Generated table #20055@1: 960 keys, 2119223 bytes
+2025/05/26-11:49:08.588 c2c Generated table #20056@1: 3183 keys, 2126738 bytes
+2025/05/26-11:49:08.867 c2c Generated table #20057@1: 3181 keys, 2126950 bytes
+2025/05/26-11:49:09.052 c2c Generated table #20058@1: 3384 keys, 2128772 bytes
+2025/05/26-11:49:09.290 c2c Generated table #20059@1: 2997 keys, 2125305 bytes
+2025/05/26-11:49:09.568 c2c Generated table #20060@1: 2974 keys, 2127534 bytes
+2025/05/26-11:49:09.606 c2c Generated table #20061@1: 14 keys, 10440 bytes
+2025/05/26-11:49:09.606 c2c Compacted 1@1 + 6@2 files => 12764962 bytes
+2025/05/26-11:49:09.622 c2c compacted to: files[ 0 1 15 0 0 0 0 ]
+2025/05/26-11:49:09.622 c2c Delete type=2 #20037
+2025/05/26-11:49:09.622 c2c Delete type=2 #20038
+2025/05/26-11:49:09.622 c2c Delete type=2 #20039
+2025/05/26-11:49:09.622 c2c Delete type=2 #20040
+2025/05/26-11:49:09.622 c2c Delete type=2 #20041
+2025/05/26-11:49:09.622 c2c Delete type=2 #20042
+2025/05/26-11:49:09.622 c2c Delete type=2 #20053
