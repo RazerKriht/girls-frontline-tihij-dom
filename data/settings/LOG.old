@@ -1,5 +1,5 @@
-2025/05/29-11:37:47.416 fa4 Recovering log #6824
-2025/05/29-11:37:47.416 fa4 Level-0 table #6826: started
-2025/05/29-11:37:47.416 fa4 Level-0 table #6826: 2131 bytes OK
-2025/05/29-11:37:47.426 fa4 Delete type=0 #6824
-2025/05/29-11:37:47.426 fa4 Delete type=3 #6822
+2025/05/29-18:31:35.507 c94 Recovering log #6834
+2025/05/29-18:31:35.508 c94 Level-0 table #6836: started
+2025/05/29-18:31:35.509 c94 Level-0 table #6836: 2131 bytes OK
+2025/05/29-18:31:35.511 c94 Delete type=0 #6834
+2025/05/29-18:31:35.511 c94 Delete type=3 #6832
