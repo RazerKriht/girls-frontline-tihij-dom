@@ -1,34 +1,19 @@
-2025/06/01-19:02:23.097 638 Delete type=3 #1
-2025/06/01-19:02:23.097 10fc Compacting 13@0 + 0@1 files
-2025/06/01-19:02:23.132 10fc Generated table #20458@0: 814 keys, 2115849 bytes
-2025/06/01-19:02:23.187 10fc Generated table #20459@0: 3182 keys, 2127405 bytes
-2025/06/01-19:02:23.237 10fc Generated table #20460@0: 3279 keys, 2129137 bytes
-2025/06/01-19:02:23.291 10fc Generated table #20461@0: 3550 keys, 2129843 bytes
-2025/06/01-19:02:23.347 10fc Generated table #20462@0: 3033 keys, 2126000 bytes
-2025/06/01-19:02:23.397 10fc Generated table #20463@0: 3023 keys, 2128778 bytes
-2025/06/01-19:02:23.448 10fc Generated table #20464@0: 3274 keys, 2131154 bytes
-2025/06/01-19:02:23.491 10fc Generated table #20465@0: 3483 keys, 2128460 bytes
-2025/06/01-19:02:23.543 10fc Generated table #20466@0: 3217 keys, 2129371 bytes
-2025/06/01-19:02:23.610 10fc Generated table #20467@0: 3420 keys, 2127882 bytes
-2025/06/01-19:02:23.660 10fc Generated table #20468@0: 3145 keys, 1919586 bytes
-2025/06/01-19:02:23.660 10fc Compacted 13@0 + 0@1 files => 23193465 bytes
-2025/06/01-19:02:23.660 10fc compacted to: files[ 2 11 0 0 0 0 0 ]
-2025/06/01-19:02:23.660 10fc Delete type=2 #20407
-2025/06/01-19:02:23.660 10fc Delete type=2 #20440
-2025/06/01-19:02:23.660 10fc Delete type=2 #20441
-2025/06/01-19:02:23.660 10fc Delete type=2 #20442
-2025/06/01-19:02:23.660 10fc Delete type=2 #20443
-2025/06/01-19:02:23.660 10fc Delete type=2 #20444
-2025/06/01-19:02:23.660 10fc Delete type=2 #20445
-2025/06/01-19:02:23.667 10fc Delete type=2 #20446
-2025/06/01-19:02:23.667 10fc Delete type=2 #20447
-2025/06/01-19:02:23.667 10fc Delete type=2 #20448
-2025/06/01-19:02:23.667 10fc Delete type=2 #20449
-2025/06/01-19:02:23.667 10fc Delete type=2 #20450
-2025/06/01-19:02:23.667 10fc Delete type=2 #20455
-2025/06/01-19:02:23.677 10fc Moved #20458 to level-2 2115849 bytes OK: files[ 2 10 1 0 0 0 0 ]
-2025/06/01-19:02:23.677 10fc Moved #20459 to level-2 2127405 bytes OK: files[ 2 9 2 0 0 0 0 ]
-2025/06/01-19:02:23.677 10fc Moved #20460 to level-2 2129137 bytes OK: files[ 2 8 3 0 0 0 0 ]
-2025/06/01-19:02:23.677 10fc Moved #20461 to level-2 2129843 bytes OK: files[ 2 7 4 0 0 0 0 ]
-2025/06/01-19:02:23.677 10fc Moved #20462 to level-2 2126000 bytes OK: files[ 2 6 5 0 0 0 0 ]
-2025/06/01-19:02:23.677 10fc Moved #20463 to level-2 2128778 bytes OK: files[ 2 5 6 0 0 0 0 ]
+2025/06/02-09:48:48.790 1b6c Log #20502: 339 ops saved to Table #20518 OK
+2025/06/02-09:48:48.790 1b6c Archiving C:/Users/SystemX/AppData/Local/FoundryVTT/Data/worlds/girls-frontline-tihij-dom/data/actors/020502.log: OK
+2025/06/02-09:48:48.790 1b6c Table #20478: 5 entries OK
+2025/06/02-09:48:48.799 1b6c Table #20505: 3369 entries OK
+2025/06/02-09:48:48.807 1b6c Table #20506: 3984 entries OK
+2025/06/02-09:48:48.809 1b6c Table #20507: 1583 entries OK
+2025/06/02-09:48:48.813 1b6c Table #20508: 828 entries OK
+2025/06/02-09:48:48.821 1b6c Table #20509: 3183 entries OK
+2025/06/02-09:48:48.828 1b6c Table #20510: 3274 entries OK
+2025/06/02-09:48:48.836 1b6c Table #20511: 3542 entries OK
+2025/06/02-09:48:48.842 1b6c Table #20512: 3047 entries OK
+2025/06/02-09:48:48.851 1b6c Table #20513: 3026 entries OK
+2025/06/02-09:48:48.858 1b6c Table #20514: 3260 entries OK
+2025/06/02-09:48:48.867 1b6c Table #20515: 3451 entries OK
+2025/06/02-09:48:48.873 1b6c Table #20516: 3213 entries OK
+2025/06/02-09:48:48.879 1b6c Table #20517: 2686 entries OK
+2025/06/02-09:48:48.882 1b6c Table #20518: 339 entries OK
+2025/06/02-09:48:48.884 1b6c Archiving C:/Users/SystemX/AppData/Local/FoundryVTT/Data/worlds/girls-frontline-tihij-dom/data/actors/MANIFEST-020469: OK
+2025/06/02-09:48:48.887 1b6c **** Repaired leveldb C:/Users/SystemX/AppData/Local/FoundryVTT/Data/worlds/girls-frontline-tihij-dom/data/actors; recovered 15 files; 26387398 bytes. Some data may have been lost. ****
