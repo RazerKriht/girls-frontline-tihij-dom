@@ -1,19 +1,38 @@
-2025/06/02-09:48:48.790 1b6c Log #20502: 339 ops saved to Table #20518 OK
-2025/06/02-09:48:48.790 1b6c Archiving C:/Users/SystemX/AppData/Local/FoundryVTT/Data/worlds/girls-frontline-tihij-dom/data/actors/020502.log: OK
-2025/06/02-09:48:48.790 1b6c Table #20478: 5 entries OK
-2025/06/02-09:48:48.799 1b6c Table #20505: 3369 entries OK
-2025/06/02-09:48:48.807 1b6c Table #20506: 3984 entries OK
-2025/06/02-09:48:48.809 1b6c Table #20507: 1583 entries OK
-2025/06/02-09:48:48.813 1b6c Table #20508: 828 entries OK
-2025/06/02-09:48:48.821 1b6c Table #20509: 3183 entries OK
-2025/06/02-09:48:48.828 1b6c Table #20510: 3274 entries OK
-2025/06/02-09:48:48.836 1b6c Table #20511: 3542 entries OK
-2025/06/02-09:48:48.842 1b6c Table #20512: 3047 entries OK
-2025/06/02-09:48:48.851 1b6c Table #20513: 3026 entries OK
-2025/06/02-09:48:48.858 1b6c Table #20514: 3260 entries OK
-2025/06/02-09:48:48.867 1b6c Table #20515: 3451 entries OK
-2025/06/02-09:48:48.873 1b6c Table #20516: 3213 entries OK
-2025/06/02-09:48:48.879 1b6c Table #20517: 2686 entries OK
-2025/06/02-09:48:48.882 1b6c Table #20518: 339 entries OK
-2025/06/02-09:48:48.884 1b6c Archiving C:/Users/SystemX/AppData/Local/FoundryVTT/Data/worlds/girls-frontline-tihij-dom/data/actors/MANIFEST-020469: OK
-2025/06/02-09:48:48.887 1b6c **** Repaired leveldb C:/Users/SystemX/AppData/Local/FoundryVTT/Data/worlds/girls-frontline-tihij-dom/data/actors; recovered 15 files; 26387398 bytes. Some data may have been lost. ****
+2025/06/02-11:30:07.863 1bb0 Recovering log #20520
+2025/06/02-11:30:07.871 1bb0 Level-0 table #20534: started
+2025/06/02-11:30:07.900 1bb0 Level-0 table #20534: 1763946 bytes OK
+2025/06/02-11:30:07.904 1bb0 Delete type=0 #20520
+2025/06/02-11:30:07.905 1bb0 Delete type=3 #20519
+2025/06/02-11:30:08.041 1d90 Compacting 1@0 + 5@1 files
+2025/06/02-11:30:08.090 1d90 Generated table #20536@0: 4685 keys, 2129278 bytes
+2025/06/02-11:30:08.136 1d90 Generated table #20537@0: 3157 keys, 2130447 bytes
+2025/06/02-11:30:08.181 1d90 Generated table #20538@0: 3360 keys, 2127166 bytes
+2025/06/02-11:30:08.236 1d90 Generated table #20539@0: 3394 keys, 2129581 bytes
+2025/06/02-11:30:08.289 1d90 Generated table #20540@0: 4398 keys, 1899262 bytes
+2025/06/02-11:30:08.289 1d90 Compacted 1@0 + 5@1 files => 10415734 bytes
+2025/06/02-11:30:08.290 1d90 compacted to: files[ 1 5 7 0 0 0 0 ]
+2025/06/02-11:30:08.290 1d90 Delete type=2 #20528
+2025/06/02-11:30:08.290 1d90 Delete type=2 #20529
+2025/06/02-11:30:08.290 1d90 Delete type=2 #20530
+2025/06/02-11:30:08.291 1d90 Delete type=2 #20531
+2025/06/02-11:30:08.291 1d90 Delete type=2 #20532
+2025/06/02-11:30:08.291 1d90 Delete type=2 #20534
+2025/06/02-11:30:14.027 1d90 Compacting 1@1 + 7@2 files
+2025/06/02-11:30:14.063 1d90 Generated table #20541@1: 952 keys, 2120691 bytes
+2025/06/02-11:30:14.113 1d90 Generated table #20542@1: 3111 keys, 2126636 bytes
+2025/06/02-11:30:14.162 1d90 Generated table #20543@1: 3198 keys, 2128302 bytes
+2025/06/02-11:30:14.212 1d90 Generated table #20544@1: 3511 keys, 2128053 bytes
+2025/06/02-11:30:14.258 1d90 Generated table #20545@1: 2921 keys, 2125451 bytes
+2025/06/02-11:30:14.318 1d90 Generated table #20546@1: 3000 keys, 2125266 bytes
+2025/06/02-11:30:14.376 1d90 Generated table #20547@1: 3284 keys, 2127020 bytes
+2025/06/02-11:30:14.404 1d90 Generated table #20548@1: 1717 keys, 1080392 bytes
+2025/06/02-11:30:14.404 1d90 Compacted 1@1 + 7@2 files => 15961811 bytes
+2025/06/02-11:30:14.405 1d90 compacted to: files[ 1 4 8 0 0 0 0 ]
+2025/06/02-11:30:14.405 1d90 Delete type=2 #20521
+2025/06/02-11:30:14.405 1d90 Delete type=2 #20522
+2025/06/02-11:30:14.406 1d90 Delete type=2 #20523
+2025/06/02-11:30:14.406 1d90 Delete type=2 #20524
+2025/06/02-11:30:14.406 1d90 Delete type=2 #20525
+2025/06/02-11:30:14.407 1d90 Delete type=2 #20526
+2025/06/02-11:30:14.407 1d90 Delete type=2 #20527
+2025/06/02-11:30:14.407 1d90 Delete type=2 #20536

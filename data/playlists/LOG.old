@@ -1,6 +1,3 @@
-2025/06/02-09:48:49.777 3f8 Log #4647: 72 ops saved to Table #4649 OK
-2025/06/02-09:48:49.778 3f8 Archiving C:/Users/SystemX/AppData/Local/FoundryVTT/Data/worlds/girls-frontline-tihij-dom/data/playlists/004647.log: OK
-2025/06/02-09:48:49.778 3f8 Table #4648: 115 entries OK
-2025/06/02-09:48:49.778 3f8 Table #4649: 72 entries OK
-2025/06/02-09:48:49.780 3f8 Archiving C:/Users/SystemX/AppData/Local/FoundryVTT/Data/worlds/girls-frontline-tihij-dom/data/playlists/MANIFEST-004645: OK
-2025/06/02-09:48:49.782 3f8 **** Repaired leveldb C:/Users/SystemX/AppData/Local/FoundryVTT/Data/worlds/girls-frontline-tihij-dom/data/playlists; recovered 2 files; 19046 bytes. Some data may have been lost. ****
+2025/06/02-11:30:08.377 1e74 Recovering log #4651
+2025/06/02-11:30:08.381 1e74 Delete type=0 #4651
+2025/06/02-11:30:08.381 1e74 Delete type=3 #4650

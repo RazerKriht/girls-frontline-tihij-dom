@@ -1,5 +1,3 @@
-2025/06/02-09:48:49.957 b6c Log #4324: 0 ops saved to Table #4325 OK
-2025/06/02-09:48:49.957 b6c Archiving C:\Users\SystemX\AppData\Local\FoundryVTT\Data\worlds\girls-frontline-tihij-dom\packs\moi-makrosy/004324.log: OK
-2025/06/02-09:48:49.957 b6c Table #3603: 7 entries OK
-2025/06/02-09:48:49.959 b6c Archiving C:\Users\SystemX\AppData\Local\FoundryVTT\Data\worlds\girls-frontline-tihij-dom\packs\moi-makrosy/MANIFEST-004323: OK
-2025/06/02-09:48:49.961 b6c **** Repaired leveldb C:\Users\SystemX\AppData\Local\FoundryVTT\Data\worlds\girls-frontline-tihij-dom\packs\moi-makrosy; recovered 1 files; 12981 bytes. Some data may have been lost. ****
+2025/06/02-11:30:08.490 1e74 Recovering log #4327
+2025/06/02-11:30:08.494 1e74 Delete type=0 #4327
+2025/06/02-11:30:08.494 1e74 Delete type=3 #4326

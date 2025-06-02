@@ -1,9 +1,5 @@
-2025/06/02-09:48:49.761 1928 Log #4563: 6 ops saved to Table #4564 OK
-2025/06/02-09:48:49.761 1928 Archiving C:/Users/SystemX/AppData/Local/FoundryVTT/Data/worlds/girls-frontline-tihij-dom/data/macros/004563.log: OK
-2025/06/02-09:48:49.761 1928 Table #2358: 2 entries OK
-2025/06/02-09:48:49.761 1928 Table #3724: 2 entries OK
-2025/06/02-09:48:49.762 1928 Table #4449: 9 entries OK
-2025/06/02-09:48:49.762 1928 Table #4545: 2 entries OK
-2025/06/02-09:48:49.762 1928 Table #4564: 6 entries OK
-2025/06/02-09:48:49.763 1928 Archiving C:/Users/SystemX/AppData/Local/FoundryVTT/Data/worlds/girls-frontline-tihij-dom/data/macros/MANIFEST-004562: OK
-2025/06/02-09:48:49.766 1928 **** Repaired leveldb C:/Users/SystemX/AppData/Local/FoundryVTT/Data/worlds/girls-frontline-tihij-dom/data/macros; recovered 5 files; 32602 bytes. Some data may have been lost. ****
+2025/06/02-11:30:08.368 1bb0 Recovering log #4566
+2025/06/02-11:30:08.368 1bb0 Level-0 table #4569: started
+2025/06/02-11:30:08.370 1bb0 Level-0 table #4569: 1951 bytes OK
+2025/06/02-11:30:08.373 1bb0 Delete type=0 #4566
+2025/06/02-11:30:08.375 1bb0 Delete type=3 #4565
