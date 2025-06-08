@@ -1,7 +1,3 @@
-2025/06/08-20:44:42.409 2218 Recovering log #4656
-2025/06/08-20:44:42.412 2218 Delete type=0 #4656
-2025/06/08-20:44:42.412 2218 Delete type=3 #4655
-2025/06/08-20:48:52.093 1fa4 Level-0 table #4660: started
-2025/06/08-20:48:52.094 1fa4 Level-0 table #4660: 0 bytes OK
-2025/06/08-20:48:52.095 1fa4 Delete type=0 #4658
-2025/06/08-20:48:52.754 1fa4 Manual compaction at level-0 from '!combats!2O1n0yjj1aFf9ScZ' @ 72057594037927935 : 1 .. '!combats.combatants!nRqz6ztYPMIAqz7I.xW7O1wPJOvvML9li' @ 0 : 0; will stop at (end)
+2025/06/08-22:46:54.095 fec Recovering log #4679
+2025/06/08-22:46:54.103 fec Delete type=0 #4679
+2025/06/08-22:46:54.103 fec Delete type=3 #4677
