@@ -1,3 +1,7 @@
-2025/06/07-21:59:55.643 bf4 Recovering log #5453
-2025/06/07-21:59:55.844 bf4 Delete type=0 #5453
-2025/06/07-21:59:55.844 bf4 Delete type=3 #5452
+2025/06/08-20:44:42.348 1ee4 Recovering log #5483
+2025/06/08-20:44:42.352 1ee4 Delete type=0 #5483
+2025/06/08-20:44:42.353 1ee4 Delete type=3 #5482
+2025/06/08-20:48:52.082 1fa4 Level-0 table #5487: started
+2025/06/08-20:48:52.082 1fa4 Level-0 table #5487: 0 bytes OK
+2025/06/08-20:48:52.084 1fa4 Delete type=0 #5485
+2025/06/08-20:48:52.090 1fa4 Manual compaction at level-0 from '!messages!00gitcjS8pCZMiBS' @ 72057594037927935 : 1 .. '!messages!zziswLergEF5vYHM' @ 0 : 0; will stop at (end)

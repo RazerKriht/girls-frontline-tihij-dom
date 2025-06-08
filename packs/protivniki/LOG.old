@@ -1,5 +1,7 @@
-2025/06/07-21:59:58.711 da8 Recovering log #5093
-2025/06/07-21:59:58.724 da8 Level-0 table #5095: started
-2025/06/07-21:59:58.794 da8 Level-0 table #5095: 287557 bytes OK
-2025/06/07-21:59:58.874 da8 Delete type=0 #5093
-2025/06/07-21:59:58.874 da8 Delete type=3 #5092
+2025/06/08-20:44:42.578 1d70 Recovering log #5126
+2025/06/08-20:44:42.581 1d70 Delete type=0 #5126
+2025/06/08-20:44:42.581 1d70 Delete type=3 #5125
+2025/06/08-20:48:52.782 1fa4 Level-0 table #5130: started
+2025/06/08-20:48:52.782 1fa4 Level-0 table #5130: 0 bytes OK
+2025/06/08-20:48:52.783 1fa4 Delete type=0 #5128
+2025/06/08-20:48:52.784 1fa4 Manual compaction at level-0 from '!actors!109HlymZhsW8xV9t' @ 72057594037927935 : 1 .. '!folders!vZWOODMMNXA1tP3G' @ 0 : 0; will stop at (end)

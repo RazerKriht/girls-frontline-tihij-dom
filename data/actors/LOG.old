@@ -1,38 +1,49 @@
-2025/06/07-21:59:54.354 da8 Recovering log #20769
-2025/06/07-21:59:54.390 da8 Level-0 table #20771: started
-2025/06/07-21:59:54.574 da8 Level-0 table #20771: 1061281 bytes OK
-2025/06/07-21:59:54.659 da8 Delete type=0 #20769
-2025/06/07-21:59:54.659 da8 Delete type=3 #20768
-2025/06/07-21:59:55.104 1a8c Compacting 1@0 + 4@1 files
-2025/06/07-21:59:55.339 1a8c Generated table #20773@0: 3166 keys, 2126618 bytes
-2025/06/07-21:59:55.741 1a8c Generated table #20774@0: 3448 keys, 2129526 bytes
-2025/06/07-21:59:56.093 1a8c Generated table #20775@0: 3273 keys, 2127534 bytes
-2025/06/07-21:59:56.324 1a8c Generated table #20776@0: 4116 keys, 1690909 bytes
-2025/06/07-21:59:56.324 1a8c Compacted 1@0 + 4@1 files => 8074587 bytes
-2025/06/07-21:59:56.344 1a8c compacted to: files[ 1 4 8 0 0 0 0 ]
-2025/06/07-21:59:56.344 1a8c Delete type=2 #20752
-2025/06/07-21:59:56.344 1a8c Delete type=2 #20753
-2025/06/07-21:59:56.344 1a8c Delete type=2 #20754
-2025/06/07-21:59:56.344 1a8c Delete type=2 #20755
-2025/06/07-21:59:56.344 1a8c Delete type=2 #20771
-2025/06/07-22:00:11.292 1a8c Compacting 1@1 + 8@2 files
-2025/06/07-22:00:11.433 1a8c Generated table #20777@1: 947 keys, 2116605 bytes
-2025/06/07-22:00:11.612 1a8c Generated table #20778@1: 3077 keys, 2126636 bytes
-2025/06/07-22:00:11.761 1a8c Generated table #20779@1: 3211 keys, 2128268 bytes
-2025/06/07-22:00:11.893 1a8c Generated table #20780@1: 3535 keys, 2131025 bytes
-2025/06/07-22:00:12.056 1a8c Generated table #20781@1: 2921 keys, 2125089 bytes
-2025/06/07-22:00:12.225 1a8c Generated table #20782@1: 2998 keys, 2126030 bytes
-2025/06/07-22:00:12.357 1a8c Generated table #20783@1: 3219 keys, 2127075 bytes
-2025/06/07-22:00:12.511 1a8c Generated table #20784@1: 3447 keys, 2129161 bytes
-2025/06/07-22:00:12.696 1a8c Generated table #20785@1: 2040 keys, 1402330 bytes
-2025/06/07-22:00:12.696 1a8c Compacted 1@1 + 8@2 files => 18412219 bytes
-2025/06/07-22:00:12.711 1a8c compacted to: files[ 1 3 9 0 0 0 0 ]
-2025/06/07-22:00:12.711 1a8c Delete type=2 #20756
-2025/06/07-22:00:12.711 1a8c Delete type=2 #20757
-2025/06/07-22:00:12.711 1a8c Delete type=2 #20758
-2025/06/07-22:00:12.711 1a8c Delete type=2 #20759
-2025/06/07-22:00:12.711 1a8c Delete type=2 #20760
-2025/06/07-22:00:12.711 1a8c Delete type=2 #20761
-2025/06/07-22:00:12.711 1a8c Delete type=2 #20762
-2025/06/07-22:00:12.711 1a8c Delete type=2 #20763
-2025/06/07-22:00:12.727 1a8c Delete type=2 #20773
+2025/06/08-20:44:41.952 2218 Recovering log #20903
+2025/06/08-20:44:41.955 2218 Delete type=0 #20903
+2025/06/08-20:44:41.955 2218 Delete type=3 #20902
+2025/06/08-20:48:52.079 1fa4 Level-0 table #20907: started
+2025/06/08-20:48:52.080 1fa4 Level-0 table #20907: 35503 bytes OK
+2025/06/08-20:48:52.081 1fa4 Delete type=0 #20905
+2025/06/08-20:48:52.085 1fa4 Manual compaction at level-0 from '!actors!0KGJomOzslRBPYQW' @ 72057594037927935 : 1 .. '!actors.items.effects!zW2QHacctWSf0tCq.PDCOeV363hledKTZ.XfIu5sS4q3YguQ2O' @ 0 : 0; will stop at '!actors.items.effects!OsuRd34AraH2qAxR.zZD8rkxHCE9wKzpN.dkOgCvuYZZNKv5y5' @ 1164698 : 0
+2025/06/08-20:48:52.085 1fa4 Compacting 1@0 + 0@1 files
+2025/06/08-20:48:52.087 1fa4 Generated table #20908@0: 3 keys, 12582 bytes
+2025/06/08-20:48:52.089 1fa4 Generated table #20909@0: 2 keys, 762 bytes
+2025/06/08-20:48:52.089 1fa4 Compacted 1@0 + 0@1 files => 13344 bytes
+2025/06/08-20:48:52.089 1fa4 compacted to: files[ 0 2 14 0 0 0 0 ]
+2025/06/08-20:48:52.090 1fa4 Delete type=2 #20907
+2025/06/08-20:48:52.092 1fa4 Manual compaction at level-0 from '!actors.items.effects!OsuRd34AraH2qAxR.zZD8rkxHCE9wKzpN.dkOgCvuYZZNKv5y5' @ 1164698 : 0 .. '!actors.items.effects!zW2QHacctWSf0tCq.PDCOeV363hledKTZ.XfIu5sS4q3YguQ2O' @ 0 : 0; will stop at (end)
+2025/06/08-20:48:52.095 1fa4 Manual compaction at level-1 from '!actors!0KGJomOzslRBPYQW' @ 72057594037927935 : 1 .. '!actors.items.effects!zW2QHacctWSf0tCq.PDCOeV363hledKTZ.XfIu5sS4q3YguQ2O' @ 0 : 0; will stop at '!actors.items.effects!OsuRd34AraH2qAxR.zZD8rkxHCE9wKzpN.dkOgCvuYZZNKv5y5' @ 1164698 : 0
+2025/06/08-20:48:52.095 1fa4 Compacting 2@1 + 14@2 files
+2025/06/08-20:48:52.127 1fa4 Generated table #20910@1: 601 keys, 2114615 bytes
+2025/06/08-20:48:52.173 1fa4 Generated table #20911@1: 3187 keys, 2126973 bytes
+2025/06/08-20:48:52.220 1fa4 Generated table #20912@1: 3224 keys, 2128136 bytes
+2025/06/08-20:48:52.276 1fa4 Generated table #20913@1: 3565 keys, 2129495 bytes
+2025/06/08-20:48:52.328 1fa4 Generated table #20914@1: 3033 keys, 2125596 bytes
+2025/06/08-20:48:52.386 1fa4 Generated table #20915@1: 3159 keys, 2125900 bytes
+2025/06/08-20:48:52.436 1fa4 Generated table #20916@1: 3039 keys, 2125217 bytes
+2025/06/08-20:48:52.490 1fa4 Generated table #20917@1: 3371 keys, 2128642 bytes
+2025/06/08-20:48:52.548 1fa4 Generated table #20918@1: 3559 keys, 2128208 bytes
+2025/06/08-20:48:52.602 1fa4 Generated table #20919@1: 3276 keys, 2130669 bytes
+2025/06/08-20:48:52.650 1fa4 Generated table #20920@1: 3251 keys, 2126633 bytes
+2025/06/08-20:48:52.692 1fa4 Generated table #20921@1: 3465 keys, 2128527 bytes
+2025/06/08-20:48:52.741 1fa4 Generated table #20922@1: 4384 keys, 2133337 bytes
+2025/06/08-20:48:52.747 1fa4 Generated table #20923@1: 921 keys, 224568 bytes
+2025/06/08-20:48:52.747 1fa4 Compacted 2@1 + 14@2 files => 27876516 bytes
+2025/06/08-20:48:52.748 1fa4 compacted to: files[ 0 0 14 0 0 0 0 ]
+2025/06/08-20:48:52.748 1fa4 Delete type=2 #20872
+2025/06/08-20:48:52.748 1fa4 Delete type=2 #20873
+2025/06/08-20:48:52.749 1fa4 Delete type=2 #20874
+2025/06/08-20:48:52.749 1fa4 Delete type=2 #20875
+2025/06/08-20:48:52.749 1fa4 Delete type=2 #20876
+2025/06/08-20:48:52.750 1fa4 Delete type=2 #20877
+2025/06/08-20:48:52.750 1fa4 Delete type=2 #20878
+2025/06/08-20:48:52.751 1fa4 Delete type=2 #20879
+2025/06/08-20:48:52.751 1fa4 Delete type=2 #20880
+2025/06/08-20:48:52.752 1fa4 Delete type=2 #20881
+2025/06/08-20:48:52.752 1fa4 Delete type=2 #20882
+2025/06/08-20:48:52.752 1fa4 Delete type=2 #20895
+2025/06/08-20:48:52.753 1fa4 Delete type=2 #20896
+2025/06/08-20:48:52.753 1fa4 Delete type=2 #20897
+2025/06/08-20:48:52.753 1fa4 Delete type=2 #20908
+2025/06/08-20:48:52.753 1fa4 Delete type=2 #20909
+2025/06/08-20:48:52.756 1fa4 Manual compaction at level-1 from '!actors.items.effects!OsuRd34AraH2qAxR.zZD8rkxHCE9wKzpN.dkOgCvuYZZNKv5y5' @ 1164698 : 0 .. '!actors.items.effects!zW2QHacctWSf0tCq.PDCOeV363hledKTZ.XfIu5sS4q3YguQ2O' @ 0 : 0; will stop at (end)
