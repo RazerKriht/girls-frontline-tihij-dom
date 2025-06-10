@@ -1,3 +1,10 @@
-2025/06/09-21:57:12.080 cb8 Recovering log #5556
-2025/06/09-21:57:12.084 cb8 Delete type=0 #5556
-2025/06/09-21:57:12.084 cb8 Delete type=3 #5555
+2025/06/10-10:09:36.208 1a58 Recovering log #5565
+2025/06/10-10:09:36.212 1a58 Delete type=0 #5565
+2025/06/10-10:09:36.212 1a58 Delete type=3 #5564
+2025/06/10-10:28:40.630 15bc Compacting 1@0 + 4@1 files
+2025/06/10-10:28:40.785 15bc Generated table #5568@0: 2810 keys, 2133589 bytes
+2025/06/10-10:28:40.853 15bc Generated table #5569@0: 2785 keys, 2134699 bytes
+2025/06/10-10:28:40.917 15bc Generated table #5570@0: 2826 keys, 2133543 bytes
+2025/06/10-10:28:40.969 15bc Generated table #5571@0: 2427 keys, 1836732 bytes
+2025/06/10-10:28:40.969 15bc Compacted 1@0 + 4@1 files => 8238563 bytes
+2025/06/10-10:28:40.970 15bc compacted to: files[ 0 4 0 0 0 0 0 ]
