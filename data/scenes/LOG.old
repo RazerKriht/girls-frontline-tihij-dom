@@ -1,3 +1,11 @@
-2025/06/11-18:28:41.399 e4c Recovering log #5837
-2025/06/11-18:28:41.405 e4c Delete type=0 #5837
-2025/06/11-18:28:41.405 e4c Delete type=3 #5836
+2025/06/11-20:41:03.534 1fac Recovering log #5841
+2025/06/11-20:41:03.534 1fac Level-0 table #5843: started
+2025/06/11-20:41:03.543 1fac Level-0 table #5843: 55930 bytes OK
+2025/06/11-20:41:03.546 1fac Delete type=0 #5841
+2025/06/11-20:41:03.546 1fac Delete type=3 #5840
+2025/06/11-20:41:11.287 d0 Compacting 1@0 + 1@1 files
+2025/06/11-20:41:11.318 d0 Generated table #5845@0: 7227 keys, 986708 bytes
+2025/06/11-20:41:11.318 d0 Compacted 1@0 + 1@1 files => 986708 bytes
+2025/06/11-20:41:11.318 d0 compacted to: files[ 0 1 0 0 0 0 0 ]
+2025/06/11-20:41:11.318 d0 Delete type=2 #5835
+2025/06/11-20:41:11.318 d0 Delete type=2 #5843
