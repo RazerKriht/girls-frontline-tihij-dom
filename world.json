@@ -3,13 +3,13 @@
   "id": "girls-frontline-tihij-dom",
   "system": "cyberpunk-red-core",
   "joinTheme": "default",
-  "coreVersion": "11.315",
+  "coreVersion": "12.343",
   "compatibility": {
-    "minimum": "11",
-    "verified": "11"
+    "minimum": "12",
+    "verified": "12.343"
   },
-  "systemVersion": "v0.88.2",
-  "lastPlayed": "Thu Jun 19 2025 20:16:28 GMT+0300 (Москва, стандартное время)",
+  "systemVersion": "v0.92.1",
+  "lastPlayed": "Wed Dec 31 2025 14:11:23 GMT+0300 (Москва, стандартное время)",
   "playtime": 109409,
   "background": "worlds/girls-frontline-tihij-dom/user_icons/tech_image/main_art.jpg",
   "packs": [

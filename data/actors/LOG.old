@@ -1,5 +1,20 @@
-2025/06/19-18:27:02.811 694 Recovering log #21353
-2025/06/19-18:27:02.811 694 Level-0 table #21366: started
-2025/06/19-18:27:02.820 694 Level-0 table #21366: 16063 bytes OK
-2025/06/19-18:27:02.820 694 Delete type=0 #21353
-2025/06/19-18:27:02.820 694 Delete type=3 #21351
+2025/12/31-14:11:12.547 3640 Log #21370: 46 ops saved to Table #21381 OK
+2025/12/31-14:11:12.547 3640 Archiving C:/Users/qrurick/AppData/Local/FoundryVTT/Data/worlds/girls-frontline-tihij-dom/data/actors/021370.log: OK
+2025/12/31-14:11:12.547 3640 Table #21318: 3430 entries OK
+2025/12/31-14:11:12.563 3640 Table #21333: 3376 entries OK
+2025/12/31-14:11:12.563 3640 Table #21334: 3486 entries OK
+2025/12/31-14:11:12.563 3640 Table #21335: 237 entries OK
+2025/12/31-14:11:12.563 3640 Table #21350: 29 entries OK
+2025/12/31-14:11:12.579 3640 Table #21364: 3195 entries OK
+2025/12/31-14:11:12.579 3640 Table #21372: 3334 entries OK
+2025/12/31-14:11:12.579 3640 Table #21373: 3740 entries OK
+2025/12/31-14:11:12.579 3640 Table #21374: 2431 entries OK
+2025/12/31-14:11:12.595 3640 Table #21375: 760 entries OK
+2025/12/31-14:11:12.595 3640 Table #21376: 3154 entries OK
+2025/12/31-14:11:12.595 3640 Table #21377: 3272 entries OK
+2025/12/31-14:11:12.611 3640 Table #21378: 3453 entries OK
+2025/12/31-14:11:12.611 3640 Table #21379: 3048 entries OK
+2025/12/31-14:11:12.611 3640 Table #21380: 2903 entries OK
+2025/12/31-14:11:12.611 3640 Table #21381: 46 entries OK
+2025/12/31-14:11:12.628 3640 Archiving C:/Users/qrurick/AppData/Local/FoundryVTT/Data/worlds/girls-frontline-tihij-dom/data/actors/MANIFEST-021368: OK
+2025/12/31-14:11:12.631 3640 **** Repaired leveldb C:/Users/qrurick/AppData/Local/FoundryVTT/Data/worlds/girls-frontline-tihij-dom/data/actors; recovered 16 files; 26248244 bytes. Some data may have been lost. ****
